@@ -18,7 +18,7 @@ TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "YOUR_CHAT_ID")
 TARGET_URL = "https://linux.do/hot"
 STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".hot_state.json")
 CHECK_INTERVAL = 300  # 5分钟检查一次
-PROXY_URL = os.getenv("PROXY_URL", "http://127.0.0.1:20171")  # 代理服务器
+PROXY_URL = os.getenv("PROXY_URL", "")  # 代理服务器（不设置则直连）
 MAX_CONTENT_LENGTH = 3500  # Telegram 消息最大 4096，保留空间给标题等
 # =================================
 
