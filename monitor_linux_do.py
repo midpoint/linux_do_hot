@@ -18,7 +18,7 @@ TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "YOUR_CHAT_ID")
 TARGET_URL = "https://linux.do/hot"
 STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".hot_state.json")
 MAX_CONTENT_LENGTH = 3500  # Telegram 消息最大 4096，保留空间给标题等
-PROXY_URL = os.getenv("PROXY_URL", "")  # 代理服务器
+SCRAPINGANT_API_KEY = os.getenv("SCRAPINGANT_API_KEY", "")  # ScrapingAnt API Key
 # =================================
 
 logging.basicConfig(
@@ -44,24 +44,38 @@ def save_state(state: dict):
         json.dump(state, f, ensure_ascii=False, indent=2)
 
 
-def fetch_hot_items() -> list[dict]:
-    """获取 linux.do/hot 页面的热门内容"""
-    headers = {
-        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    }
+def fetch_url(url: str) -> tuple[str, str]:
+    """使用 ScrapingAnt 获取页面内容"""
+    if not SCRAPINGANT_API_KEY:
+        # 如果没有 API Key，直接尝试本地请求
+        headers = {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
+        try:
+            resp = requests.get(url, headers=headers, timeout=30)
+            resp.raise_for_status()
+            return resp.text, ""
+        except Exception as e:
+            return "", str(e)
 
-    proxies = None
-    if PROXY_URL:
-        proxies = {"http": PROXY_URL, "https": PROXY_URL}
-
+    api_url = f"https://api.scrapingant.com/v2/frames?url={url}&x-api-key={SCRAPINGANT_API_KEY}"
     try:
-        resp = requests.get(TARGET_URL, headers=headers, proxies=proxies, timeout=30)
-        resp.raise_for_status()
+        resp = requests.get(api_url, timeout=60)
+        if resp.status_code != 200:
+            return "", f"API返回状态码: {resp.status_code}"
+        return resp.text, ""
     except Exception as e:
-        log.error(f"获取页面失败: {e}")
-        return [], str(e)
+        return "", str(e)
 
-    soup = BeautifulSoup(resp.text, "html.parser")
+
+def fetch_hot_items() -> tuple[list, str]:
+    """获取 linux.do/hot 页面的热门内容"""
+    html_content, error = fetch_url(TARGET_URL)
+    if error:
+        log.error(f"获取页面失败: {error}")
+        return [], error
+
+    soup = BeautifulSoup(html_content, "html.parser")
     items = []
 
     for a_tag in soup.select("a.raw-link"):
@@ -96,22 +110,12 @@ def fetch_hot_items() -> list[dict]:
 
 def fetch_first_post_content(topic_url: str) -> str:
     """获取帖子的第一条完整内容"""
-    headers = {
-        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    }
-
-    proxies = None
-    if PROXY_URL:
-        proxies = {"http": PROXY_URL, "https": PROXY_URL}
-
-    try:
-        resp = requests.get(topic_url, headers=headers, proxies=proxies, timeout=30)
-        resp.raise_for_status()
-    except Exception as e:
-        log.error(f"获取帖子失败: {e}")
+    html_content, error = fetch_url(topic_url)
+    if error:
+        log.error(f"获取帖子失败: {error}")
         return ""
 
-    soup = BeautifulSoup(resp.text, "html.parser")
+    soup = BeautifulSoup(html_content, "html.parser")
     posts = soup.select("div.post")
 
     if not posts:
@@ -176,8 +180,8 @@ def main():
     log.info("=" * 50)
     log.info("linux.do/hot 监控服务启动")
     log.info(f"目标: {TARGET_URL}")
-    if PROXY_URL:
-        log.info(f"代理: {PROXY_URL}")
+    if SCRAPINGANT_API_KEY:
+        log.info("使用 ScrapingAnt API")
     log.info("=" * 50)
 
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
