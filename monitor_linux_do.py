@@ -220,9 +220,14 @@ def main():
                 time.sleep(1)
 
         elif not prev_ids:
-            log.info(f"初始化完成，记录 {len(items)} 条")
-            msg = f"✅ <b>linux.do 监控初始化</b>\n\n⏰ {now}\n📭 记录 {len(items)} 条热门帖子"
-            send_telegram(msg)
+            log.info(f"首次运行，推送全部 {len(items)} 条热门内容")
+            for item in items:
+                log.info(f"推送: {item['title'][:50]}")
+                if send_post(item):
+                    log.info("  推送成功")
+                else:
+                    log.error("  推送失败")
+                time.sleep(1)
         else:
             log.info("无新内容")
             msg = f"✅ <b>linux.do 检查完成</b>\n\n⏰ {now}\n📭 暂无新热门帖子"
