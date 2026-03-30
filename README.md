@@ -4,51 +4,63 @@
 
 ## 功能
 
-- 每 3 小时自动检查 linux.do 热门话题
-- 检测新增帖子，单独推送每条（标题 + 第一条完整内容）
-- 使用环境变量配置，简单安全
+- 每天北京时间 6:00 和 14:00 自动检查 linux.do 热门话题（通过 GitHub Actions）
+- 检测新增帖子，推送标题和链接
+- 使用 ScrapingAnt API 解决 GitHub Actions 无法直接访问的问题
+- 所有配置通过 GitHub Secrets 管理，安全便捷
 
-## 环境变量
+## 环境变量（GitHub Secrets）
 
 | 变量 | 说明 | 必需 |
 |------|------|------|
 | `TELEGRAM_BOT_TOKEN` | Telegram Bot Token（从 @BotFather 获取） | 是 |
 | `TELEGRAM_CHAT_ID` | Telegram Chat ID（用户 ID 或频道 ID） | 是 |
-| `PROXY_URL` | 代理服务器地址，如 `http://127.0.0.1:20171` | 否（可选） |
-| `CHECK_INTERVAL` | 检查间隔（秒），默认 10800（3小时） | 否 |
+| `SCRAPINGANT_API_KEY` | ScrapingAnt API Key（用于网页抓取） | 是 |
 
-## 使用方法
+## 部署步骤
 
-### 1. 克隆项目
+### 1. 注册 ScrapingAnt
+
+1. 访问 [ScrapingAnt](https://scrapingant.com/) 注册账号
+2. 在 Dashboard 获取 API Key
+
+### 2. 配置 GitHub Secrets
+
+1. 打开仓库 **Settings → Secrets and variables → Actions**
+2. 添加以下 Secrets：
+   - `TELEGRAM_BOT_TOKEN`: 你的 Telegram Bot Token
+   - `TELEGRAM_CHAT_ID`: 你的 Telegram Chat ID
+   - `SCRAPINGANT_API_KEY`: ScrapingAnt API Key
+
+### 3. 手动触发测试
+
+在 GitHub 仓库页面：
+- 点击 **Actions** 标签
+- 选择 **Monitor linux.do/hot** workflow
+- 点击 **Run workflow** 手动触发测试
+
+## 定时任务
+
+- 每天北京时间 6:00（UTC 22:00）
+- 每天北京时间 14:00（UTC 06:00）
+
+## 本地运行
 
 ```bash
+# 克隆项目
 git clone https://github.com/midpoint/linux_do_hot.git
 cd linux_do_hot
-```
 
-### 2. 安装依赖
-
-```bash
+# 安装依赖
 pip3 install requests beautifulsoup4
-```
 
-### 3. 配置并运行
-
-```bash
+# 配置环境变量
 export TELEGRAM_BOT_TOKEN="你的BotToken"
 export TELEGRAM_CHAT_ID="你的ChatID"
-export PROXY_URL="http://127.0.0.1:20171"  # 如需要代理
+export SCRAPINGANT_API_KEY="你的ScrapingAntKey"
 
+# 运行
 python3 monitor_linux_do.py
-```
-
-### 4. 设置定时任务（每3小时）
-
-```bash
-crontab -e
-
-# 添加以下行：
-0 */3 * * * cd /path/to/linux_do_hot && TELEGRAM_BOT_TOKEN="xxx" TELEGRAM_CHAT_ID="yyy" PROXY_URL="http://xxx" python3 monitor_linux_do.py >> /tmp/linux_do_monitor.log 2>&1
 ```
 
 ## 状态文件
