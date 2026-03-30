@@ -184,44 +184,37 @@ def main():
 
     log.info(f"上次记录: {len(prev_ids)} 条")
 
-    while True:
-        try:
-            items = fetch_hot_items()
+    try:
+        items = fetch_hot_items()
 
-            if not items:
-                log.warning("未能获取到内容，等待下次检查")
-                time.sleep(CHECK_INTERVAL)
-                continue
+        if not items:
+            log.warning("未能获取到内容")
+            return
 
-            current_ids = set(item["id"] for item in items)
-            new_ids = current_ids - prev_ids
+        current_ids = set(item["id"] for item in items)
+        new_ids = current_ids - prev_ids
 
-            if new_ids and prev_ids:
-                log.info(f"检测到 {len(new_ids)} 条新内容!")
-                new_items = [item for item in items if item["id"] in new_ids]
+        if new_ids and prev_ids:
+            log.info(f"检测到 {len(new_ids)} 条新内容!")
+            new_items = [item for item in items if item["id"] in new_ids]
 
-                # 每个新帖子单独发送
-                for item in new_items:
-                    log.info(f"推送: {item['title'][:50]}")
-                    if send_post(item):
-                        log.info("  推送成功")
-                    else:
-                        log.error("  推送失败")
-                    time.sleep(1)  # 避免发送太快
+            for item in new_items:
+                log.info(f"推送: {item['title'][:50]}")
+                if send_post(item):
+                    log.info("  推送成功")
+                else:
+                    log.error("  推送失败")
+                time.sleep(1)
 
-                prev_ids = current_ids
-            elif not prev_ids:
-                prev_ids = current_ids
-                log.info(f"初始化完成，记录 {len(items)} 条")
-            else:
-                log.info("无新内容")
+        elif not prev_ids:
+            log.info(f"初始化完成，记录 {len(items)} 条")
+        else:
+            log.info("无新内容")
 
-            save_state({"ids": list(current_ids), "items": items})
+        save_state({"ids": list(current_ids), "items": items})
 
-        except Exception as e:
-            log.error(f"异常: {e}")
-
-        time.sleep(CHECK_INTERVAL)
+    except Exception as e:
+        log.error(f"异常: {e}")
 
 
 if __name__ == "__main__":
