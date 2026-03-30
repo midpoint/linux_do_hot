@@ -18,6 +18,7 @@ TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "YOUR_CHAT_ID")
 TARGET_URL = "https://linux.do/hot"
 STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".hot_state.json")
 MAX_CONTENT_LENGTH = 3500  # Telegram 消息最大 4096，保留空间给标题等
+PROXY_URL = os.getenv("PROXY_URL", "")  # 代理服务器
 # =================================
 
 logging.basicConfig(
@@ -48,12 +49,17 @@ def fetch_hot_items() -> list[dict]:
     headers = {
         "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
+
+    proxies = None
+    if PROXY_URL:
+        proxies = {"http": PROXY_URL, "https": PROXY_URL}
+
     try:
-        resp = requests.get(TARGET_URL, headers=headers, timeout=30)
+        resp = requests.get(TARGET_URL, headers=headers, proxies=proxies, timeout=30)
         resp.raise_for_status()
     except Exception as e:
         log.error(f"获取页面失败: {e}")
-        return []
+        return [], str(e)
 
     soup = BeautifulSoup(resp.text, "html.parser")
     items = []
@@ -85,7 +91,7 @@ def fetch_hot_items() -> list[dict]:
                 continue
 
     log.info(f"获取到 {len(items)} 条热门内容")
-    return items
+    return items, ""
 
 
 def fetch_first_post_content(topic_url: str) -> str:
@@ -93,8 +99,13 @@ def fetch_first_post_content(topic_url: str) -> str:
     headers = {
         "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
+
+    proxies = None
+    if PROXY_URL:
+        proxies = {"http": PROXY_URL, "https": PROXY_URL}
+
     try:
-        resp = requests.get(topic_url, headers=headers, timeout=30)
+        resp = requests.get(topic_url, headers=headers, proxies=proxies, timeout=30)
         resp.raise_for_status()
     except Exception as e:
         log.error(f"获取帖子失败: {e}")
@@ -165,18 +176,28 @@ def main():
     log.info("=" * 50)
     log.info("linux.do/hot 监控服务启动")
     log.info(f"目标: {TARGET_URL}")
+    if PROXY_URL:
+        log.info(f"代理: {PROXY_URL}")
     log.info("=" * 50)
 
+    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     prev_state = get_state()
     prev_ids = set(prev_state.get("ids", []))
 
     log.info(f"上次记录: {len(prev_ids)} 条")
 
     try:
-        items = fetch_hot_items()
+        items, error = fetch_hot_items()
+
+        if error:
+            # 获取页面失败，发送错误信息
+            msg = f"❌ <b>linux.do 监控异常</b>\n\n⏰ {now}\n📭 获取页面失败\n🔗 {error}"
+            send_telegram(msg)
+            return
 
         if not items:
-            log.warning("未能获取到内容")
+            msg = f"⚠️ <b>linux.do 监控</b>\n\n⏰ {now}\n📭 未能获取到内容"
+            send_telegram(msg)
             return
 
         current_ids = set(item["id"] for item in items)
@@ -196,15 +217,22 @@ def main():
 
         elif not prev_ids:
             log.info(f"初始化完成，记录 {len(items)} 条")
+            msg = f"✅ <b>linux.do 监控初始化</b>\n\n⏰ {now}\n📭 记录 {len(items)} 条热门帖子"
+            send_telegram(msg)
         else:
-            log.info("无新内容，发送通知")
-            now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-            send_telegram(f"✅ <b>linux.do 检查完成</b>\n\n⏰ {now}\n📭 暂无新热门帖子")
+            log.info("无新内容")
+            msg = f"✅ <b>linux.do 检查完成</b>\n\n⏰ {now}\n📭 暂无新热门帖子"
+            send_telegram(msg)
 
         save_state({"ids": list(current_ids), "items": items})
 
     except Exception as e:
         log.error(f"异常: {e}")
+        msg = f"❌ <b>linux.do 监控异常</b>\n\n⏰ {now}\n📭 {str(e)}"
+        try:
+            send_telegram(msg)
+        except:
+            pass
 
 
 if __name__ == "__main__":
