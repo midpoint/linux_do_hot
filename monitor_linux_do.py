@@ -209,7 +209,10 @@ def main():
         elif not prev_ids:
             log.info(f"初始化完成，记录 {len(items)} 条")
         else:
-            log.info("无新内容")
+            log.info("无新内容，发送通知")
+            from datetime import datetime
+            now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            send_telegram(f"✅ <b>linux.do 检查完成</b>\n\n⏰ {now}\n📭 暂无新热门帖子")
 
         save_state({"ids": list(current_ids), "items": items})
 
