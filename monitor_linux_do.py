@@ -22,7 +22,7 @@ PROXY_URL = os.getenv("PROXY_URL", "http://127.0.0.1:20171")  # 代理服务器
 MAX_CONTENT_LENGTH = 3500  # Telegram 消息最大 4096，保留空间给标题等
 # =================================
 
-PROXIES = {"http": PROXY_URL, "https": PROXY_URL}
+PROXIES = {"http": PROXY_URL, "https": PROXY_URL} if PROXY_URL else None
 
 logging.basicConfig(
     level=logging.INFO,
