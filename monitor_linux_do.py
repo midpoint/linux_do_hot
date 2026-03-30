@@ -49,14 +49,16 @@ def save_state(state: dict):
 
 def curl_get(url: str) -> str:
     """使用 curl 获取页面"""
-    cmd = [
-        "curl", "-s", "--proxy", PROXY_URL,
+    cmd = ["curl", "-s"]
+    if PROXY_URL:
+        cmd.extend(["--proxy", PROXY_URL])
+    cmd.extend([
         "-H", "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "-H", "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "-H", "Accept-Language: en-US,en;q=0.5",
         "-H", "Connection: keep-alive",
         url
-    ]
+    ])
     result = subprocess.run(cmd, capture_output=True, text=True, timeout=30)
     return result.stdout
 
