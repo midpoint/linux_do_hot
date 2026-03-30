@@ -156,23 +156,10 @@ def send_telegram(message: str) -> bool:
 
 
 def send_post(item: dict) -> bool:
-    """发送单个帖子（标题 + 第一条内容）"""
+    """发送单个帖子链接"""
     title = item["title"]
     link = item["link"]
-
-    # 获取第一条内容
-    content = fetch_first_post_content(link)
-    if not content:
-        log.warning(f"无法获取 {title} 的内容")
-        content = "(内容获取失败)"
-
-    # 截断过长的内容
-    if len(content) > MAX_CONTENT_LENGTH:
-        content = content[:MAX_CONTENT_LENGTH] + "\n\n... (内容过长已截断)"
-
-    # 组合消息
-    message = f"📌 <b>{title}</b>\n\n{content}\n\n🔗 <a href=\"{link}\">查看原文</a>"
-
+    message = f"📌 <b>{title}</b>\n\n🔗 <a href=\"{link}\">查看原文</a>"
     return send_telegram(message)
 
 
