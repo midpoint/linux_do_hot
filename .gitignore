@@ -2,3 +2,8 @@ __pycache__/
 *.pyc
 .hot_state.json
 *.log
+
+# Local only files (not tracked by git)
+CLAUDE.md
+crontab_monitor.sh
+m25.sh
