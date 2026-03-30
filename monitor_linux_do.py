@@ -58,7 +58,7 @@ def fetch_url(url: str) -> tuple[str, str]:
         except Exception as e:
             return "", str(e)
 
-    api_url = f"https://api.scrapingant.com/v2/frames?url={url}&x-api-key={SCRAPINGANT_API_KEY}"
+    api_url = f"https://api.scrapingant.com/v2/general?url={url}&x-api-key={SCRAPINGANT_API_KEY}"
     try:
         resp = requests.get(api_url, timeout=60)
         if resp.status_code != 200:
