@@ -2,8 +2,8 @@ name: Monitor linux.do/hot
 
 on:
   schedule:
-    # 每3小时运行一次
-    - cron: '0 */3 * * *'
+    # 每天早上6点和下午2点(北京时间)运行
+    - cron: '0 6,22 * * *'
   workflow_dispatch:
 
 jobs:
