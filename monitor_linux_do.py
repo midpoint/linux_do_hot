@@ -7,7 +7,7 @@ import json
 import time
 import hashlib
 import logging
-import subprocess
+from datetime import datetime
 
 import requests
 from bs4 import BeautifulSoup
@@ -17,12 +17,8 @@ TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "YOUR_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "YOUR_CHAT_ID")
 TARGET_URL = "https://linux.do/hot"
 STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".hot_state.json")
-CHECK_INTERVAL = 300  # 5分钟检查一次
-PROXY_URL = os.getenv("PROXY_URL", "")  # 代理服务器（不设置则直连）
 MAX_CONTENT_LENGTH = 3500  # Telegram 消息最大 4096，保留空间给标题等
 # =================================
-
-PROXIES = {"http": PROXY_URL, "https": PROXY_URL} if PROXY_URL else None
 
 logging.basicConfig(
     level=logging.INFO,
@@ -47,31 +43,19 @@ def save_state(state: dict):
         json.dump(state, f, ensure_ascii=False, indent=2)
 
 
-def curl_get(url: str) -> str:
-    """使用 curl 获取页面"""
-    cmd = ["curl", "-s"]
-    if PROXY_URL:
-        cmd.extend(["--proxy", PROXY_URL])
-    cmd.extend([
-        "-H", "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "-H", "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "-H", "Accept-Language: en-US,en;q=0.5",
-        "-H", "Connection: keep-alive",
-        url
-    ])
-    result = subprocess.run(cmd, capture_output=True, text=True, timeout=30)
-    return result.stdout
-
-
 def fetch_hot_items() -> list[dict]:
     """获取 linux.do/hot 页面的热门内容"""
+    headers = {
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
     try:
-        html_content = curl_get(TARGET_URL)
+        resp = requests.get(TARGET_URL, headers=headers, timeout=30)
+        resp.raise_for_status()
     except Exception as e:
         log.error(f"获取页面失败: {e}")
         return []
 
-    soup = BeautifulSoup(html_content, "html.parser")
+    soup = BeautifulSoup(resp.text, "html.parser")
     items = []
 
     for a_tag in soup.select("a.raw-link"):
@@ -106,13 +90,17 @@ def fetch_hot_items() -> list[dict]:
 
 def fetch_first_post_content(topic_url: str) -> str:
     """获取帖子的第一条完整内容"""
+    headers = {
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
     try:
-        html_content = curl_get(topic_url)
+        resp = requests.get(topic_url, headers=headers, timeout=30)
+        resp.raise_for_status()
     except Exception as e:
         log.error(f"获取帖子失败: {e}")
         return ""
 
-    soup = BeautifulSoup(html_content, "html.parser")
+    soup = BeautifulSoup(resp.text, "html.parser")
     posts = soup.select("div.post")
 
     if not posts:
@@ -141,7 +129,7 @@ def send_telegram(message: str) -> bool:
         "disable_web_page_preview": False
     }
     try:
-        resp = requests.post(url, json=payload, proxies=PROXIES, timeout=15)
+        resp = requests.post(url, json=payload, timeout=15)
         result = resp.json()
         if not result.get("ok"):
             log.error(f"Telegram API 错误: {result}")
@@ -161,7 +149,6 @@ def send_post(item: dict) -> bool:
     content = fetch_first_post_content(link)
     if not content:
         log.warning(f"无法获取 {title} 的内容")
-        # 只发送标题
         content = "(内容获取失败)"
 
     # 截断过长的内容
@@ -178,7 +165,6 @@ def main():
     log.info("=" * 50)
     log.info("linux.do/hot 监控服务启动")
     log.info(f"目标: {TARGET_URL}")
-    log.info(f"检查间隔: {CHECK_INTERVAL} 秒")
     log.info("=" * 50)
 
     prev_state = get_state()
@@ -212,7 +198,6 @@ def main():
             log.info(f"初始化完成，记录 {len(items)} 条")
         else:
             log.info("无新内容，发送通知")
-            from datetime import datetime
             now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             send_telegram(f"✅ <b>linux.do 检查完成</b>\n\n⏰ {now}\n📭 暂无新热门帖子")
 
