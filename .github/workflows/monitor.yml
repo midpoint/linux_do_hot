@@ -41,7 +41,7 @@ jobs:
           git checkout master
           git pull origin master --rebase || true
           if [ -f .hot_state.json ]; then
-            git add .hot_state.json
+            git add -f .hot_state.json
             git commit -m "Update hot state" || exit 0
             git push origin master
           fi
