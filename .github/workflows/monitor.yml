@@ -12,12 +12,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-
-      - name: Download previous state
-        uses: actions/download-artifact@v4
         with:
-          name: hot-state
-        continue-on-error: true
+          sparse-checkout: |
+            .hot_state.json
+          sparse-checkout-cone-mode: false
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -35,10 +33,14 @@ jobs:
           SCRAPINGANT_API_KEY: ${{ secrets.SCRAPINGANT_API_KEY }}
         run: python3 monitor_linux_do.py
 
-      - name: Upload state file
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: hot-state
-          path: .hot_state.json
-          retention-days: 1
+      - name: Commit state
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          git checkout master
+          git pull origin master --rebase || true
+          if [ -f .hot_state.json ]; then
+            git add .hot_state.json
+            git commit -m "Update hot state" || exit 0
+            git push origin master
+          fi
