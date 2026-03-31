@@ -13,6 +13,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Download previous state
+        uses: actions/download-artifact@v4
+        with:
+          name: hot-state
+        continue-on-error: true
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -28,3 +34,11 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           SCRAPINGANT_API_KEY: ${{ secrets.SCRAPINGANT_API_KEY }}
         run: python3 monitor_linux_do.py
+
+      - name: Upload state file
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: hot-state
+          path: .hot_state.json
+          retention-days: 1
