@@ -1,37 +1,42 @@
 {
   "ids": [
-    "deaacaed3741",
-    "923fcd295c1e",
-    "94168d5c9168",
-    "a8a004b9aa2a",
-    "5b45d3d1f75e",
-    "f9742031995b",
-    "c1ca0485a889",
-    "e898bcee89ee",
-    "0351fa3ac4b1",
-    "ca779f3b3b15",
-    "9a3d825f5fd8",
-    "5ff8a75adc06",
-    "3e127a156d0b",
-    "117cabb904cd",
-    "2afba1ea63ee",
-    "957ea937691a",
-    "5878daeec25a",
+    "a8094ea92612",
+    "2911a22b5d6e",
     "9a76b37801e6",
-    "1daa5c779711",
-    "451c6a1063fe",
-    "55f3bd959cff",
-    "2780583fb6de",
-    "0e58db994007",
-    "cd51cfc80a62",
+    "8beb7fe057a5",
+    "5878daeec25a",
+    "e10ba9bf4c8a",
+    "5ff8a75adc06",
+    "7e4e2d7f0eae",
+    "fdab40c4ff26",
+    "84d2ad996284",
+    "803e1cd48ec2",
+    "b0f607fa091f",
+    "2afba1ea63ee",
+    "bb4af72aa148",
+    "9ffb21b8bcd7",
+    "5febcf805c8e",
+    "12056a93c62a",
+    "6bb91973d474",
+    "507b16789905",
     "c53ba475a92c",
-    "4c86bb13d69a",
-    "7622f60a54e8",
-    "fbcd959cbb49",
-    "c43899879154",
-    "580dfe20b6c0"
+    "38ee277ee5c7",
+    "8c2d4e8c7551",
+    "1ba2780be8fd",
+    "2175ee7e6f98",
+    "017561056fa1",
+    "0b3c0cba36ab",
+    "0d2f63fd08cb",
+    "9b10be50e4bb",
+    "c790870e41dc",
+    "54078e1f9e17"
   ],
   "items": [
+    {
+      "id": "803e1cd48ec2",
+      "title": "调整帖子最小长度",
+      "link": "https://linux.do/t/topic/1911417"
+    },
     {
       "id": "5878daeec25a",
       "title": "《秘密花园园丁邀请函》",
@@ -48,9 +53,89 @@
       "link": "https://linux.do/t/topic/1910021"
     },
     {
-      "id": "1daa5c779711",
-      "title": "马上三级啦，抽一个十年域名吧",
-      "link": "https://linux.do/t/topic/1901304"
+      "id": "9b10be50e4bb",
+      "title": "人类最后防线失守，Claude 4小时血洗全球最安全系统！",
+      "link": "https://linux.do/t/topic/1912993"
+    },
+    {
+      "id": "38ee277ee5c7",
+      "title": "【抽奖】心情不好，抽个0月租giffgaff卡包邮",
+      "link": "https://linux.do/t/topic/1912108"
+    },
+    {
+      "id": "0d2f63fd08cb",
+      "title": "关于回复限制20字符请求改回去",
+      "link": "https://linux.do/t/topic/1913368"
+    },
+    {
+      "id": "bb4af72aa148",
+      "title": "【抽奖】抽五个Grok heavy 一年会员成品号（50$API已领）",
+      "link": "https://linux.do/t/topic/1912073"
+    },
+    {
+      "id": "54078e1f9e17",
+      "title": "限制字数之后，伪人感一下上来了",
+      "link": "https://linux.do/t/topic/1912525"
+    },
+    {
+      "id": "5febcf805c8e",
+      "title": "站内新规则，我要开始学英文了（谨慎！不要取巧，会被举报）",
+      "link": "https://linux.do/t/topic/1912656"
+    },
+    {
+      "id": "fdab40c4ff26",
+      "title": "庆祝马上2级了，抽个个支付宝红包吧[每100楼增加一个]",
+      "link": "https://linux.do/t/topic/1911348"
+    },
+    {
+      "id": "e10ba9bf4c8a",
+      "title": "大佬刚改的20字回复规则，对简练佬有点太难了",
+      "link": "https://linux.do/t/topic/1912585"
+    },
+    {
+      "id": "1ba2780be8fd",
+      "title": "【抽奖】分手了，心情不太美，抽三个零刀虚拟卡",
+      "link": "https://linux.do/t/topic/1911230"
+    },
+    {
+      "id": "0b3c0cba36ab",
+      "title": "Boost很难受，回复20字符更难受",
+      "link": "https://linux.do/t/topic/1913641"
+    },
+    {
+      "id": "9ffb21b8bcd7",
+      "title": "冰佬邀请码[结束]",
+      "link": "https://linux.do/t/topic/1911608"
+    },
+    {
+      "id": "84d2ad996284",
+      "title": "小道消息：claude code思考深度下降67%，已无法胜任复杂的工程任务",
+      "link": "https://linux.do/t/topic/1913201"
+    },
+    {
+      "id": "7e4e2d7f0eae",
+      "title": "TRAE SOLO激活码一个抽奖",
+      "link": "https://linux.do/t/topic/1913128"
+    },
+    {
+      "id": "8beb7fe057a5",
+      "title": "佬们，别卷了。",
+      "link": "https://linux.do/t/topic/1912512"
+    },
+    {
+      "id": "2175ee7e6f98",
+      "title": "爸妈，为什么20年前的Ai革命，你没有抓住呢？",
+      "link": "https://linux.do/t/topic/1911668"
+    },
+    {
+      "id": "b0f607fa091f",
+      "title": "【抽奖】看到始皇的社区新规,抽 gpt team车位*5 (无质保)",
+      "link": "https://linux.do/t/topic/1913614"
+    },
+    {
+      "id": "507b16789905",
+      "title": "新规一出，抽奖贴都消失了",
+      "link": "https://linux.do/t/topic/1913044"
     },
     {
       "id": "2afba1ea63ee",
@@ -58,9 +143,29 @@
       "link": "https://linux.do/t/topic/1905976"
     },
     {
-      "id": "4c86bb13d69a",
-      "title": "大家不觉得chatgpt说话很恶心吗？",
-      "link": "https://linux.do/t/topic/1908163"
+      "id": "8c2d4e8c7551",
+      "title": "有些时候不要太低估国产模型，qwen3.6plus",
+      "link": "https://linux.do/t/topic/1913035"
+    },
+    {
+      "id": "6bb91973d474",
+      "title": "发现openai有个社区网站，和L站一模一样",
+      "link": "https://linux.do/t/topic/1913303"
+    },
+    {
+      "id": "a8094ea92612",
+      "title": "小心，抽奖贴中的回复也会被举报",
+      "link": "https://linux.do/t/topic/1913210"
+    },
+    {
+      "id": "c790870e41dc",
+      "title": "各位佬友身体咋样了，有没有开始亮黄灯。",
+      "link": "https://linux.do/t/topic/1911429"
+    },
+    {
+      "id": "2911a22b5d6e",
+      "title": "佬友原生家庭不好的….",
+      "link": "https://linux.do/t/topic/1913139"
     },
     {
       "id": "c53ba475a92c",
@@ -68,119 +173,14 @@
       "link": "https://linux.do/t/topic/1892285"
     },
     {
-      "id": "3e127a156d0b",
-      "title": "Xiaomi MiMo 罗福莉就Token Plan定价发言：”全球算力跟不上代理创造的 token 需求。真正的出路不是更便宜的 token，而是协同进化。“",
-      "link": "https://linux.do/t/topic/1906720"
+      "id": "12056a93c62a",
+      "title": "字数限制新规出台，是否配套增加字数统计提示",
+      "link": "https://linux.do/t/topic/1913547"
     },
     {
-      "id": "2780583fb6de",
-      "title": "爱奇艺特权版（免登录、VIP内容直接看）",
-      "link": "https://linux.do/t/topic/1909823"
-    },
-    {
-      "id": "ca779f3b3b15",
-      "title": "【抽奖】飞升三级 给佬友们抽个 200G 机场",
-      "link": "https://linux.do/t/topic/1907655"
-    },
-    {
-      "id": "451c6a1063fe",
-      "title": "明天生日了, 能求佬们的一句生日快乐吗",
-      "link": "https://linux.do/t/topic/1907740"
-    },
-    {
-      "id": "c43899879154",
-      "title": "手搓GPT free账号方法收纳",
-      "link": "https://linux.do/t/topic/1907918"
-    },
-    {
-      "id": "fbcd959cbb49",
-      "title": "【开源】Karpathy 的 LLM 知识库管理方案，一个开源软件全实现了！更好的 UI 体验，多AI共享上下文，经验自动沉淀！",
-      "link": "https://linux.do/t/topic/1909731"
-    },
-    {
-      "id": "923fcd295c1e",
-      "title": "新人小白也给大家发一波福利 我的付费中转站包括国产海外大模型除了claude没有其他都有了",
-      "link": "https://linux.do/t/topic/1910294"
-    },
-    {
-      "id": "580dfe20b6c0",
-      "title": "claude opus，我X你先人",
-      "link": "https://linux.do/t/topic/1907201"
-    },
-    {
-      "id": "9a3d825f5fd8",
-      "title": "抽奖~ 萌新回馈社区，抽 GPT Plus 一个月 激活码*1",
-      "link": "https://linux.do/t/topic/1906004"
-    },
-    {
-      "id": "f9742031995b",
-      "title": "【抽奖】gpt5.4 200刀*15，庆祝Metapi V1.3.0发布，今晚22点开奖！",
-      "link": "https://linux.do/t/topic/1907051"
-    },
-    {
-      "id": "e898bcee89ee",
-      "title": "【抽奖】来L站一周了，抽一个500G按量计算的机场",
-      "link": "https://linux.do/t/topic/1906916"
-    },
-    {
-      "id": "7622f60a54e8",
-      "title": "【抽奖】支付宝红包8.88 * 5，庆祝自己的开源软件star 数 600+和回归 3 级！！！！！",
-      "link": "https://linux.do/t/topic/1906300"
-    },
-    {
-      "id": "deaacaed3741",
-      "title": "网易uu加速器夯爆了！",
-      "link": "https://linux.do/t/topic/1909573"
-    },
-    {
-      "id": "5b45d3d1f75e",
-      "title": "harness engineering 时代，程序员的价值在于定义问题",
-      "link": "https://linux.do/t/topic/1908948"
-    },
-    {
-      "id": "0e58db994007",
-      "title": "拒绝买卖成品账号！",
-      "link": "https://linux.do/t/topic/1908128"
-    },
-    {
-      "id": "94168d5c9168",
-      "title": "我们继续前进",
-      "link": "https://linux.do/t/topic/1872788"
-    },
-    {
-      "id": "c1ca0485a889",
-      "title": "【小道消息】Claude code 限时福利？",
-      "link": "https://linux.do/t/topic/1895901"
-    },
-    {
-      "id": "957ea937691a",
-      "title": "抽奖，回馈社区，抽 GPT Plus 一个月 激活码*1",
-      "link": "https://linux.do/t/topic/1907230"
-    },
-    {
-      "id": "117cabb904cd",
-      "title": "抽3个4.2开的 ChatGPT Team 车位，今晚开奖",
-      "link": "https://linux.do/t/topic/1906568"
-    },
-    {
-      "id": "0351fa3ac4b1",
-      "title": "听说L 站可以找到女朋友！！！",
-      "link": "https://linux.do/t/topic/1907501"
-    },
-    {
-      "id": "cd51cfc80a62",
-      "title": "抽一个chatgpt plus账号",
-      "link": "https://linux.do/t/topic/1909454"
-    },
-    {
-      "id": "a8a004b9aa2a",
-      "title": "【抛砖引玉】Claude Code cch 到底有啥用",
-      "link": "https://linux.do/t/topic/1893463"
-    },
-    {
-      "id": "55f3bd959cff",
-      "title": "Poe 免费API 可用Gemma 4，30 次/分钟，支持多模态",
-      "link": "https://linux.do/t/topic/1909710"
+      "id": "017561056fa1",
+      "title": "龙虾这波热度算过去了吗？怎么突然没啥人讨论了",
+      "link": "https://linux.do/t/topic/1912095"
     }
   ]
 }
