@@ -1,35 +1,35 @@
 {
   "ids": [
-    "5febcf805c8e",
+    "3b067fb12abb",
+    "6a10670549de",
+    "dea15627904e",
+    "0d24dad5fda7",
     "803e1cd48ec2",
-    "d175994e7e85",
-    "06ac3bfc6d75",
-    "fed6a66dab0d",
-    "aafd86b4f542",
-    "2afba1ea63ee",
-    "af0a3142b467",
-    "d2cba0ac0787",
+    "6b4ad51b6241",
+    "d0b36e36470c",
+    "930cf2379314",
+    "fe703c9e7784",
+    "5ec314f1bdd2",
+    "b77f81477718",
+    "1216e0b54712",
     "0b3c0cba36ab",
-    "5ff8a75adc06",
-    "9a76b37801e6",
-    "54078e1f9e17",
-    "3e127a156d0b",
-    "791a9eb96345",
-    "38ee277ee5c7",
-    "5c04acfc84fe",
-    "62ae7b204519",
+    "544c6121aa4e",
+    "28c0700c8029",
+    "038e7504b2a9",
     "5878daeec25a",
-    "0d2f63fd08cb",
-    "ced8bf33f66b",
-    "0474a8eb4930",
+    "2251d3590583",
     "9b10be50e4bb",
+    "9a76b37801e6",
     "c53ba475a92c",
-    "bec3de817b51",
-    "a80748f625d0",
-    "84d2ad996284",
-    "94168d5c9168",
+    "2fff09a5afbe",
+    "38ee277ee5c7",
     "b99cffe1bdca",
-    "8fe804f10a86"
+    "57a9cc1a4533",
+    "5ff8a75adc06",
+    "e4658d3e8af6",
+    "6fb9626cb619",
+    "0474a8eb4930",
+    "3bc803b9facb"
   ],
   "items": [
     {
@@ -48,6 +48,11 @@
       "link": "https://linux.do/t/topic/482293"
     },
     {
+      "id": "038e7504b2a9",
+      "title": "Cursor++ | 极为顺滑的 BYOK Server 集成",
+      "link": "https://linux.do/t/topic/1926833"
+    },
+    {
       "id": "0474a8eb4930",
       "title": "【薄荷公益站】新增claude渠道，只能正经使用",
       "link": "https://linux.do/t/topic/1914812"
@@ -58,19 +63,34 @@
       "link": "https://linux.do/t/topic/1910021"
     },
     {
+      "id": "3bc803b9facb",
+      "title": "给佬友们抽一个gpt plus会员",
+      "link": "https://linux.do/t/topic/1925290"
+    },
+    {
+      "id": "544c6121aa4e",
+      "title": "一人公司注册流程和踩坑经验",
+      "link": "https://linux.do/t/topic/1925164"
+    },
+    {
       "id": "b99cffe1bdca",
       "title": "抽奖20字真的很难？未必啊",
       "link": "https://linux.do/t/topic/1916181"
     },
     {
-      "id": "06ac3bfc6d75",
-      "title": "【长命功夫长命做】公益站试点开放啦【补充claude-sonnet-4.5模型】",
+      "id": "0d24dad5fda7",
+      "title": "今日飞升，抽两个口令助兴",
+      "link": "https://linux.do/t/topic/1919880"
+    },
+    {
+      "id": "dea15627904e",
+      "title": "【已关闭】【长命功夫长命做】公益站试点开放啦【补充claude-sonnet-4.5模型】",
       "link": "https://linux.do/t/topic/1913802"
     },
     {
-      "id": "bec3de817b51",
-      "title": "【抽奖】抽三个Gemini pro一年会员成品号",
-      "link": "https://linux.do/t/topic/1918002"
+      "id": "2251d3590583",
+      "title": "我创业了，结果导员让我帮学校“解决就业”？",
+      "link": "https://linux.do/t/topic/1924507"
     },
     {
       "id": "0b3c0cba36ab",
@@ -78,44 +98,29 @@
       "link": "https://linux.do/t/topic/1913641"
     },
     {
-      "id": "d175994e7e85",
-      "title": "受不了gpt5.4了，”我不瞎猜，如果你愿意”。",
-      "link": "https://linux.do/t/topic/1916263"
+      "id": "fe703c9e7784",
+      "title": "-佬，上号压测-2000刀-gpt5.4",
+      "link": "https://linux.do/t/topic/1926747"
     },
     {
-      "id": "fed6a66dab0d",
-      "title": "【抽奖】忽然就开到了Team车，就拿来抽了吧 (7号新开车，没质保)",
-      "link": "https://linux.do/t/topic/1918329"
+      "id": "28c0700c8029",
+      "title": "公益站要晚点开了喵",
+      "link": "https://linux.do/t/topic/1922603"
     },
     {
-      "id": "0d2f63fd08cb",
-      "title": "关于回复限制20字符请求改回去",
-      "link": "https://linux.do/t/topic/1913368"
+      "id": "6b4ad51b6241",
+      "title": "长期赠送本论坛邀请码",
+      "link": "https://linux.do/t/topic/1921808"
     },
     {
-      "id": "9b10be50e4bb",
-      "title": "人类最后防线失守，Claude 4小时血洗全球最安全系统！",
-      "link": "https://linux.do/t/topic/1912993"
+      "id": "e4658d3e8af6",
+      "title": "闲鱼上Claude造假过于普遍了",
+      "link": "https://linux.do/t/topic/1922869"
     },
     {
-      "id": "38ee277ee5c7",
-      "title": "【抽奖】心情不好，抽个0月租giffgaff卡包邮",
-      "link": "https://linux.do/t/topic/1912108"
-    },
-    {
-      "id": "ced8bf33f66b",
-      "title": "【抽奖】抽4个team车位，3日开的，无质保",
-      "link": "https://linux.do/t/topic/1915007"
-    },
-    {
-      "id": "a80748f625d0",
-      "title": "DeepSeek新模型开始灰度测试，还首次支持了多模态",
-      "link": "https://linux.do/t/topic/1917230"
-    },
-    {
-      "id": "62ae7b204519",
-      "title": "deepseekv4快来了吗。灰度终于轮到我了",
-      "link": "https://linux.do/t/topic/1917338"
+      "id": "2fff09a5afbe",
+      "title": "【抽奖】晚睡的鸟儿有坏坏邀请码吃",
+      "link": "https://linux.do/t/topic/1926934"
     },
     {
       "id": "c53ba475a92c",
@@ -123,64 +128,59 @@
       "link": "https://linux.do/t/topic/1892285"
     },
     {
-      "id": "2afba1ea63ee",
-      "title": "新买的大玩具 SU7 到手啦！",
-      "link": "https://linux.do/t/topic/1905976"
+      "id": "6fb9626cb619",
+      "title": "佬们觉得 A / 这个 mythos 到底是真那么吓人还是炒作的",
+      "link": "https://linux.do/t/topic/1925778"
     },
     {
-      "id": "8fe804f10a86",
-      "title": "【已结束】【抽奖】庆祝刚加入L站给各位佬友发点福利抽五个GeminiPro Pixel的一年会员成品号（8点30开奖）",
-      "link": "https://linux.do/t/topic/1914166"
+      "id": "3b067fb12abb",
+      "title": "Claude OPUS4.6 MAX强度思考从3天前开始降智，一天不如一天，今天最明显",
+      "link": "https://linux.do/t/topic/1925144"
     },
     {
-      "id": "aafd86b4f542",
-      "title": "我怎么发现回复限制 20 字符以后大家回贴的素质都提高了很多",
-      "link": "https://linux.do/t/topic/1913904"
+      "id": "930cf2379314",
+      "title": "如果你能和18岁的自己聊五分钟，你会说什么？",
+      "link": "https://linux.do/t/topic/1923147"
     },
     {
-      "id": "84d2ad996284",
-      "title": "小道消息：claude code思考深度下降67%，已无法胜任复杂的工程任务",
-      "link": "https://linux.do/t/topic/1913201"
+      "id": "6a10670549de",
+      "title": "把 20 字限制改为 10 字",
+      "link": "https://linux.do/t/topic/1919617"
     },
     {
-      "id": "d2cba0ac0787",
-      "title": "DeepSeek 4月8号0点向所有用户推送了专家模式",
-      "link": "https://linux.do/t/topic/1918426"
+      "id": "1216e0b54712",
+      "title": "GPT已经确定降智了。",
+      "link": "https://linux.do/t/topic/1923381"
     },
     {
-      "id": "5febcf805c8e",
-      "title": "站内新规则，我要开始学英文了（谨慎！不要取巧，会被举报）",
-      "link": "https://linux.do/t/topic/1912656"
+      "id": "38ee277ee5c7",
+      "title": "【抽奖】心情不好，抽个0月租giffgaff卡包邮",
+      "link": "https://linux.do/t/topic/1912108"
     },
     {
-      "id": "791a9eb96345",
-      "title": "自建DoH服务器",
-      "link": "https://linux.do/t/topic/1916400"
+      "id": "d0b36e36470c",
+      "title": "【结束】回馈社区，抽一个刚开的GPT Plus成品，可以用于Codex（1小时速抽）",
+      "link": "https://linux.do/t/topic/1925800"
     },
     {
-      "id": "5c04acfc84fe",
-      "title": "我彻底放弃openclaw了，没想到老友们几乎意见统一都遇到更新地狱",
-      "link": "https://linux.do/t/topic/1915492"
+      "id": "57a9cc1a4533",
+      "title": "学校还在坚持在纸上写代码",
+      "link": "https://linux.do/t/topic/1922786"
     },
     {
-      "id": "af0a3142b467",
-      "title": "智谱保住了自己的老冯，5.1确实要开源了",
-      "link": "https://linux.do/t/topic/1916828"
+      "id": "9b10be50e4bb",
+      "title": "人类最后防线失守，Claude 4小时血洗全球最安全系统！",
+      "link": "https://linux.do/t/topic/1912993"
     },
     {
-      "id": "54078e1f9e17",
-      "title": "限制字数之后，伪人感一下上来了",
-      "link": "https://linux.do/t/topic/1912525"
+      "id": "5ec314f1bdd2",
+      "title": "程序员的护城河已经被铺上沥青和石子了，考虑换个行业了。",
+      "link": "https://linux.do/t/topic/1924082"
     },
     {
-      "id": "94168d5c9168",
-      "title": "我们继续前进",
-      "link": "https://linux.do/t/topic/1872788"
-    },
-    {
-      "id": "3e127a156d0b",
-      "title": "Xiaomi MiMo 罗福莉就Token Plan定价发言：”全球算力跟不上代理创造的 token 需求。真正的出路不是更便宜的 token，而是协同进化。“",
-      "link": "https://linux.do/t/topic/1906720"
+      "id": "b77f81477718",
+      "title": "我们真的需要opus吗？（不喜勿喷）",
+      "link": "https://linux.do/t/topic/1923848"
     }
   ]
 }
