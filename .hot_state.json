@@ -1,35 +1,35 @@
 {
   "ids": [
-    "4e04d6f32869",
-    "1e202fd678f3",
-    "f0620dace7e5",
-    "cc4644e24449",
-    "a6f7ea7c8ea6",
-    "042985d5f88f",
-    "c2952d1e4ae9",
-    "6d75430cfd2d",
-    "715f88c4b731",
-    "f439a43ebfbd",
+    "9b66fabfecd1",
+    "c189e0c4ccaf",
+    "b96fabec4e8a",
     "2f8614b7ec3c",
-    "21cd300a302a",
-    "038e7504b2a9",
-    "4e9351dad561",
-    "0478a101f885",
+    "8359ce1de7bc",
+    "2f59f388505f",
     "5878daeec25a",
-    "cc8e3d886a08",
-    "cec1f2b71aad",
-    "b915bfed7831",
-    "0422287ab2f5",
-    "518517da6db7",
-    "6dc0c3fb5328",
-    "c2ad0bb62560",
-    "c2bce0491318",
-    "95b6ef5a7beb",
-    "803e1cd48ec2",
     "4ad0bc225f44",
-    "58d3005e3f92",
-    "a16e881c22ae",
-    "9a76b37801e6"
+    "25648764c57e",
+    "f91a0c64bbe4",
+    "abe17e6e26bd",
+    "6d75430cfd2d",
+    "0111403dabba",
+    "ba1bccca76c8",
+    "b0dc554f79c6",
+    "0422287ab2f5",
+    "68d8efc45d35",
+    "6e909ddbdea3",
+    "0b96b8d50293",
+    "9a76b37801e6",
+    "65610b472591",
+    "3a642235a9c6",
+    "257ad91e47b8",
+    "7b6009628b5d",
+    "c559f53d0816",
+    "4cbee3cf536c",
+    "f33d3f126675",
+    "c2ad0bb62560",
+    "803e1cd48ec2",
+    "a2c69e1028f2"
   ],
   "items": [
     {
@@ -48,19 +48,39 @@
       "link": "https://linux.do/t/topic/482293"
     },
     {
+      "id": "68d8efc45d35",
+      "title": "AI科研不完全指北：Top10 PhD烧了上万刀的真实经验。 Context Is All You Need",
+      "link": "https://linux.do/t/topic/1969598"
+    },
+    {
+      "id": "8359ce1de7bc",
+      "title": "【抽奖】一个ChatGPT Plus月包CDK(自助充值)",
+      "link": "https://linux.do/t/topic/1969888"
+    },
+    {
+      "id": "b0dc554f79c6",
+      "title": "从零开始的VPS科普(2)：连接你的服务器",
+      "link": "https://linux.do/t/topic/1971831"
+    },
+    {
+      "id": "abe17e6e26bd",
+      "title": "我已经没招了",
+      "link": "https://linux.do/t/topic/1971181"
+    },
+    {
+      "id": "b96fabec4e8a",
+      "title": "昨天健身房里穿黑色红底高跟鞋的御姐",
+      "link": "https://linux.do/t/topic/1971632"
+    },
+    {
+      "id": "f91a0c64bbe4",
+      "title": "一小时速抽，抽8个team，能用多久不知道，可能一个小时？也可能好几天？？？",
+      "link": "https://linux.do/t/topic/1972026"
+    },
+    {
       "id": "c2ad0bb62560",
       "title": "兜兜转转公益站一年了",
       "link": "https://linux.do/t/topic/1961118"
-    },
-    {
-      "id": "4ad0bc225f44",
-      "title": "赚了佬友的钱，还把佬友骂一顿",
-      "link": "https://linux.do/t/topic/1957645"
-    },
-    {
-      "id": "6d75430cfd2d",
-      "title": "举报 一名用户",
-      "link": "https://linux.do/t/topic/1957415"
     },
     {
       "id": "0422287ab2f5",
@@ -68,19 +88,89 @@
       "link": "https://linux.do/t/topic/1967347"
     },
     {
-      "id": "b915bfed7831",
-      "title": "还没成功，女朋友出轨了？",
+      "id": "4ad0bc225f44",
+      "title": "赚了佬友的钱，还把佬友骂一顿",
+      "link": "https://linux.do/t/topic/1957645"
+    },
+    {
+      "id": "0111403dabba",
+      "title": "想请教各位佬，写代码思考时除了挠头还可以挠哪里？",
+      "link": "https://linux.do/t/topic/1971738"
+    },
+    {
+      "id": "6d75430cfd2d",
+      "title": "举报 一名用户",
+      "link": "https://linux.do/t/topic/1957415"
+    },
+    {
+      "id": "a2c69e1028f2",
+      "title": "智谱GLM海外版全线涨价最高140%，中外价差超一倍，「老外税」引发社区激辩！",
+      "link": "https://linux.do/t/topic/1971401"
+    },
+    {
+      "id": "0b96b8d50293",
+      "title": "还没成功，女朋友出轨了？（已问清）",
       "link": "https://linux.do/t/topic/1962660"
     },
     {
-      "id": "f0620dace7e5",
-      "title": "[抽奖]4个team位置",
-      "link": "https://linux.do/t/topic/1968080"
+      "id": "4cbee3cf536c",
+      "title": "A社你想干嘛？？？以后还得海外身份证了吗",
+      "link": "https://linux.do/t/topic/1971159"
     },
     {
-      "id": "1e202fd678f3",
-      "title": "[抽]team车位 X 3",
-      "link": "https://linux.do/t/topic/1968146"
+      "id": "65610b472591",
+      "title": "“擅自加班” 3 小时后猝死！郑州某科技公司不服工伤认定，反复上诉！",
+      "link": "https://linux.do/t/topic/1970791"
+    },
+    {
+      "id": "257ad91e47b8",
+      "title": "升3 级好难，求帮助！",
+      "link": "https://linux.do/t/topic/1971532"
+    },
+    {
+      "id": "7b6009628b5d",
+      "title": "Anthropic要开始推行身份认证了",
+      "link": "https://linux.do/t/topic/1971480"
+    },
+    {
+      "id": "ba1bccca76c8",
+      "title": "室友打游戏到凌晨3点",
+      "link": "https://linux.do/t/topic/1971218"
+    },
+    {
+      "id": "9b66fabfecd1",
+      "title": "没人觉得 gpt5.4 说话很啰嗦吗",
+      "link": "https://linux.do/t/topic/1969423"
+    },
+    {
+      "id": "25648764c57e",
+      "title": "Claude 也要 KYC 了？？",
+      "link": "https://linux.do/t/topic/1971025"
+    },
+    {
+      "id": "c559f53d0816",
+      "title": "【广州】招聘：全栈工程师（AI 驱动开发方向）",
+      "link": "https://linux.do/t/topic/1971533"
+    },
+    {
+      "id": "c189e0c4ccaf",
+      "title": "Anthropic 要推行实名使用了？（在一个技术群看到的，不知道真假）(划掉) 鉴定为真",
+      "link": "https://linux.do/t/topic/1971656"
+    },
+    {
+      "id": "f33d3f126675",
+      "title": "百度在这波AI浪潮中处于什么位置？",
+      "link": "https://linux.do/t/topic/1969400"
+    },
+    {
+      "id": "6e909ddbdea3",
+      "title": "OpenAI后面还有啥招吗，感觉跟Atrophic的差距越来越大了",
+      "link": "https://linux.do/t/topic/1971901"
+    },
+    {
+      "id": "3a642235a9c6",
+      "title": "天塌了，我的号全没了",
+      "link": "https://linux.do/t/topic/1970884"
     },
     {
       "id": "2f8614b7ec3c",
@@ -88,99 +178,9 @@
       "link": "https://linux.do/t/topic/1962519"
     },
     {
-      "id": "715f88c4b731",
-      "title": "【抽奖】抽一个gpt plus月包 CDK，自助充值",
-      "link": "https://linux.do/t/topic/1967943"
-    },
-    {
-      "id": "58d3005e3f92",
-      "title": "【关门，以后开门另行通知】【picpi 皮皮公益站】邀请码 4月14中午12:30 准时开抢 评论区也抽几个",
-      "link": "https://linux.do/t/topic/1953851"
-    },
-    {
-      "id": "4e04d6f32869",
-      "title": "AionUi V1.9.14：更新了很多，这次只想讲讲多Agents团战的能力",
-      "link": "https://linux.do/t/topic/1963316"
-    },
-    {
-      "id": "cc4644e24449",
-      "title": "【抽奖】ChatGPT-Plus 会员1个月卡密*1",
-      "link": "https://linux.do/t/topic/1963950"
-    },
-    {
-      "id": "0478a101f885",
-      "title": "Cursor++ 轻指南 v0.0.6",
-      "link": "https://linux.do/t/topic/1957183"
-    },
-    {
-      "id": "95b6ef5a7beb",
-      "title": "【MIT 100%开源】CC GUI 客户端版 正式发布",
-      "link": "https://linux.do/t/topic/1959236"
-    },
-    {
-      "id": "042985d5f88f",
-      "title": "和老公的日常",
-      "link": "https://linux.do/t/topic/1958594"
-    },
-    {
-      "id": "a6f7ea7c8ea6",
-      "title": "【视频公益站】之前有佬分享过，如果没有赶上了，可以来看看",
-      "link": "https://linux.do/t/topic/1964317"
-    },
-    {
-      "id": "c2952d1e4ae9",
-      "title": "这下真被吊起来打了",
-      "link": "https://linux.do/t/topic/1948624"
-    },
-    {
-      "id": "21cd300a302a",
-      "title": "ChatGPT-Plus 会员1个月卡密(1)",
-      "link": "https://linux.do/t/topic/1964457"
-    },
-    {
-      "id": "f439a43ebfbd",
-      "title": "男子与Gemini聊天4732条后离世，父亲起诉谷歌，聊天记录中AI说：天堂在等着我们！",
-      "link": "https://linux.do/t/topic/1965545"
-    },
-    {
-      "id": "cec1f2b71aad",
-      "title": "【开源】Anything Analyzer — 傻瓜式生成 注册机|2API 协议分析文档，直接喂给 AI 写代码【支持对接CC等编程工具】【更新至 v 3.0.0 重磅更新支持系统级别监听】",
-      "link": "https://linux.do/t/topic/1955660"
-    },
-    {
-      "id": "038e7504b2a9",
-      "title": "Cursor++ | 极为顺滑的 BYOK Server 集成",
-      "link": "https://linux.do/t/topic/1926833"
-    },
-    {
-      "id": "cc8e3d886a08",
-      "title": "今天冲动打了人，好后悔",
-      "link": "https://linux.do/t/topic/1958250"
-    },
-    {
-      "id": "6dc0c3fb5328",
-      "title": "【鸭老师】4.12，哎呀人家笨笨嘟，小小红果热播第一，两天拿下！",
-      "link": "https://linux.do/t/topic/1949750"
-    },
-    {
-      "id": "4e9351dad561",
-      "title": "【抽奖】【Lv1】抽2个剩余5个月每月100G的机场订阅",
-      "link": "https://linux.do/t/topic/1965380"
-    },
-    {
-      "id": "a16e881c22ae",
-      "title": "any居然又可以用了，还速度超快，快蹬……",
-      "link": "https://linux.do/t/topic/1966707"
-    },
-    {
-      "id": "c2bce0491318",
-      "title": "AI无需恐慌，棋局尚未结束…",
-      "link": "https://linux.do/t/topic/1951320"
-    },
-    {
-      "id": "518517da6db7",
-      "title": "【抽奖】gpt team车位一个",
-      "link": "https://linux.do/t/topic/1962864"
+      "id": "2f59f388505f",
+      "title": "白嫖15天 GLM-5.1",
+      "link": "https://linux.do/t/topic/1969714"
     }
   ]
 }
