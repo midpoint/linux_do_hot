@@ -1,35 +1,35 @@
 {
   "ids": [
-    "f4578d7c2d7d",
-    "68d8efc45d35",
-    "6d0385af1991",
-    "dd4a0ce06d4b",
-    "552d74ffcfa5",
-    "c2ad0bb62560",
-    "1ba384fd87b4",
-    "cdce042cd7b0",
-    "6d75430cfd2d",
-    "a946059ea1fb",
-    "87f86b9c54ef",
-    "5878daeec25a",
-    "73c5d6f19cee",
-    "2dbe38026e45",
-    "99f50f342aea",
-    "baefc24a5ae6",
-    "cea27d6e6db4",
-    "d78fc925d5b0",
-    "803e1cd48ec2",
+    "d62bed92aa33",
+    "138108d73206",
+    "4ce0d58cf950",
+    "2316653f4113",
     "f0e6b78dc917",
+    "cdce042cd7b0",
+    "5878daeec25a",
+    "0b96b8d50293",
+    "5b10fce4f2fb",
     "b92b987e3567",
-    "f3baf258bef3",
-    "ee65fbc45882",
-    "36136d089115",
-    "9a76b37801e6",
-    "5e9b12de9a90",
-    "4ebec9955620",
-    "d3f9e906cecd",
+    "803e1cd48ec2",
+    "b209ac4e8e25",
+    "68d8efc45d35",
     "4ad0bc225f44",
-    "0b96b8d50293"
+    "429c8607204f",
+    "d88dab9cd749",
+    "752c00aceadd",
+    "0e6dd238f1d1",
+    "baefc24a5ae6",
+    "971b1b7f163f",
+    "d3f9e906cecd",
+    "9a76b37801e6",
+    "e9dfdb66f7e8",
+    "99c9dcc1d363",
+    "33aac6ece528",
+    "da90ac21857b",
+    "094414cac6a2",
+    "c2ad0bb62560",
+    "6d75430cfd2d",
+    "9669dd30be26"
   ],
   "items": [
     {
@@ -48,49 +48,24 @@
       "link": "https://linux.do/t/topic/482293"
     },
     {
+      "id": "0e6dd238f1d1",
+      "title": "两年才要升3级，没什么拿的出手，抽一张100的京东卡",
+      "link": "https://linux.do/t/topic/1983410"
+    },
+    {
+      "id": "752c00aceadd",
+      "title": "【君の公益】上线 claude-opus-4-7",
+      "link": "https://linux.do/t/topic/1984127"
+    },
+    {
+      "id": "971b1b7f163f",
+      "title": "Anthropic: 我认了，我蒸馏了其他模型，你能拿我怎么样？",
+      "link": "https://linux.do/t/topic/1983203"
+    },
+    {
       "id": "d3f9e906cecd",
       "title": "[抽奖]gemini pro一年 pixel渠道 1个",
       "link": "https://linux.do/t/topic/1979476"
-    },
-    {
-      "id": "87f86b9c54ef",
-      "title": "佬们，三级到底需要怎么保持呀，好不容易上去又掉下来了",
-      "link": "https://linux.do/t/topic/1979540"
-    },
-    {
-      "id": "b92b987e3567",
-      "title": "智谱 coding plan 正式开始封号！",
-      "link": "https://linux.do/t/topic/1977810"
-    },
-    {
-      "id": "cdce042cd7b0",
-      "title": "给佬友们汇报一下AI Agent岗位面试进展",
-      "link": "https://linux.do/t/topic/1979251"
-    },
-    {
-      "id": "ee65fbc45882",
-      "title": "【抽奖】作为新人，回馈社区，给大家抽一份ChatGPT 5X Pro",
-      "link": "https://linux.do/t/topic/1978268"
-    },
-    {
-      "id": "4ebec9955620",
-      "title": "OPUS4.7已在vertex上线",
-      "link": "https://linux.do/t/topic/1978390"
-    },
-    {
-      "id": "f4578d7c2d7d",
-      "title": "newapi充值漏洞",
-      "link": "https://linux.do/t/topic/1978902"
-    },
-    {
-      "id": "baefc24a5ae6",
-      "title": "关于信任等级3的要求是否合理",
-      "link": "https://linux.do/t/topic/1979764"
-    },
-    {
-      "id": "73c5d6f19cee",
-      "title": "美众议员提案将模型蒸馏定性为工业间谍，DeepSeek等中国AI公司拟被列入制裁名单！",
-      "link": "https://linux.do/t/topic/1979169"
     },
     {
       "id": "68d8efc45d35",
@@ -98,14 +73,29 @@
       "link": "https://linux.do/t/topic/1969598"
     },
     {
-      "id": "552d74ffcfa5",
-      "title": "GLM-5.1真这么好用？GPT-5.4 xhigh有必要换成GLM吗？",
-      "link": "https://linux.do/t/topic/1979320"
+      "id": "429c8607204f",
+      "title": "【4.16晚更新】[开源]今年A股收益率42.83%我只靠他？游资Skill！让格雷厄姆、陈小群同台竞技，帮你分析个股！",
+      "link": "https://linux.do/t/topic/1981105"
     },
     {
-      "id": "6d0385af1991",
-      "title": "Claude Code团队详解百万token上下文管理：模型在压缩摘要时智力最低，rewind才是最该养成的习惯！",
-      "link": "https://linux.do/t/topic/1979187"
+      "id": "99c9dcc1d363",
+      "title": "opus4.7注意力和gemini3.1pro坐一桌？？",
+      "link": "https://linux.do/t/topic/1983616"
+    },
+    {
+      "id": "5b10fce4f2fb",
+      "title": "老爸，对不起",
+      "link": "https://linux.do/t/topic/1981263"
+    },
+    {
+      "id": "baefc24a5ae6",
+      "title": "关于信任等级3的要求是否合理",
+      "link": "https://linux.do/t/topic/1979764"
+    },
+    {
+      "id": "094414cac6a2",
+      "title": "难道我要被崩老头了",
+      "link": "https://linux.do/t/topic/1982709"
     },
     {
       "id": "4ad0bc225f44",
@@ -113,19 +103,14 @@
       "link": "https://linux.do/t/topic/1957645"
     },
     {
+      "id": "da90ac21857b",
+      "title": "参加了学校Vibecoding竞赛面试后 老师拒绝培训我",
+      "link": "https://linux.do/t/topic/1983436"
+    },
+    {
       "id": "6d75430cfd2d",
       "title": "举报 一名用户",
       "link": "https://linux.do/t/topic/1957415"
-    },
-    {
-      "id": "f0e6b78dc917",
-      "title": "计算机专业现在真的还有前途吗？",
-      "link": "https://linux.do/t/topic/1979868"
-    },
-    {
-      "id": "a946059ea1fb",
-      "title": "内衣迷你洗衣机到底值不值得买？",
-      "link": "https://linux.do/t/topic/1976886"
     },
     {
       "id": "c2ad0bb62560",
@@ -133,29 +118,39 @@
       "link": "https://linux.do/t/topic/1961118"
     },
     {
-      "id": "f3baf258bef3",
-      "title": "中转被破了，搭建中转的注意了",
-      "link": "https://linux.do/t/topic/1979591"
+      "id": "138108d73206",
+      "title": "【最终贴】关于【 Huainova 】公益站",
+      "link": "https://linux.do/t/topic/1982348"
     },
     {
-      "id": "2dbe38026e45",
-      "title": "GLM 5.1 免费额度，AMP 新平替？",
-      "link": "https://linux.do/t/topic/1978681"
+      "id": "9669dd30be26",
+      "title": "GPT生图新模型？？！ 好强",
+      "link": "https://linux.do/t/topic/1983555"
     },
     {
-      "id": "36136d089115",
-      "title": "【抽奖】200个长效令牌邮箱",
-      "link": "https://linux.do/t/topic/1976455"
+      "id": "2316653f4113",
+      "title": "来自官方System Card的Claude Opus 4.7牙膏倒吸实证",
+      "link": "https://linux.do/t/topic/1983983"
     },
     {
-      "id": "99f50f342aea",
-      "title": "看看大伙五一都计划去哪儿玩",
-      "link": "https://linux.do/t/topic/1977161"
+      "id": "d62bed92aa33",
+      "title": "不是any…. OPUS 4.7!!",
+      "link": "https://linux.do/t/topic/1983491"
     },
     {
-      "id": "cea27d6e6db4",
-      "title": "GLM他凭啥啊",
-      "link": "https://linux.do/t/topic/1978882"
+      "id": "e9dfdb66f7e8",
+      "title": "怎么感觉Opus 4.7 语气有点像GPT",
+      "link": "https://linux.do/t/topic/1984103"
+    },
+    {
+      "id": "b209ac4e8e25",
+      "title": "GPT 新模型太顶了，效果逼真",
+      "link": "https://linux.do/t/topic/1983836"
+    },
+    {
+      "id": "33aac6ece528",
+      "title": "NexBrowser-指纹浏览器公测，隐私安全丝滑快速上手，欢迎佬友们来当创始会员",
+      "link": "https://linux.do/t/topic/1981037"
     },
     {
       "id": "0b96b8d50293",
@@ -163,24 +158,29 @@
       "link": "https://linux.do/t/topic/1962660"
     },
     {
-      "id": "5e9b12de9a90",
-      "title": "有了AI，感觉自己无所不能",
-      "link": "https://linux.do/t/topic/1978582"
+      "id": "cdce042cd7b0",
+      "title": "给佬友们汇报一下AI Agent岗位面试进展",
+      "link": "https://linux.do/t/topic/1979251"
     },
     {
-      "id": "d78fc925d5b0",
-      "title": "不舍得也是一种浪费",
-      "link": "https://linux.do/t/topic/1978440"
+      "id": "b92b987e3567",
+      "title": "智谱 coding plan 正式开始封号！",
+      "link": "https://linux.do/t/topic/1977810"
     },
     {
-      "id": "1ba384fd87b4",
-      "title": "【抽奖】500 个 hotmail",
-      "link": "https://linux.do/t/topic/1976352"
+      "id": "d88dab9cd749",
+      "title": "claude 账户触发身份验证了（已解决）",
+      "link": "https://linux.do/t/topic/1980741"
     },
     {
-      "id": "dd4a0ce06d4b",
-      "title": "有件事事情很苦恼啊！",
-      "link": "https://linux.do/t/topic/1977203"
+      "id": "4ce0d58cf950",
+      "title": "Opus 4.7已发布",
+      "link": "https://linux.do/t/topic/1983068"
+    },
+    {
+      "id": "f0e6b78dc917",
+      "title": "计算机专业现在真的还有前途吗？",
+      "link": "https://linux.do/t/topic/1979868"
     }
   ]
 }
