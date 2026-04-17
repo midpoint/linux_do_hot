@@ -1,35 +1,35 @@
 {
   "ids": [
-    "c87122ea9260",
-    "243883226a1b",
-    "cdad7462b628",
-    "d0a9edff4c5b",
-    "a37240f8c921",
-    "752c00aceadd",
-    "803e1cd48ec2",
-    "1d38dcf26095",
-    "094414cac6a2",
-    "9a76b37801e6",
-    "5673d737f801",
-    "a386bbc32535",
-    "971b1b7f163f",
-    "1735b09587ed",
-    "bbe570305de6",
+    "c8dd9af9ba12",
+    "ae8e08ecd92d",
+    "c78445c90880",
+    "c5ab28dba755",
+    "6d75430cfd2d",
     "ff83df1a940a",
-    "e1a439ab1759",
-    "bd79cfa3c17d",
-    "0445d270faa5",
-    "3ba8745b7bd4",
-    "f7128a625566",
-    "68d8efc45d35",
-    "e5ef43643602",
-    "5050d8ae95d3",
-    "594e77a48555",
-    "a3086a594129",
-    "0e6dd238f1d1",
+    "243883226a1b",
     "f761b99f2555",
+    "9a76b37801e6",
+    "c19bbfb8d3b0",
+    "594e77a48555",
+    "0e6dd238f1d1",
+    "48c1bcd5010c",
+    "a37240f8c921",
+    "49eabef22c10",
+    "a3086a594129",
+    "c2ad0bb62560",
+    "e1a439ab1759",
+    "752c00aceadd",
+    "bbe570305de6",
+    "5e79fc8fe30a",
+    "4ad0bc225f44",
+    "68d8efc45d35",
+    "10aac4cfa29d",
+    "971b1b7f163f",
+    "094414cac6a2",
+    "b7745b59748c",
+    "bd79cfa3c17d",
     "5878daeec25a",
-    "435a190e24d5"
+    "803e1cd48ec2"
   ],
   "items": [
     {
@@ -48,19 +48,19 @@
       "link": "https://linux.do/t/topic/482293"
     },
     {
+      "id": "752c00aceadd",
+      "title": "【君の公益】上线 claude-opus-4-7",
+      "link": "https://linux.do/t/topic/1984127"
+    },
+    {
       "id": "bbe570305de6",
       "title": "感觉这里的技术讨论越来越少了？",
       "link": "https://linux.do/t/topic/1986202"
     },
     {
-      "id": "d0a9edff4c5b",
-      "title": "【抽奖】【科技平权】长时间赠送各类ai，成品号，卡密，礼品卡，邀请码",
-      "link": "https://linux.do/t/topic/1986471"
-    },
-    {
-      "id": "752c00aceadd",
-      "title": "【君の公益】上线 claude-opus-4-7",
-      "link": "https://linux.do/t/topic/1984127"
+      "id": "10aac4cfa29d",
+      "title": "也忒攒劲了w",
+      "link": "https://linux.do/t/topic/1988511"
     },
     {
       "id": "243883226a1b",
@@ -68,14 +68,19 @@
       "link": "https://linux.do/t/topic/1986172"
     },
     {
-      "id": "1735b09587ed",
-      "title": "【抽奖】YY新佬 codex 免费json第四波 20个，今天新鲜出炉！",
-      "link": "https://linux.do/t/topic/1986795"
+      "id": "48c1bcd5010c",
+      "title": "【抽奖】ChatGPT Plus月卡x2，自助激活，全程质保",
+      "link": "https://linux.do/t/topic/1990118"
     },
     {
-      "id": "ff83df1a940a",
-      "title": "【抽奖】3个GPT PLUS卡密 ，需要自主兑换",
-      "link": "https://linux.do/t/topic/1985276"
+      "id": "c19bbfb8d3b0",
+      "title": "Any牌路由器 SubAgent 和 Haiku 模型无法正常调用的解决办法",
+      "link": "https://linux.do/t/topic/1991311"
+    },
+    {
+      "id": "b7745b59748c",
+      "title": "GPT-IMAGE-2 生成海报以假乱真",
+      "link": "https://linux.do/t/topic/1987495"
     },
     {
       "id": "0e6dd238f1d1",
@@ -83,84 +88,9 @@
       "link": "https://linux.do/t/topic/1983410"
     },
     {
-      "id": "e1a439ab1759",
-      "title": "大学老师用Trae进行vibe coding教学 一种无力感扑面而来",
-      "link": "https://linux.do/t/topic/1987066"
-    },
-    {
-      "id": "5050d8ae95d3",
-      "title": "抽30个codex free json 账号，导入就可以使用",
-      "link": "https://linux.do/t/topic/1984577"
-    },
-    {
-      "id": "3ba8745b7bd4",
-      "title": "【抽奖】重磅福利！法国+德国+美国3条家宽直连节点一个月，共8条节点一人一条，禁止外传滥用下载哦！",
-      "link": "https://linux.do/t/topic/1985255"
-    },
-    {
-      "id": "594e77a48555",
-      "title": "Opus 4.7 骂声一片",
-      "link": "https://linux.do/t/topic/1984428"
-    },
-    {
-      "id": "f7128a625566",
-      "title": "小白问下，为啥现在大家都不讨论用DeepSeek了",
-      "link": "https://linux.do/t/topic/1986823"
-    },
-    {
-      "id": "e5ef43643602",
-      "title": "看4.7opus评价两极分化，决定测试一下",
-      "link": "https://linux.do/t/topic/1986675"
-    },
-    {
-      "id": "bd79cfa3c17d",
-      "title": "宝可梦 回归原始 直连0.1倍率！ 新协议稳定性测试 一定要更新客户端",
-      "link": "https://linux.do/t/topic/1985394"
-    },
-    {
-      "id": "a3086a594129",
-      "title": "Opus 4.7 真的好用吗？L站骂声一片",
-      "link": "https://linux.do/t/topic/1985080"
-    },
-    {
-      "id": "a386bbc32535",
-      "title": "【抽奖】100个hotmail长效邮箱（格式邮箱—-密码—-client_id—-rt Graphs授权）",
-      "link": "https://linux.do/t/topic/1986216"
-    },
-    {
-      "id": "435a190e24d5",
-      "title": "Any他真的，我哭死",
-      "link": "https://linux.do/t/topic/1984986"
-    },
-    {
-      "id": "094414cac6a2",
-      "title": "难道我要被崩老头了",
-      "link": "https://linux.do/t/topic/1982709"
-    },
-    {
-      "id": "1d38dcf26095",
-      "title": "【抽奖】一个 GPT Plus 月卡卡密",
-      "link": "https://linux.do/t/topic/1986095"
-    },
-    {
-      "id": "971b1b7f163f",
-      "title": "Anthropic: 我认了，我蒸馏了其他模型，你能拿我怎么样？",
-      "link": "https://linux.do/t/topic/1983203"
-    },
-    {
-      "id": "cdad7462b628",
-      "title": "【本次结束】omnitok公益小站临时开放小量注册",
-      "link": "https://linux.do/t/topic/1986568"
-    },
-    {
-      "id": "5673d737f801",
-      "title": "【重磅开源】基于 Agent 的AI短剧漫剧创作平台：融光",
-      "link": "https://linux.do/t/topic/1986023"
-    },
-    {
-      "id": "a37240f8c921",
-      "title": "只划水等级还会降吗",
-      "link": "https://linux.do/t/topic/1984711"
+      "id": "5e79fc8fe30a",
+      "title": "I’m back 老样子，佬，claude-opus-4-6 抽50位 爽蹬用户 共享2000刀",
+      "link": "https://linux.do/t/topic/1989291"
     },
     {
       "id": "68d8efc45d35",
@@ -168,19 +98,89 @@
       "link": "https://linux.do/t/topic/1969598"
     },
     {
+      "id": "c5ab28dba755",
+      "title": "【抽奖】抽四个team位置",
+      "link": "https://linux.do/t/topic/1988003"
+    },
+    {
+      "id": "ff83df1a940a",
+      "title": "【抽奖】3个GPT PLUS卡密 ，需要自主兑换",
+      "link": "https://linux.do/t/topic/1985276"
+    },
+    {
+      "id": "49eabef22c10",
+      "title": "[抽奖]6位数xyz域名",
+      "link": "https://linux.do/t/topic/1990425"
+    },
+    {
+      "id": "971b1b7f163f",
+      "title": "Anthropic: 我认了，我蒸馏了其他模型，你能拿我怎么样？",
+      "link": "https://linux.do/t/topic/1983203"
+    },
+    {
       "id": "f761b99f2555",
       "title": "【4.17下午更新】[开源]【Star破500！】今年A股收益率42.83%我只靠他？游资Skill！让格雷厄姆、陈小群同台竞技，帮你分析个股！",
       "link": "https://linux.do/t/topic/1981105"
     },
     {
-      "id": "c87122ea9260",
-      "title": "gpt这新生图模型真的假的啊，进步也太大了",
-      "link": "https://linux.do/t/topic/1986624"
+      "id": "a37240f8c921",
+      "title": "只划水等级还会降吗",
+      "link": "https://linux.do/t/topic/1984711"
     },
     {
-      "id": "0445d270faa5",
-      "title": "opus4.7真无敌了【cursor】",
-      "link": "https://linux.do/t/topic/1984237"
+      "id": "594e77a48555",
+      "title": "Opus 4.7 骂声一片",
+      "link": "https://linux.do/t/topic/1984428"
+    },
+    {
+      "id": "ae8e08ecd92d",
+      "title": "抽一个gpt plus",
+      "link": "https://linux.do/t/topic/1991581"
+    },
+    {
+      "id": "094414cac6a2",
+      "title": "难道我要被崩老头了",
+      "link": "https://linux.do/t/topic/1982709"
+    },
+    {
+      "id": "4ad0bc225f44",
+      "title": "赚了佬友的钱，还把佬友骂一顿",
+      "link": "https://linux.do/t/topic/1957645"
+    },
+    {
+      "id": "c8dd9af9ba12",
+      "title": "【抽奖】gpt team账号1个",
+      "link": "https://linux.do/t/topic/1991129"
+    },
+    {
+      "id": "6d75430cfd2d",
+      "title": "举报 一名用户",
+      "link": "https://linux.do/t/topic/1957415"
+    },
+    {
+      "id": "bd79cfa3c17d",
+      "title": "宝可梦 回归原始 直连0.1倍率！ 新协议稳定性测试 一定要更新客户端",
+      "link": "https://linux.do/t/topic/1985394"
+    },
+    {
+      "id": "c2ad0bb62560",
+      "title": "兜兜转转公益站一年了",
+      "link": "https://linux.do/t/topic/1961118"
+    },
+    {
+      "id": "c78445c90880",
+      "title": "看4.7opus评价两极分化，决定测试一下（结束）",
+      "link": "https://linux.do/t/topic/1986675"
+    },
+    {
+      "id": "e1a439ab1759",
+      "title": "大学老师用Trae进行vibe coding教学 一种无力感扑面而来",
+      "link": "https://linux.do/t/topic/1987066"
+    },
+    {
+      "id": "a3086a594129",
+      "title": "Opus 4.7 真的好用吗？L站骂声一片",
+      "link": "https://linux.do/t/topic/1985080"
     }
   ]
 }
