@@ -1,35 +1,35 @@
 {
   "ids": [
-    "0e6dd238f1d1",
-    "6d75430cfd2d",
-    "e0c99043bce8",
-    "10f0fd783a9b",
-    "92d2647f638d",
-    "9e1ace521c12",
-    "ce91e5bc8834",
-    "2dd1f85871a6",
-    "18e24b805905",
-    "c19bbfb8d3b0",
-    "506662199d8d",
-    "9492aa0dc352",
-    "bbe570305de6",
-    "dbaf5945e602",
-    "4bf6917f5721",
-    "68d8efc45d35",
-    "90d41c9e4af2",
-    "f2d497cba776",
-    "b7745b59748c",
-    "9a76b37801e6",
-    "5878daeec25a",
-    "85bb3a7b619e",
-    "752c00aceadd",
-    "d96026ae1f03",
-    "4ad0bc225f44",
-    "803e1cd48ec2",
-    "c7f0e1b445d6",
+    "f8089e2fa8af",
+    "32a0c1e1cbbf",
+    "46fec4eb366f",
+    "0c394a08d75f",
     "35441e18037d",
-    "10aac4cfa29d",
-    "b4d08794032d"
+    "d96026ae1f03",
+    "0547a1abac79",
+    "bbe570305de6",
+    "fce3b1639c4c",
+    "02c0a2b4c95b",
+    "46172f2fb96d",
+    "9492aa0dc352",
+    "4760a18685b2",
+    "730fd6f84c1c",
+    "4bf6917f5721",
+    "67d5ca791c82",
+    "752c00aceadd",
+    "9a76b37801e6",
+    "52ae4a2e9b38",
+    "803e1cd48ec2",
+    "95fcfa47387b",
+    "b4d08794032d",
+    "94cce2d50108",
+    "63c68d6f3c43",
+    "7cd6488fccdf",
+    "5878daeec25a",
+    "ad95dfde0e79",
+    "53d6fd527763",
+    "ca65dcdf81c0",
+    "7096bdb62304"
   ],
   "items": [
     {
@@ -48,9 +48,44 @@
       "link": "https://linux.do/t/topic/482293"
     },
     {
-      "id": "4bf6917f5721",
-      "title": "奥特曼又要瘫坐在地了，5.5可能要来了！",
-      "link": "https://linux.do/t/topic/1998087"
+      "id": "fce3b1639c4c",
+      "title": "真好记公益站恢复运营",
+      "link": "https://linux.do/t/topic/2000047"
+    },
+    {
+      "id": "ca65dcdf81c0",
+      "title": "【抽奖】ChatGPT Team *6 给佬们抽",
+      "link": "https://linux.do/t/topic/2001418"
+    },
+    {
+      "id": "95fcfa47387b",
+      "title": "抓紧！英伟达100年！的API Key 免费领！可用MiniMax 2.7等，简单几步，支持国内手机号",
+      "link": "https://linux.do/t/topic/2000322"
+    },
+    {
+      "id": "0c394a08d75f",
+      "title": "[福利抽奖] 纯净 (+1) Telegram 账号（1-3个月号）",
+      "link": "https://linux.do/t/topic/1999911"
+    },
+    {
+      "id": "46fec4eb366f",
+      "title": "第二弹【 Sun 公益站】邀请码",
+      "link": "https://linux.do/t/topic/2001219"
+    },
+    {
+      "id": "53d6fd527763",
+      "title": "比你优秀的人还比你努力？",
+      "link": "https://linux.do/t/topic/2001214"
+    },
+    {
+      "id": "52ae4a2e9b38",
+      "title": "【抽奖】接着奏乐接着舞，抽ChatGPTPlus质保月卡一张，庆祝士多重开",
+      "link": "https://linux.do/t/topic/2000364"
+    },
+    {
+      "id": "ad95dfde0e79",
+      "title": "普林斯顿博士生YifanZhang 透露：DeepSeek V4下周发布，披露三项架构组件！",
+      "link": "https://linux.do/t/topic/2000649"
     },
     {
       "id": "752c00aceadd",
@@ -58,9 +93,34 @@
       "link": "https://linux.do/t/topic/1984127"
     },
     {
-      "id": "90d41c9e4af2",
-      "title": "第一弹【 Sun 公益站】很小规模使用codex 不定时更新！",
-      "link": "https://linux.do/t/topic/1998503"
+      "id": "32a0c1e1cbbf",
+      "title": "才发现今天是自己的生日",
+      "link": "https://linux.do/t/topic/2001742"
+    },
+    {
+      "id": "4bf6917f5721",
+      "title": "奥特曼又要瘫坐在地了，5.5可能要来了！",
+      "link": "https://linux.do/t/topic/1998087"
+    },
+    {
+      "id": "94cce2d50108",
+      "title": "claude查询自己账号是否需要kyc状态",
+      "link": "https://linux.do/t/topic/2000318"
+    },
+    {
+      "id": "67d5ca791c82",
+      "title": "【CPA】初来乍到~分享个反代的GLM5.1吧~嘻嘻~",
+      "link": "https://linux.do/t/topic/2001588"
+    },
+    {
+      "id": "f8089e2fa8af",
+      "title": "疑似可以0元开OpenAI Pro?",
+      "link": "https://linux.do/t/topic/2000839"
+    },
+    {
+      "id": "7096bdb62304",
+      "title": "现在的你们是否明白父母",
+      "link": "https://linux.do/t/topic/2000150"
     },
     {
       "id": "bbe570305de6",
@@ -73,14 +133,9 @@
       "link": "https://linux.do/t/topic/1998978"
     },
     {
-      "id": "92d2647f638d",
-      "title": "毁了 全都毁了",
-      "link": "https://linux.do/t/topic/1993426"
-    },
-    {
-      "id": "b4d08794032d",
-      "title": "我发现我几乎所有的发言都被举报了，最近论坛内的言论有点风声鹤唳啊",
-      "link": "https://linux.do/t/topic/1992043"
+      "id": "02c0a2b4c95b",
+      "title": "plus在清算了？",
+      "link": "https://linux.do/t/topic/1999733"
     },
     {
       "id": "803e1cd48ec2",
@@ -88,19 +143,14 @@
       "link": "https://linux.do/t/topic/1911417"
     },
     {
-      "id": "506662199d8d",
-      "title": "帮生成 GPT image 2 图片",
-      "link": "https://linux.do/t/topic/1995151"
+      "id": "4760a18685b2",
+      "title": "【CHY API公益站】主站已恢复访问",
+      "link": "https://linux.do/t/topic/1999175"
     },
     {
-      "id": "c7f0e1b445d6",
-      "title": "GPT image 2夯爆了",
-      "link": "https://linux.do/t/topic/1993397"
-    },
-    {
-      "id": "c19bbfb8d3b0",
-      "title": "Any牌路由器 SubAgent 和 Haiku 模型无法正常调用的解决办法",
-      "link": "https://linux.do/t/topic/1991311"
+      "id": "730fd6f84c1c",
+      "title": "【抽奖】1个GPT PLUS卡密 ，需要自主兑换（无质保）",
+      "link": "https://linux.do/t/topic/2000959"
     },
     {
       "id": "d96026ae1f03",
@@ -108,79 +158,29 @@
       "link": "https://linux.do/t/topic/1998770"
     },
     {
-      "id": "dbaf5945e602",
-      "title": "Vibe Coding 能抹平小白和大牛的差距吗？",
-      "link": "https://linux.do/t/topic/1991904"
+      "id": "0547a1abac79",
+      "title": "兄弟们， 电报机器人充的pro 20x，已经掉了！用了两天，血亏啊！",
+      "link": "https://linux.do/t/topic/1999237"
     },
     {
-      "id": "68d8efc45d35",
-      "title": "AI科研不完全指北：Top10 PhD烧了上万刀的真实经验。 Context Is All You Need",
-      "link": "https://linux.do/t/topic/1969598"
+      "id": "63c68d6f3c43",
+      "title": "第二弹【 Sun 公益站】很小规模使用codex 不定时更新！",
+      "link": "https://linux.do/t/topic/1998503"
     },
     {
-      "id": "ce91e5bc8834",
-      "title": "记一次对 Claude Opus 4.7 的真实项目需求的横向评测（T3 榜迎来了它可能是最严厉的父亲）",
-      "link": "https://linux.do/t/topic/1994501"
+      "id": "7cd6488fccdf",
+      "title": "社区准则更新公告 2604181600",
+      "link": "https://linux.do/t/topic/293017"
     },
     {
-      "id": "e0c99043bce8",
-      "title": "Arena 说Opus 4.7确实在一些领域严重倒退",
-      "link": "https://linux.do/t/topic/1994690"
+      "id": "b4d08794032d",
+      "title": "我发现我几乎所有的发言都被举报了，最近论坛内的言论有点风声鹤唳啊",
+      "link": "https://linux.do/t/topic/1992043"
     },
     {
-      "id": "85bb3a7b619e",
-      "title": "Vibe Coding 是个谎言：你以为在用 AI 加速开发，其实在加速腐烂",
-      "link": "https://linux.do/t/topic/1998867"
-    },
-    {
-      "id": "10aac4cfa29d",
-      "title": "也忒攒劲了w",
-      "link": "https://linux.do/t/topic/1988511"
-    },
-    {
-      "id": "b7745b59748c",
-      "title": "GPT-IMAGE-2 生成海报以假乱真",
-      "link": "https://linux.do/t/topic/1987495"
-    },
-    {
-      "id": "10f0fd783a9b",
-      "title": "一文讲清35.97亿幽灵外卖罚单的来龙去脉",
-      "link": "https://linux.do/t/topic/1996693"
-    },
-    {
-      "id": "9e1ace521c12",
-      "title": "邀请码怎么获取？我想给我几个研究生和学生能几个邀请码。大学课堂上讲不了什么。",
-      "link": "https://linux.do/t/topic/1997511"
-    },
-    {
-      "id": "2dd1f85871a6",
-      "title": "不懂就问，焚决是什么？",
-      "link": "https://linux.do/t/topic/1998824"
-    },
-    {
-      "id": "0e6dd238f1d1",
-      "title": "两年才要升3级，没什么拿的出手，抽一张100的京东卡",
-      "link": "https://linux.do/t/topic/1983410"
-    },
-    {
-      "id": "4ad0bc225f44",
-      "title": "赚了佬友的钱，还把佬友骂一顿",
-      "link": "https://linux.do/t/topic/1957645"
-    },
-    {
-      "id": "6d75430cfd2d",
-      "title": "举报 一名用户",
-      "link": "https://linux.do/t/topic/1957415"
-    },
-    {
-      "id": "18e24b805905",
-      "title": "我对于A社目前策略的一些可能想法",
-      "link": "https://linux.do/t/topic/1995182"
-    },
-    {
-      "id": "f2d497cba776",
-      "title": "看看佬友们的活跃程度",
-      "link": "https://linux.do/t/topic/1997996"
+      "id": "46172f2fb96d",
+      "title": "马上三级了，有哪位科普一下三级的好处吗？",
+      "link": "https://linux.do/t/topic/1999650"
     }
   ]
 }
