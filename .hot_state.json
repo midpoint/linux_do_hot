@@ -1,35 +1,35 @@
 {
   "ids": [
-    "b0f86fdcd739",
-    "822f8d2fa5ff",
-    "03139f517205",
-    "1f1914f3d9b3",
-    "517f22b3da17",
-    "cfc3b90d6aa8",
-    "ab8745846149",
-    "6a86f577698e",
-    "9a76b37801e6",
-    "0782c547bfa3",
-    "82662e0ebe13",
-    "3a5bc4f69e33",
-    "1a8b7b4dc2d8",
-    "d0fa9f74bb78",
-    "6062cf68b995",
-    "9492aa0dc352",
-    "98a07a819989",
-    "bfff6cb07db5",
-    "da39144c6b39",
-    "fa0841a5c624",
-    "67109a38ce40",
-    "8405608a7b9e",
-    "40fd0501bde2",
-    "9d2c8f4a6881",
-    "bba11a03f1fe",
-    "1c3bad224869",
     "939370b8285f",
-    "89a589698049",
+    "e9f0aaaa948f",
+    "e176751b7803",
+    "1a8b7b4dc2d8",
+    "9a4f2a746dc9",
+    "7f7668471980",
+    "82662e0ebe13",
+    "9048eefb7395",
+    "8405608a7b9e",
+    "3bc9bae4f6aa",
+    "3f7c1f03f727",
+    "1a7aa9ef65a9",
+    "4775ac7c6324",
+    "5878daeec25a",
+    "99efb1c47615",
+    "fa0841a5c624",
     "a0a63be8ca16",
-    "5878daeec25a"
+    "9a76b37801e6",
+    "fcf437dbdb76",
+    "f947b83afedb",
+    "822f8d2fa5ff",
+    "89a589698049",
+    "9492aa0dc352",
+    "20af18d40bae",
+    "938e5d6ee59d",
+    "f82134622d7a",
+    "98a07a819989",
+    "57243db4eca8",
+    "03139f517205",
+    "29122d521fa2"
   ],
   "items": [
     {
@@ -58,14 +58,9 @@
       "link": "https://linux.do/t/topic/2046052"
     },
     {
-      "id": "8405608a7b9e",
-      "title": "【开源推广】作为一名在读博士生，我在日常是如何与 AI 协作的？——ai-collab-playbook",
-      "link": "https://linux.do/t/topic/2059718"
-    },
-    {
-      "id": "b0f86fdcd739",
-      "title": "【晚上开放注册】【 Huainova公益站】",
-      "link": "https://linux.do/t/topic/2056809"
+      "id": "29122d521fa2",
+      "title": "DeepSeek V4真正的划时代意义在哪里？不仅仅是价格便宜，它证明了中国 AI 正式从被卡脖子进入到自身产能爬坡的拐点",
+      "link": "https://linux.do/t/topic/2061320"
     },
     {
       "id": "89a589698049",
@@ -73,14 +68,9 @@
       "link": "https://linux.do/t/topic/2044358"
     },
     {
-      "id": "fa0841a5c624",
-      "title": "新加坡 Claude 用量世界第一",
-      "link": "https://linux.do/t/topic/2058873"
-    },
-    {
-      "id": "1c3bad224869",
-      "title": "快lv3了分享下网络小说skill集，扫榜、拆书、去AI味等等",
-      "link": "https://linux.do/t/topic/2059487"
+      "id": "57243db4eca8",
+      "title": "【开放注册】【 Huainova公益站】",
+      "link": "https://linux.do/t/topic/2056809"
     },
     {
       "id": "a0a63be8ca16",
@@ -88,14 +78,29 @@
       "link": "https://linux.do/t/topic/2036927"
     },
     {
-      "id": "6062cf68b995",
-      "title": "想买华为手机有劝退的吗（主要是系统担心）",
-      "link": "https://linux.do/t/topic/2058591"
+      "id": "e176751b7803",
+      "title": "梁圣这是干什么？缓存永久一折啦！",
+      "link": "https://linux.do/t/topic/2061624"
     },
     {
-      "id": "bba11a03f1fe",
-      "title": "【公益推广】顾烫头公益站 15:00放少量名额",
-      "link": "https://linux.do/t/topic/2058897"
+      "id": "8405608a7b9e",
+      "title": "【开源推广】作为一名在读博士生，我在日常是如何与 AI 协作的？——ai-collab-playbook",
+      "link": "https://linux.do/t/topic/2059718"
+    },
+    {
+      "id": "9048eefb7395",
+      "title": "周一9点，国内各大模型厂商应该会集体骂Deepseek吧",
+      "link": "https://linux.do/t/topic/2061918"
+    },
+    {
+      "id": "f82134622d7a",
+      "title": "deepseek 官方优惠更新 缓存1折（更新：永久1折）",
+      "link": "https://linux.do/t/topic/2061474"
+    },
+    {
+      "id": "fcf437dbdb76",
+      "title": "DS v4 强在哪里？",
+      "link": "https://linux.do/t/topic/2062604"
     },
     {
       "id": "98a07a819989",
@@ -103,54 +108,24 @@
       "link": "https://linux.do/t/topic/2024335"
     },
     {
-      "id": "40fd0501bde2",
-      "title": "最近怎么好多优秀开源作者都被用户喷到停更啊（附事件回顾）",
-      "link": "https://linux.do/t/topic/2059406"
+      "id": "3bc9bae4f6aa",
+      "title": "Share API 已支持 DeepSeek V4",
+      "link": "https://linux.do/t/topic/2061081"
     },
     {
-      "id": "1a8b7b4dc2d8",
-      "title": "gpt确实稳，稳到让我无语",
-      "link": "https://linux.do/t/topic/2059710"
+      "id": "3f7c1f03f727",
+      "title": "有点想放弃codex了，codex工程化能力缺陷太明显",
+      "link": "https://linux.do/t/topic/2061684"
     },
     {
-      "id": "d0fa9f74bb78",
-      "title": "【抽奖】TG【缅甸+95】1~12月 x 5",
-      "link": "https://linux.do/t/topic/2059334"
+      "id": "fa0841a5c624",
+      "title": "新加坡 Claude 用量世界第一",
+      "link": "https://linux.do/t/topic/2058873"
     },
     {
-      "id": "cfc3b90d6aa8",
-      "title": "中国大模型不被定义 不诱于誉，不恐于诽，率道而行，端然正己。",
-      "link": "https://linux.do/t/topic/2059579"
-    },
-    {
-      "id": "6a86f577698e",
-      "title": "【兰兰】EdgeChat 更快、更轻量、更现代化的聊天室",
-      "link": "https://linux.do/t/topic/2059655"
-    },
-    {
-      "id": "ab8745846149",
-      "title": "表白我最喜欢的模型：Gemini-3-flash",
-      "link": "https://linux.do/t/topic/2059454"
-    },
-    {
-      "id": "82662e0ebe13",
-      "title": "【开源】一份超高质量+个性化定制的PPT生成skill（依赖gpt image2）",
-      "link": "https://linux.do/t/topic/2059034"
-    },
-    {
-      "id": "67109a38ce40",
-      "title": "感觉DeepSeek4 flash吊打MiniMax 2.7，小需求实测",
-      "link": "https://linux.do/t/topic/2059635"
-    },
-    {
-      "id": "517f22b3da17",
-      "title": "小妙招，使用提示词注入让gpt5.4说人话。",
-      "link": "https://linux.do/t/topic/2058620"
-    },
-    {
-      "id": "bfff6cb07db5",
-      "title": "【省钱系列13】Claude Code Max额度到底是怎么算的，独家解方程得真相",
-      "link": "https://linux.do/t/topic/2059526"
+      "id": "1a7aa9ef65a9",
+      "title": "ds v4 这是杀疯了！",
+      "link": "https://linux.do/t/topic/2062066"
     },
     {
       "id": "03139f517205",
@@ -158,29 +133,54 @@
       "link": "https://linux.do/t/topic/2047422"
     },
     {
-      "id": "0782c547bfa3",
-      "title": "对自己的leader有好感该怎么办（我不想努力了？）",
-      "link": "https://linux.do/t/topic/1830207"
+      "id": "9a4f2a746dc9",
+      "title": "刚刚和GPT面基了，没有心动的感觉",
+      "link": "https://linux.do/t/topic/2060564"
     },
     {
-      "id": "1f1914f3d9b3",
-      "title": "image2提示词~捧脸，谁能不爱",
-      "link": "https://linux.do/t/topic/2056166"
+      "id": "938e5d6ee59d",
+      "title": "最近自己折腾了一台物理机，搭了个自建中转池子。",
+      "link": "https://linux.do/t/topic/2062954"
     },
     {
-      "id": "3a5bc4f69e33",
-      "title": "我的漫剧项目破千star了",
-      "link": "https://linux.do/t/topic/2058297"
+      "id": "20af18d40bae",
+      "title": "20字限制两周后……",
+      "link": "https://linux.do/t/topic/2012971"
     },
     {
-      "id": "da39144c6b39",
-      "title": "deepseek官方v4pro降价 2.5折 输出6元",
-      "link": "https://linux.do/t/topic/2055769"
+      "id": "4775ac7c6324",
+      "title": "喝茶推荐从什么喝起",
+      "link": "https://linux.do/t/topic/2060613"
     },
     {
-      "id": "9d2c8f4a6881",
-      "title": "白宫记者晚宴发生枪击事件",
-      "link": "https://linux.do/t/topic/2058123"
+      "id": "f947b83afedb",
+      "title": "我始终坚持AI应该和电一样便宜",
+      "link": "https://linux.do/t/topic/2061865"
+    },
+    {
+      "id": "1a8b7b4dc2d8",
+      "title": "gpt确实稳，稳到让我无语",
+      "link": "https://linux.do/t/topic/2059710"
+    },
+    {
+      "id": "7f7668471980",
+      "title": "通用焚决千篇一律，特殊风格万里挑一 | 一些非大流二次元向自用Prompt合集 | 一些自制焚决的思路",
+      "link": "https://linux.do/t/topic/2044964"
+    },
+    {
+      "id": "e9f0aaaa948f",
+      "title": "DeepSeek V4 pro 开发一天的感受",
+      "link": "https://linux.do/t/topic/2061119"
+    },
+    {
+      "id": "82662e0ebe13",
+      "title": "【开源】一份超高质量+个性化定制的PPT生成skill（依赖gpt image2）",
+      "link": "https://linux.do/t/topic/2059034"
+    },
+    {
+      "id": "99efb1c47615",
+      "title": "研究生科研工具与网站（个人推荐）",
+      "link": "https://linux.do/t/topic/2062844"
     }
   ]
 }
