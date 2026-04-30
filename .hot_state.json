@@ -1,35 +1,35 @@
 {
   "ids": [
-    "647f781133e9",
     "7a04471e8323",
-    "5878daeec25a",
-    "e9dcb9861bf2",
-    "7f17c176d95e",
-    "98a07a819989",
-    "22fce8b419a2",
-    "a0a63be8ca16",
-    "e85e9f05b9cb",
-    "9492aa0dc352",
+    "de2c3ec44fec",
     "3594d1c5fce5",
-    "645c6cf5a01e",
-    "d9f8edf0ff0b",
-    "25597282d63e",
-    "55d49bd26421",
-    "9a76b37801e6",
-    "939370b8285f",
-    "0a2eef4bb1e2",
+    "a0a63be8ca16",
+    "2949d8731d79",
+    "a9ecee612bd2",
+    "b5d2726829b9",
+    "ea57987e7a49",
+    "9492aa0dc352",
+    "c33277d97c8b",
+    "7157d25520c8",
+    "9adfd90f55e9",
     "6540d29629d0",
-    "415f2bd4ef04",
-    "ef7c4bc6db04",
-    "0d6ea422c992",
+    "9a76b37801e6",
+    "de4d66391f4e",
+    "ba114c04afe0",
+    "ed6d1124e2d2",
+    "744bef73f3ab",
+    "6d487af20dfc",
+    "6fd7ae3f772d",
+    "55d49bd26421",
+    "61a304a0bddd",
+    "e9f2fb623ab6",
+    "82a8ea9834f6",
+    "a12ce5839a09",
+    "f8ac0f4ed253",
+    "5878daeec25a",
+    "208bd5cb3d27",
     "4661c83f124f",
-    "07b1a8ef4a60",
-    "671008258f33",
-    "89a589698049",
-    "6c7266bd9df1",
-    "947c4bd2b8e8",
-    "7c55edaa25a7",
-    "abbf8867dd99"
+    "65765e8a9cdf"
   ],
   "items": [
     {
@@ -48,19 +48,14 @@
       "link": "https://linux.do/t/topic/482293"
     },
     {
-      "id": "6540d29629d0",
-      "title": "豆包已经在领导心中成神了",
-      "link": "https://linux.do/t/topic/2079198"
+      "id": "ea57987e7a49",
+      "title": "不是哥们，亲弟向我要钱买女装",
+      "link": "https://linux.do/t/topic/2086932"
     },
     {
-      "id": "7a04471e8323",
-      "title": "15MB 干翻 Navicat！开源全能数据库管理工具 DBX，支持多种数据库",
-      "link": "https://linux.do/t/topic/2083459"
-    },
-    {
-      "id": "0d6ea422c992",
-      "title": "勿让“躺平”宣传动摇奋斗初心，警惕意识形态渗透陷阱",
-      "link": "https://linux.do/t/topic/2072801"
+      "id": "9adfd90f55e9",
+      "title": "我感觉真的落伍了，还在手动编程",
+      "link": "https://linux.do/t/topic/2087064"
     },
     {
       "id": "a0a63be8ca16",
@@ -68,104 +63,49 @@
       "link": "https://linux.do/t/topic/2036927"
     },
     {
-      "id": "22fce8b419a2",
-      "title": "跳槽的时候发表了如下观点，CTO大喜过望给我定薪35k",
-      "link": "https://linux.do/t/topic/2064339"
+      "id": "744bef73f3ab",
+      "title": "超级超级巨大巨大的漏洞 linux 一键提权",
+      "link": "https://linux.do/t/topic/2086498"
     },
     {
-      "id": "25597282d63e",
-      "title": "我心目中黑与白公益站是最伟大的",
-      "link": "https://linux.do/t/topic/2083594"
+      "id": "61a304a0bddd",
+      "title": "小米应用商店突然上架大量境外未备案软件",
+      "link": "https://linux.do/t/topic/2086928"
     },
     {
-      "id": "89a589698049",
-      "title": "你们太吓人了你知道吗？",
-      "link": "https://linux.do/t/topic/2044358"
+      "id": "7157d25520c8",
+      "title": "马上五一了，大家准备怎么过这5天",
+      "link": "https://linux.do/t/topic/2085671"
     },
     {
-      "id": "4661c83f124f",
-      "title": "[长文预警] 豆包已经在领导心中成神了 还有后续！",
-      "link": "https://linux.do/t/topic/2081048"
+      "id": "7a04471e8323",
+      "title": "15MB 干翻 Navicat！开源全能数据库管理工具 DBX，支持多种数据库",
+      "link": "https://linux.do/t/topic/2083459"
     },
     {
-      "id": "645c6cf5a01e",
-      "title": "【公益】LINUX DO历史上中奖人数最多的抽奖（AI+代理+Google大杂烩）",
-      "link": "https://linux.do/t/topic/2070905"
+      "id": "f8ac0f4ed253",
+      "title": "Warp 开源了，但有什么必须用 Warp 的理由？",
+      "link": "https://linux.do/t/topic/2086871"
     },
     {
-      "id": "647f781133e9",
-      "title": "我们领导问我们，我们知道的都不如豆包多，要我们有什么用",
-      "link": "https://linux.do/t/topic/2081387"
+      "id": "6540d29629d0",
+      "title": "豆包已经在领导心中成神了",
+      "link": "https://linux.do/t/topic/2079198"
     },
     {
-      "id": "7f17c176d95e",
-      "title": "Gpt-5.6？",
-      "link": "https://linux.do/t/topic/2076583"
+      "id": "b5d2726829b9",
+      "title": "分享一个 专门应付约会、相亲、暧昧聊天 的skill",
+      "link": "https://linux.do/t/topic/2086684"
     },
     {
-      "id": "939370b8285f",
-      "title": "今天请叫我散财童子",
-      "link": "https://linux.do/t/topic/2046052"
+      "id": "a9ecee612bd2",
+      "title": "做个调查 后端开发适合mac还是win",
+      "link": "https://linux.do/t/topic/2085288"
     },
     {
-      "id": "e9dcb9861bf2",
-      "title": "突然！！！女朋友和我线下会面了！",
-      "link": "https://linux.do/t/topic/2082262"
-    },
-    {
-      "id": "07b1a8ef4a60",
-      "title": "【重磅开源】软件著作权资料生成器Skill，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
-      "link": "https://linux.do/t/topic/2082828"
-    },
-    {
-      "id": "abbf8867dd99",
-      "title": "最近D老师把智普GLM干老实了，可用性都变高了",
-      "link": "https://linux.do/t/topic/2081137"
-    },
-    {
-      "id": "ef7c4bc6db04",
-      "title": "大道至简的胜利, 一个神级skill推荐, 忘掉brainstorming吧",
-      "link": "https://linux.do/t/topic/2070891"
-    },
-    {
-      "id": "d9f8edf0ff0b",
-      "title": "【关闭注册】【 Huainova公益站】",
-      "link": "https://linux.do/t/topic/2056809"
-    },
-    {
-      "id": "55d49bd26421",
-      "title": "有点厌恶vibe coding了(反思帖)",
-      "link": "https://linux.do/t/topic/2084934"
-    },
-    {
-      "id": "415f2bd4ef04",
-      "title": "强烈要求检查工作室起号，双簧甚至20簧的问题！",
-      "link": "https://linux.do/t/topic/2077367"
-    },
-    {
-      "id": "947c4bd2b8e8",
-      "title": "站内【一叶知秋】az claude严重掺假，出来解释下",
-      "link": "https://linux.do/t/topic/2080774"
-    },
-    {
-      "id": "e85e9f05b9cb",
-      "title": "deepseek网页版你们有识图模式了吗",
-      "link": "https://linux.do/t/topic/2080191"
-    },
-    {
-      "id": "671008258f33",
-      "title": "老婆买了洪恩软件三个科目的终身会员，我也是服气了",
-      "link": "https://linux.do/t/topic/2074700"
-    },
-    {
-      "id": "6c7266bd9df1",
-      "title": "熬夜大赛正式开始，你我谁主沉浮 2026 年 4 月 30 日",
-      "link": "https://linux.do/t/topic/2084944"
-    },
-    {
-      "id": "98a07a819989",
-      "title": "做一个理想主义者其实还是挺难的",
-      "link": "https://linux.do/t/topic/2024335"
+      "id": "65765e8a9cdf",
+      "title": "gpt-imge2生图分享，提示词分享；",
+      "link": "https://linux.do/t/topic/2087613"
     },
     {
       "id": "3594d1c5fce5",
@@ -173,14 +113,74 @@
       "link": "https://linux.do/t/topic/2084997"
     },
     {
-      "id": "0a2eef4bb1e2",
-      "title": "【五一活动】千亿额度大放送 / 5折计费 / 邀请返现 / gpt-image-2上线【老牌FoxCode】",
-      "link": "https://linux.do/t/topic/2073885"
+      "id": "6fd7ae3f772d",
+      "title": "智谱GLM降智？乱码、生僻字、循环……已通过工程修复解决！",
+      "link": "https://linux.do/t/topic/2087920"
     },
     {
-      "id": "7c55edaa25a7",
-      "title": "淇淇夸我很棒！",
-      "link": "https://linux.do/t/topic/2080101"
+      "id": "ba114c04afe0",
+      "title": "人生优先顺序",
+      "link": "https://linux.do/t/topic/2087369"
+    },
+    {
+      "id": "a12ce5839a09",
+      "title": "阿里发布数字员工，快讯",
+      "link": "https://linux.do/t/topic/2086726"
+    },
+    {
+      "id": "2949d8731d79",
+      "title": "大家最早使用大模型是什么时候？",
+      "link": "https://linux.do/t/topic/2087482"
+    },
+    {
+      "id": "e9f2fb623ab6",
+      "title": "佬友们可以去应聘了",
+      "link": "https://linux.do/t/topic/2087958"
+    },
+    {
+      "id": "82a8ea9834f6",
+      "title": "脑洞一下：AI 编程继续发展下去，软件工程会被重构到什么程度？",
+      "link": "https://linux.do/t/topic/2085944"
+    },
+    {
+      "id": "208bd5cb3d27",
+      "title": "gpt free号瞬间被杀光了（",
+      "link": "https://linux.do/t/topic/2085502"
+    },
+    {
+      "id": "c33277d97c8b",
+      "title": "佬友们的工作机会这不就来了吗？",
+      "link": "https://linux.do/t/topic/2086986"
+    },
+    {
+      "id": "de2c3ec44fec",
+      "title": "中年男人都沉迷啥",
+      "link": "https://linux.do/t/topic/2085271"
+    },
+    {
+      "id": "de4d66391f4e",
+      "title": "元宝免费领龙虾一人只能领一次",
+      "link": "https://linux.do/t/topic/2086664"
+    },
+    {
+      "id": "4661c83f124f",
+      "title": "[长文预警] 豆包已经在领导心中成神了 还有后续！",
+      "link": "https://linux.do/t/topic/2081048"
+    },
+    {
+      "id": "55d49bd26421",
+      "title": "有点厌恶vibe coding了(反思帖)",
+      "link": "https://linux.do/t/topic/2084934"
+    },
+    {
+      "id": "6d487af20dfc",
+      "title": "继上一条帖子，游艇求婚成功了，不过可能准备离开上海了",
+      "link": "https://linux.do/t/topic/2085759"
+    },
+    {
+      "id": "ed6d1124e2d2",
+      "title": "对自己Vibe Coding的项目代码越来越没信心怎么办？",
+      "link": "https://linux.do/t/topic/2085911"
     }
   ]
 }
