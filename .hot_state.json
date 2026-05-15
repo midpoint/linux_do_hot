@@ -1,35 +1,35 @@
 {
   "ids": [
-    "49d02299bba0",
-    "133ba392d39b",
-    "24ad6c2dedb0",
-    "b62a5690bfbe",
-    "fe2a65a7215a",
-    "0409755366ce",
-    "03cf3ad37341",
-    "cbe7f6fc948d",
-    "4541461ce845",
-    "6f16deaec1f2",
-    "50534e14365c",
-    "1dc7b6e46bc8",
-    "e5101e95bfcc",
-    "59fdb77c1cf3",
-    "d8f5bc366846",
-    "5a6a87a64226",
-    "2efec7d04575",
-    "776a8430fbd3",
-    "586e87287e10",
-    "28d2b8c75cb5",
-    "8d7db4ee490c",
-    "5878daeec25a",
-    "97ac7a59e0dd",
-    "9a76b37801e6",
-    "60ef9e05f42b",
-    "1134a0874711",
-    "69a76bb2b569",
-    "9492aa0dc352",
+    "92949a4b7faa",
+    "233dc1af9bd4",
     "e9fcc143cf49",
-    "c28ca0ef8d0e"
+    "c8390d45fabc",
+    "adfda35a6ad9",
+    "f8f1ef31a54c",
+    "f55b7226d76a",
+    "268053b592f6",
+    "7a85d1b7e7ea",
+    "b66527621597",
+    "8b1dfa6d7be2",
+    "9a76b37801e6",
+    "2c97abb0a436",
+    "e1f30ab959b2",
+    "9130f3038b2b",
+    "784528270786",
+    "a006976be1b4",
+    "d8f5bc366846",
+    "649a09ec820b",
+    "481fcd53684c",
+    "b5dfcd5a72be",
+    "ce33200c0ad7",
+    "269dc5592f2d",
+    "5878daeec25a",
+    "5c8e22b750a7",
+    "6364906153de",
+    "bc16ac52cca2",
+    "9492aa0dc352",
+    "168d092dc8d1",
+    "014ad2c0d129"
   ],
   "items": [
     {
@@ -53,134 +53,134 @@
       "link": "https://linux.do/t/topic/482293"
     },
     {
+      "id": "e1f30ab959b2",
+      "title": "君の公益 上线codex",
+      "link": "https://linux.do/t/topic/2179203"
+    },
+    {
+      "id": "9130f3038b2b",
+      "title": "Anthropic: 如果美国维持芯片禁运、防范模型蒸馏，到2028年可以让中国模型落后12-24个月。",
+      "link": "https://linux.do/t/topic/2180511"
+    },
+    {
+      "id": "b66527621597",
+      "title": "请教佬们,老弟今年高考,大学选择什么专业比较好",
+      "link": "https://linux.do/t/topic/2181513"
+    },
+    {
+      "id": "b5dfcd5a72be",
+      "title": "【 axis API 】 gpt Pro号池中转 ，月卡低至0.225",
+      "link": "https://linux.do/t/topic/2179775"
+    },
+    {
+      "id": "269dc5592f2d",
+      "title": "我一直以为自己很废、直到…发小问我有没有存款",
+      "link": "https://linux.do/t/topic/2181167"
+    },
+    {
+      "id": "8b1dfa6d7be2",
+      "title": "毕业10年没工作，我把自己活成了一座孤岛",
+      "link": "https://linux.do/t/topic/2180444"
+    },
+    {
+      "id": "649a09ec820b",
+      "title": "你们说，以前没有电脑的时候，程序员是怎么写代码的？",
+      "link": "https://linux.do/t/topic/2181736"
+    },
+    {
+      "id": "168d092dc8d1",
+      "title": "有个疑问，大家真的觉得学习AI让自己变强了么",
+      "link": "https://linux.do/t/topic/2179955"
+    },
+    {
+      "id": "014ad2c0d129",
+      "title": "准备当老赖了，有没有什么好的建议？",
+      "link": "https://linux.do/t/topic/2179016"
+    },
+    {
+      "id": "7a85d1b7e7ea",
+      "title": "好奇统计下多少佬友高位买房被套的？我先来，230W现在120W不到",
+      "link": "https://linux.do/t/topic/2179466"
+    },
+    {
+      "id": "92949a4b7faa",
+      "title": "部门老大亲自让我教学ai coding怎么办 （非开发岗）",
+      "link": "https://linux.do/t/topic/2180916"
+    },
+    {
       "id": "d8f5bc366846",
       "title": "佬们，女朋友过生日我给买了个1000的包包，我生日跟她差十几天，她连生日快乐也没跟我说",
       "link": "https://linux.do/t/topic/2173202"
     },
     {
-      "id": "8d7db4ee490c",
-      "title": "雷军出席宴会并与马斯克合影",
-      "link": "https://linux.do/t/topic/2176302"
+      "id": "f8f1ef31a54c",
+      "title": "vibecoding中毒后价值观被重塑了，好可怕",
+      "link": "https://linux.do/t/topic/2182011"
     },
     {
-      "id": "59fdb77c1cf3",
-      "title": "花了 8 个月，我做了一款自己真正想用的 AI 聊天应用 – R4 Chat",
-      "link": "https://linux.do/t/topic/2174335"
+      "id": "ce33200c0ad7",
+      "title": "今天周五，明天又可以歇着了，各位周末一般做什么",
+      "link": "https://linux.do/t/topic/2179298"
     },
     {
-      "id": "fe2a65a7215a",
-      "title": "业内人士,向佬友揭露一下流氓APP是怎么围剿猎杀用户的",
-      "link": "https://linux.do/t/topic/2161543"
+      "id": "6364906153de",
+      "title": "想调用deepseekv4进行开发但是不知道使用什么工具好比较切合deepseekv4，claude和codex太难弄了",
+      "link": "https://linux.do/t/topic/2181481"
     },
     {
-      "id": "24ad6c2dedb0",
-      "title": "[公益站] 分享300刀额度 | OhMyAPI(已关闭注册)",
-      "link": "https://linux.do/t/topic/2178868"
+      "id": "481fcd53684c",
+      "title": "独立开发的产品收到3个永久的订阅了，开心",
+      "link": "https://linux.do/t/topic/2181765"
     },
     {
-      "id": "5a6a87a64226",
-      "title": "奉劝买 mac book 的得注意了，我是后悔了",
+      "id": "adfda35a6ad9",
+      "title": "自由了，今日离职",
+      "link": "https://linux.do/t/topic/2179853"
+    },
+    {
+      "id": "c8390d45fabc",
+      "title": "【岛主】继续唠唠买房的二三事，写给想买房的佬",
+      "link": "https://linux.do/t/topic/2181695"
+    },
+    {
+      "id": "f55b7226d76a",
+      "title": "我们目前需要一个小程序或者APP专门处理我们民宿的一些杂事主要需要成本低一点的",
+      "link": "https://linux.do/t/topic/2180737"
+    },
+    {
+      "id": "233dc1af9bd4",
+      "title": "ai来了，工作量为什么反而更多了？",
+      "link": "https://linux.do/t/topic/2181969"
+    },
+    {
+      "id": "bc16ac52cca2",
+      "title": "【警钟长鸣】cpa被别人用了",
+      "link": "https://linux.do/t/topic/2181222"
+    },
+    {
+      "id": "a006976be1b4",
+      "title": "推行AI全栈，如何选择开发语言",
+      "link": "https://linux.do/t/topic/2181873"
+    },
+    {
+      "id": "784528270786",
+      "title": "这次特朗普访华我觉得最可乐的三个乐子",
+      "link": "https://linux.do/t/topic/2181424"
+    },
+    {
+      "id": "268053b592f6",
+      "title": "奉劝买 mac book 的跑模型得注意了，我是后悔了",
       "link": "https://linux.do/t/topic/2178286"
     },
     {
-      "id": "49d02299bba0",
-      "title": "谁想交给我一些有趣的任务？",
-      "link": "https://linux.do/t/topic/2176296"
+      "id": "2c97abb0a436",
+      "title": "说说你为什么喜欢linux.do这个地方！",
+      "link": "https://linux.do/t/topic/2180364"
     },
     {
-      "id": "50534e14365c",
-      "title": "【岛主】聊聊大厂的斩杀线，给志在大厂的佬友们说点掏心窝的话",
-      "link": "https://linux.do/t/topic/2174841"
-    },
-    {
-      "id": "e5101e95bfcc",
-      "title": "天塌了，数据库被黑客删库了，交 BTC 才会恢复数据，大家有办法恢复数据么",
-      "link": "https://linux.do/t/topic/2178399"
-    },
-    {
-      "id": "586e87287e10",
-      "title": "焦虑，马上520了，又要准备礼物，佬友们都买了什么啊？",
-      "link": "https://linux.do/t/topic/2172539"
-    },
-    {
-      "id": "1dc7b6e46bc8",
-      "title": "二级也挺好",
-      "link": "https://linux.do/t/topic/2172129"
-    },
-    {
-      "id": "b62a5690bfbe",
-      "title": "特朗普果然是精明的商人",
-      "link": "https://linux.do/t/topic/2174709"
-    },
-    {
-      "id": "6f16deaec1f2",
-      "title": "Simprint，一个开源指纹浏览器",
-      "link": "https://linux.do/t/topic/2177670"
-    },
-    {
-      "id": "4541461ce845",
-      "title": "学生手持100万应该怎么办？",
-      "link": "https://linux.do/t/topic/2173103"
-    },
-    {
-      "id": "c28ca0ef8d0e",
-      "title": "这是认真的吗？简历上写的是QQ邮箱很掉分",
-      "link": "https://linux.do/t/topic/2163495"
-    },
-    {
-      "id": "cbe7f6fc948d",
-      "title": "还FLAG，猛男粉是真有",
-      "link": "https://linux.do/t/topic/2155418"
-    },
-    {
-      "id": "2efec7d04575",
-      "title": "房价暴跌，本人房子已经严重资不抵债",
-      "link": "https://linux.do/t/topic/2165860"
-    },
-    {
-      "id": "133ba392d39b",
-      "title": "【教学版深度分析】Windsurf 内部 Feature Toggles 全量解密 + Stripe 支付流程还原",
-      "link": "https://linux.do/t/topic/2177193"
-    },
-    {
-      "id": "97ac7a59e0dd",
-      "title": "【超详细｜保姆级教程】手机搭建服务器 · 第 二 期",
-      "link": "https://linux.do/t/topic/2177558"
-    },
-    {
-      "id": "28d2b8c75cb5",
-      "title": "路透社：今晚国宴或以淮扬菜待客",
-      "link": "https://linux.do/t/topic/2175292"
-    },
-    {
-      "id": "69a76bb2b569",
-      "title": "目前发现升三级福利",
-      "link": "https://linux.do/t/topic/2172340"
-    },
-    {
-      "id": "0409755366ce",
-      "title": "美国批准向 10 家中国公司出售 H200 芯片",
-      "link": "https://linux.do/t/topic/2174760"
-    },
-    {
-      "id": "1134a0874711",
-      "title": "黄仁勋在最后一刻上了飞机参加特朗普的访华行程",
-      "link": "https://linux.do/t/topic/2166177"
-    },
-    {
-      "id": "776a8430fbd3",
-      "title": "开了中转站被抓，保真不？",
-      "link": "https://linux.do/t/topic/2164256"
-    },
-    {
-      "id": "60ef9e05f42b",
-      "title": "被开盒了怎么办？",
-      "link": "https://linux.do/t/topic/2178130"
-    },
-    {
-      "id": "03cf3ad37341",
-      "title": "各位去 日本 旅行，有什么需要准备和注意的吗？",
-      "link": "https://linux.do/t/topic/2174554"
+      "id": "5c8e22b750a7",
+      "title": "不知道大家还记不记得和AI的第一次对话",
+      "link": "https://linux.do/t/topic/2181384"
     }
   ]
 }
