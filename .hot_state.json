@@ -1,35 +1,35 @@
 {
   "ids": [
-    "0fb1a80b7b93",
-    "5878daeec25a",
-    "6835bd924ec6",
-    "9a76b37801e6",
+    "a8cc6c5eef55",
+    "094c26ab76bc",
+    "d75205e22763",
+    "6bd10e2f57b6",
+    "ab170884da7f",
+    "6ff2215acca3",
+    "91d25b46d56a",
+    "ec838f8f5c54",
+    "10cf82154520",
+    "9a9451d0d0dd",
+    "db764d332283",
+    "91fee33f1569",
+    "0f6369856cc1",
     "59fa66e7618a",
-    "9e9c9e0a1709",
-    "275153c41701",
-    "a4a0b7e02f8c",
+    "5fab144b2ad4",
     "ac658424ec80",
-    "a5bc95b7ed1e",
-    "d45428bc0968",
-    "28629d29388e",
-    "774c6ea968bf",
-    "c90ebb8198e7",
-    "8bf1dc614fbf",
-    "a0a63be8ca16",
-    "ff5b563943ef",
-    "3f6f80de4215",
-    "fe2a65a7215a",
-    "c93632653b9e",
-    "e9fcc143cf49",
+    "787d5c099b43",
     "9492aa0dc352",
-    "9130f3038b2b",
-    "9218dcc1cf4e",
-    "5a17d6cef5bc",
-    "2fca4d45e800",
-    "e1cba415ef4f",
-    "7182da3b4863",
-    "e1f30ab959b2",
-    "d2be3b1e253e"
+    "e9fcc143cf49",
+    "4dd7658c09d2",
+    "a5bc95b7ed1e",
+    "5be6d9613047",
+    "ed7cf5ed7c88",
+    "616065a1d880",
+    "f1518a12d7d7",
+    "1b83d667afeb",
+    "9a76b37801e6",
+    "5878daeec25a",
+    "0dba24c435c2",
+    "2d472bf46700"
   ],
   "items": [
     {
@@ -53,24 +53,89 @@
       "link": "https://linux.do/t/topic/482293"
     },
     {
-      "id": "774c6ea968bf",
-      "title": "从今以后，奥特曼不是我们的兄弟，你是路人",
-      "link": "https://linux.do/t/topic/2192103"
+      "id": "9a9451d0d0dd",
+      "title": "豆包还是太权威了",
+      "link": "https://linux.do/t/topic/2197844"
     },
     {
-      "id": "59fa66e7618a",
-      "title": "我发现或许 GPT 5.5真的不是一个好的VibeCoding模型",
-      "link": "https://linux.do/t/topic/2194192"
+      "id": "db764d332283",
+      "title": "cli怎么念",
+      "link": "https://linux.do/t/topic/2198372"
     },
     {
-      "id": "e1f30ab959b2",
-      "title": "君の公益 上线codex",
-      "link": "https://linux.do/t/topic/2179203"
+      "id": "0dba24c435c2",
+      "title": "节约或省钱有错吗？",
+      "link": "https://linux.do/t/topic/2197780"
     },
     {
-      "id": "a5bc95b7ed1e",
-      "title": "专科生在这个时代没有出路吗？",
-      "link": "https://linux.do/t/topic/2194605"
+      "id": "ec838f8f5c54",
+      "title": "全面拉闸不远了",
+      "link": "https://linux.do/t/topic/2198144"
+    },
+    {
+      "id": "6ff2215acca3",
+      "title": "脚真菌感染，试了一些方法",
+      "link": "https://linux.do/t/topic/2198126"
+    },
+    {
+      "id": "ab170884da7f",
+      "title": "经常在社交媒体上看到那种用AI赚了十几万、几十万的发言，这是真的吗？",
+      "link": "https://linux.do/t/topic/2198600"
+    },
+    {
+      "id": "10cf82154520",
+      "title": "【抽奖】2个Chatgpt-Plus月卡账号（cpajson）",
+      "link": "https://linux.do/t/topic/2197416"
+    },
+    {
+      "id": "a8cc6c5eef55",
+      "title": "已经看不过来 AI 生成的代码了，佬友们是怎么 review 代码的，有没有最牛的方案？",
+      "link": "https://linux.do/t/topic/2198290"
+    },
+    {
+      "id": "91fee33f1569",
+      "title": "宁做白嫖人，不做付费客",
+      "link": "https://linux.do/t/topic/2197981"
+    },
+    {
+      "id": "4dd7658c09d2",
+      "title": "minimaxm2.5和opus4.6差别大吗？",
+      "link": "https://linux.do/t/topic/2197326"
+    },
+    {
+      "id": "094c26ab76bc",
+      "title": "又动了买车的念头…",
+      "link": "https://linux.do/t/topic/2196405"
+    },
+    {
+      "id": "ed7cf5ed7c88",
+      "title": "起名帖–急急急",
+      "link": "https://linux.do/t/topic/2198674"
+    },
+    {
+      "id": "0f6369856cc1",
+      "title": "感谢openai和马耳他政府送来的1年plus",
+      "link": "https://linux.do/t/topic/2194972"
+    },
+    {
+      "id": "f1518a12d7d7",
+      "title": "28 岁硕士毕业，负债失业，去往何方？",
+      "link": "https://linux.do/t/topic/2195944"
+    },
+    {
+      "id": "616065a1d880",
+      "title": "Linux 之父 Linus 发飙：别用 AI 提交大量重复 Bug 报告，直接提修复方案，OK？",
+      "link": "https://linux.do/t/topic/2197451"
+    },
+    {
+      "id": "6bd10e2f57b6",
+      "title": "AI多久会取代程序员",
+      "link": "https://linux.do/t/topic/2197118"
+    },
+    {
+      "id": "91d25b46d56a",
+      "title": "mimo-v2.5-pro是啥水平呢，而且真是自研的吗…",
+      "link": "https://linux.do/t/topic/2197909"
     },
     {
       "id": "ac658424ec80",
@@ -78,109 +143,44 @@
       "link": "https://linux.do/t/topic/2193904"
     },
     {
-      "id": "d45428bc0968",
-      "title": "聊聊我对海外esim的一些拙见",
-      "link": "https://linux.do/t/topic/2192200"
+      "id": "2d472bf46700",
+      "title": "从长远看，哪些职业是AI无法替代的？",
+      "link": "https://linux.do/t/topic/2195749"
     },
     {
-      "id": "c93632653b9e",
-      "title": "中国电信推出试商用 Token 套餐",
-      "link": "https://linux.do/t/topic/2192445"
+      "id": "1b83d667afeb",
+      "title": "如何减少日益增多的奶龙……",
+      "link": "https://linux.do/t/topic/2197999"
     },
     {
-      "id": "7182da3b4863",
-      "title": "君の公益 一点小小的改动",
-      "link": "https://linux.do/t/topic/2184729"
+      "id": "5fab144b2ad4",
+      "title": "codex给我家网线切断了：：",
+      "link": "https://linux.do/t/topic/2197162"
     },
     {
-      "id": "a4a0b7e02f8c",
-      "title": "Claude Office Addon",
-      "link": "https://linux.do/t/topic/2185278"
+      "id": "5be6d9613047",
+      "title": "（直接txt领吧）刚刚注册了50个kiro free好像没有什么用，各位佬友友需要自行领取 9*10",
+      "link": "https://linux.do/t/topic/2198423"
     },
     {
-      "id": "9130f3038b2b",
-      "title": "Anthropic: 如果美国维持芯片禁运、防范模型蒸馏，到2028年可以让中国模型落后12-24个月。",
-      "link": "https://linux.do/t/topic/2180511"
+      "id": "787d5c099b43",
+      "title": "618又到了，大佬们都准备买点啥",
+      "link": "https://linux.do/t/topic/2195967"
     },
     {
-      "id": "3f6f80de4215",
-      "title": "星辰小店清库存，送了",
-      "link": "https://linux.do/t/topic/2191994"
+      "id": "59fa66e7618a",
+      "title": "我发现或许 GPT 5.5真的不是一个好的VibeCoding模型",
+      "link": "https://linux.do/t/topic/2194192"
     },
     {
-      "id": "9218dcc1cf4e",
-      "title": "租房全流程避坑终极指南",
-      "link": "https://linux.do/t/topic/2191262"
+      "id": "a5bc95b7ed1e",
+      "title": "专科生在这个时代没有出路吗？",
+      "link": "https://linux.do/t/topic/2194605"
     },
     {
-      "id": "e1cba415ef4f",
-      "title": "旧 iPhone 之 必装浏览器",
-      "link": "https://linux.do/t/topic/2191499"
-    },
-    {
-      "id": "0fb1a80b7b93",
-      "title": "【CHY公益站】打赢复活赛啦！CHY公益站恢复咯！",
-      "link": "https://linux.do/t/topic/2186837"
-    },
-    {
-      "id": "fe2a65a7215a",
-      "title": "业内人士,向佬友揭露一下流氓APP是怎么围剿猎杀用户的",
-      "link": "https://linux.do/t/topic/2161543"
-    },
-    {
-      "id": "c90ebb8198e7",
-      "title": "老马拉大车：2080Ti跑DeepSeek-V4-Flash",
-      "link": "https://linux.do/t/topic/2191479"
-    },
-    {
-      "id": "d2be3b1e253e",
-      "title": "精心打磨的远程 vibe 工具来了",
-      "link": "https://linux.do/t/topic/2189412"
-    },
-    {
-      "id": "5a17d6cef5bc",
-      "title": "【动态头像】不再是三级特权了",
-      "link": "https://linux.do/t/topic/2191726"
-    },
-    {
-      "id": "6835bd924ec6",
-      "title": "清醒一点！人不能被AI操控",
-      "link": "https://linux.do/t/topic/2193075"
-    },
-    {
-      "id": "8bf1dc614fbf",
-      "title": "第一次用macbook，有啥必装的软件不",
-      "link": "https://linux.do/t/topic/2193673"
-    },
-    {
-      "id": "9e9c9e0a1709",
-      "title": "搭建个人网站再也不用花钱买“云服务器”了 – cloudflare",
-      "link": "https://linux.do/t/topic/2192184"
-    },
-    {
-      "id": "28629d29388e",
-      "title": "Gemini3.5Pro好像要来了，编程追平GPT-5.5",
-      "link": "https://linux.do/t/topic/2184358"
-    },
-    {
-      "id": "ff5b563943ef",
-      "title": "OpenAI 与马耳他政府合作，向全体公民免费提供一年 ChatGPT Plus（兄弟们进货了）",
-      "link": "https://linux.do/t/topic/2187841"
-    },
-    {
-      "id": "2fca4d45e800",
-      "title": "Gemini 3.5 Pro的剧本如下",
-      "link": "https://linux.do/t/topic/2189664"
-    },
-    {
-      "id": "a0a63be8ca16",
-      "title": "gpt image 2 生图评比大赛",
-      "link": "https://linux.do/t/topic/2036927"
-    },
-    {
-      "id": "275153c41701",
-      "title": "【最新主贴】 CCG v3.0 ：不用记命令了，/ccg:go 说人话就能开发 | Hook 状态追踪 + 多模型协作 + Agent Teams 并行 + codex主导模式",
-      "link": "https://linux.do/t/topic/2189439"
+      "id": "d75205e22763",
+      "title": "结合各位佬在我前一个日本旅行评论区建议帖子，总结了一个最终版，各位佬再帮忙看看",
+      "link": "https://linux.do/t/topic/2197861"
     }
   ]
 }
