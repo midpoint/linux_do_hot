@@ -1,35 +1,35 @@
 {
   "ids": [
-    "a8cc6c5eef55",
-    "094c26ab76bc",
-    "d75205e22763",
-    "6bd10e2f57b6",
-    "ab170884da7f",
-    "6ff2215acca3",
-    "91d25b46d56a",
+    "ac658424ec80",
+    "3bc39bf8c116",
+    "a5bc95b7ed1e",
+    "fdfe925a5a97",
+    "2dcde7ef30d2",
+    "59fa66e7618a",
+    "e5403f8bde3c",
+    "23c6aa52d47a",
+    "0f6369856cc1",
     "ec838f8f5c54",
+    "7182da3b4863",
+    "db764d332283",
+    "d0ca69203fa9",
     "10cf82154520",
     "9a9451d0d0dd",
-    "db764d332283",
-    "91fee33f1569",
-    "0f6369856cc1",
-    "59fa66e7618a",
-    "5fab144b2ad4",
-    "ac658424ec80",
-    "787d5c099b43",
-    "9492aa0dc352",
-    "e9fcc143cf49",
-    "4dd7658c09d2",
-    "a5bc95b7ed1e",
-    "5be6d9613047",
-    "ed7cf5ed7c88",
-    "616065a1d880",
+    "774c6ea968bf",
+    "e1f30ab959b2",
+    "17a3fbacb683",
+    "a8cc6c5eef55",
+    "f481bf9740ee",
     "f1518a12d7d7",
-    "1b83d667afeb",
-    "9a76b37801e6",
+    "fb06ec7882d0",
+    "e9fcc143cf49",
+    "094c26ab76bc",
     "5878daeec25a",
-    "0dba24c435c2",
-    "2d472bf46700"
+    "9db9eb8aa1d2",
+    "9a76b37801e6",
+    "ba8392195e2a",
+    "2a94929d6d26",
+    "9492aa0dc352"
   ],
   "items": [
     {
@@ -53,19 +53,24 @@
       "link": "https://linux.do/t/topic/482293"
     },
     {
+      "id": "3bc39bf8c116",
+      "title": "对象毕业三年不工作，我有点忍不住了",
+      "link": "https://linux.do/t/topic/2200248"
+    },
+    {
+      "id": "fb06ec7882d0",
+      "title": "差点忘了，给各位报个平安",
+      "link": "https://linux.do/t/topic/2202164"
+    },
+    {
       "id": "9a9451d0d0dd",
       "title": "豆包还是太权威了",
       "link": "https://linux.do/t/topic/2197844"
     },
     {
-      "id": "db764d332283",
-      "title": "cli怎么念",
-      "link": "https://linux.do/t/topic/2198372"
-    },
-    {
-      "id": "0dba24c435c2",
-      "title": "节约或省钱有错吗？",
-      "link": "https://linux.do/t/topic/2197780"
+      "id": "2a94929d6d26",
+      "title": "导师送了一年gpt team",
+      "link": "https://linux.do/t/topic/2199884"
     },
     {
       "id": "ec838f8f5c54",
@@ -73,69 +78,24 @@
       "link": "https://linux.do/t/topic/2198144"
     },
     {
-      "id": "6ff2215acca3",
-      "title": "脚真菌感染，试了一些方法",
-      "link": "https://linux.do/t/topic/2198126"
+      "id": "e5403f8bde3c",
+      "title": "1141 TPS！谷歌新gemini-3.5flash简单测评-谷歌黑科技即将带领大参数模型进入速度新时代",
+      "link": "https://linux.do/t/topic/2202212"
     },
     {
-      "id": "ab170884da7f",
-      "title": "经常在社交媒体上看到那种用AI赚了十几万、几十万的发言，这是真的吗？",
-      "link": "https://linux.do/t/topic/2198600"
+      "id": "23c6aa52d47a",
+      "title": "L站，GPT羊毛史官 编年史",
+      "link": "https://linux.do/t/topic/2196712"
     },
     {
-      "id": "10cf82154520",
-      "title": "【抽奖】2个Chatgpt-Plus月卡账号（cpajson）",
-      "link": "https://linux.do/t/topic/2197416"
+      "id": "ba8392195e2a",
+      "title": "【岛主】分享半年来我的AI 副业折腾之路",
+      "link": "https://linux.do/t/topic/2199561"
     },
     {
-      "id": "a8cc6c5eef55",
-      "title": "已经看不过来 AI 生成的代码了，佬友们是怎么 review 代码的，有没有最牛的方案？",
-      "link": "https://linux.do/t/topic/2198290"
-    },
-    {
-      "id": "91fee33f1569",
-      "title": "宁做白嫖人，不做付费客",
-      "link": "https://linux.do/t/topic/2197981"
-    },
-    {
-      "id": "4dd7658c09d2",
-      "title": "minimaxm2.5和opus4.6差别大吗？",
-      "link": "https://linux.do/t/topic/2197326"
-    },
-    {
-      "id": "094c26ab76bc",
-      "title": "又动了买车的念头…",
-      "link": "https://linux.do/t/topic/2196405"
-    },
-    {
-      "id": "ed7cf5ed7c88",
-      "title": "起名帖–急急急",
-      "link": "https://linux.do/t/topic/2198674"
-    },
-    {
-      "id": "0f6369856cc1",
-      "title": "感谢openai和马耳他政府送来的1年plus",
-      "link": "https://linux.do/t/topic/2194972"
-    },
-    {
-      "id": "f1518a12d7d7",
-      "title": "28 岁硕士毕业，负债失业，去往何方？",
-      "link": "https://linux.do/t/topic/2195944"
-    },
-    {
-      "id": "616065a1d880",
-      "title": "Linux 之父 Linus 发飙：别用 AI 提交大量重复 Bug 报告，直接提修复方案，OK？",
-      "link": "https://linux.do/t/topic/2197451"
-    },
-    {
-      "id": "6bd10e2f57b6",
-      "title": "AI多久会取代程序员",
-      "link": "https://linux.do/t/topic/2197118"
-    },
-    {
-      "id": "91d25b46d56a",
-      "title": "mimo-v2.5-pro是啥水平呢，而且真是自研的吗…",
-      "link": "https://linux.do/t/topic/2197909"
+      "id": "db764d332283",
+      "title": "cli怎么念",
+      "link": "https://linux.do/t/topic/2198372"
     },
     {
       "id": "ac658424ec80",
@@ -143,29 +103,54 @@
       "link": "https://linux.do/t/topic/2193904"
     },
     {
-      "id": "2d472bf46700",
-      "title": "从长远看，哪些职业是AI无法替代的？",
-      "link": "https://linux.do/t/topic/2195749"
+      "id": "fdfe925a5a97",
+      "title": "分享一下看论文的焚绝",
+      "link": "https://linux.do/t/topic/2200416"
     },
     {
-      "id": "1b83d667afeb",
-      "title": "如何减少日益增多的奶龙……",
-      "link": "https://linux.do/t/topic/2197999"
+      "id": "a8cc6c5eef55",
+      "title": "已经看不过来 AI 生成的代码了，佬友们是怎么 review 代码的，有没有最牛的方案？",
+      "link": "https://linux.do/t/topic/2198290"
     },
     {
-      "id": "5fab144b2ad4",
-      "title": "codex给我家网线切断了：：",
-      "link": "https://linux.do/t/topic/2197162"
+      "id": "10cf82154520",
+      "title": "【抽奖】2个Chatgpt-Plus月卡账号（cpajson）",
+      "link": "https://linux.do/t/topic/2197416"
     },
     {
-      "id": "5be6d9613047",
-      "title": "（直接txt领吧）刚刚注册了50个kiro free好像没有什么用，各位佬友友需要自行领取 9*10",
-      "link": "https://linux.do/t/topic/2198423"
+      "id": "9db9eb8aa1d2",
+      "title": "把自己封装成LLM接口供大家调用",
+      "link": "https://linux.do/t/topic/2199296"
     },
     {
-      "id": "787d5c099b43",
-      "title": "618又到了，大佬们都准备买点啥",
-      "link": "https://linux.do/t/topic/2195967"
+      "id": "2dcde7ef30d2",
+      "title": "免费答疑，ai漫剧的二三事。",
+      "link": "https://linux.do/t/topic/2201486"
+    },
+    {
+      "id": "e1f30ab959b2",
+      "title": "君の公益 上线codex",
+      "link": "https://linux.do/t/topic/2179203"
+    },
+    {
+      "id": "0f6369856cc1",
+      "title": "感谢openai和马耳他政府送来的1年plus",
+      "link": "https://linux.do/t/topic/2194972"
+    },
+    {
+      "id": "774c6ea968bf",
+      "title": "从今以后，奥特曼不是我们的兄弟，你是路人",
+      "link": "https://linux.do/t/topic/2192103"
+    },
+    {
+      "id": "17a3fbacb683",
+      "title": "注册L站第50天，今日即将飞升！记录贴",
+      "link": "https://linux.do/t/topic/2202261"
+    },
+    {
+      "id": "094c26ab76bc",
+      "title": "又动了买车的念头…",
+      "link": "https://linux.do/t/topic/2196405"
     },
     {
       "id": "59fa66e7618a",
@@ -173,14 +158,29 @@
       "link": "https://linux.do/t/topic/2194192"
     },
     {
+      "id": "7182da3b4863",
+      "title": "君の公益 一点小小的改动",
+      "link": "https://linux.do/t/topic/2184729"
+    },
+    {
+      "id": "d0ca69203fa9",
+      "title": "520送女孩子什么礼物比较好",
+      "link": "https://linux.do/t/topic/2199890"
+    },
+    {
+      "id": "f481bf9740ee",
+      "title": "禾维AI检测竟看站点下菜？！！",
+      "link": "https://linux.do/t/topic/2199605"
+    },
+    {
       "id": "a5bc95b7ed1e",
       "title": "专科生在这个时代没有出路吗？",
       "link": "https://linux.do/t/topic/2194605"
     },
     {
-      "id": "d75205e22763",
-      "title": "结合各位佬在我前一个日本旅行评论区建议帖子，总结了一个最终版，各位佬再帮忙看看",
-      "link": "https://linux.do/t/topic/2197861"
+      "id": "f1518a12d7d7",
+      "title": "28 岁硕士毕业，负债失业，去往何方？",
+      "link": "https://linux.do/t/topic/2195944"
     }
   ]
 }
