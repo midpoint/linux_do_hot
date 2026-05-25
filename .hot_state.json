@@ -1,35 +1,35 @@
 {
   "ids": [
-    "d5037162318f",
-    "f8df5e044e61",
-    "0ecf16c7afc6",
-    "95a4f53d2610",
-    "f6ccae906a37",
+    "0285203d20f5",
+    "2b7ecb8e5a7c",
+    "35816c6ca00b",
+    "b670417d2d79",
+    "79558820fd85",
+    "2cf0e8e13e33",
+    "4fcd0b270cb1",
+    "920501ee3191",
+    "2e27466865ab",
+    "dedd5c5f83b7",
     "9a76b37801e6",
-    "9d7ccb41148a",
-    "fc16c65f32f1",
-    "bdcf73cacfd7",
-    "23d104dbbd47",
-    "65aa9d4261e5",
-    "0b97b9062718",
-    "8f6898e6d1e5",
-    "851ec9d57cbb",
-    "5f072a08989e",
-    "ffb56b275380",
-    "5878daeec25a",
-    "f3e976fbeb81",
-    "7b64de911cdc",
-    "9492aa0dc352",
-    "531de09eb612",
-    "0d29dbebf2a9",
-    "ee9ae55ac02d",
-    "b5c15534ccc7",
     "70d3c51a375b",
-    "e9fcc143cf49",
-    "85e9f22118d8",
-    "e809de3ee286",
-    "2804e9fd9d84",
-    "bd6057ce10f8"
+    "69c2293439c5",
+    "5878daeec25a",
+    "7b442c1fe14a",
+    "e648415c0ffe",
+    "1599b4cd7228",
+    "b4ddf749030c",
+    "9c3fd68fbc98",
+    "9492aa0dc352",
+    "a3096241095c",
+    "9394a6857021",
+    "8e41ff7ef3da",
+    "84fa0262f4e6",
+    "df5e2648a039",
+    "d337ecdcfa3e",
+    "f5697824a116",
+    "f47a0baee501",
+    "d5037162318f",
+    "9ce1cfc9ef8e"
   ],
   "items": [
     {
@@ -53,134 +53,134 @@
       "link": "https://linux.do/t/topic/482293"
     },
     {
+      "id": "8e41ff7ef3da",
+      "title": "中年人如何抵制住炒股诱惑啊",
+      "link": "https://linux.do/t/topic/2242614"
+    },
+    {
+      "id": "b670417d2d79",
+      "title": "感觉自己被 AI 的虚假成就感骗了，再见了gpt的羊毛",
+      "link": "https://linux.do/t/topic/2242761"
+    },
+    {
+      "id": "0285203d20f5",
+      "title": "用AI给摆摊的老板做了菜单招牌，老板要给我磕一个(更新下提示词)",
+      "link": "https://linux.do/t/topic/2242428"
+    },
+    {
+      "id": "df5e2648a039",
+      "title": "华为正式发表半导体领域新定律",
+      "link": "https://linux.do/t/topic/2239895"
+    },
+    {
+      "id": "7b442c1fe14a",
+      "title": "星辰AI ClaudeMax特惠分组上线 0.88",
+      "link": "https://linux.do/t/topic/2242908"
+    },
+    {
+      "id": "f5697824a116",
+      "title": "假设gpt的白嫖渠道都没了，大家会怎样",
+      "link": "https://linux.do/t/topic/2241128"
+    },
+    {
+      "id": "e648415c0ffe",
+      "title": "【岛主】自媒体创业出发！欢迎佬友们精神入股",
+      "link": "https://linux.do/t/topic/2242299"
+    },
+    {
+      "id": "79558820fd85",
+      "title": "如何教三岁小孩编程启蒙？佬友们，求求求求",
+      "link": "https://linux.do/t/topic/2239932"
+    },
+    {
+      "id": "4fcd0b270cb1",
+      "title": "佬友们对glm、kimi、ds、mimo这四个模型的评价是什么",
+      "link": "https://linux.do/t/topic/2242213"
+    },
+    {
+      "id": "dedd5c5f83b7",
+      "title": "「开源自荐」Grok2api二开优化，新加多agents并行工作的console类模型（内置web+x搜索），16个agents并发搜索助力佬们搜索自由+防封版本的一键部署！",
+      "link": "https://linux.do/t/topic/2239921"
+    },
+    {
+      "id": "2b7ecb8e5a7c",
+      "title": "马斯克:新版grok模型已完成训练，训练过程使用了大量Cursor的数据，有望大幅增强编码能力，将在几周后发布",
+      "link": "https://linux.do/t/topic/2241720"
+    },
+    {
+      "id": "1599b4cd7228",
+      "title": "[富可敌国]合租巴士中转站开业福利：评论盖楼送额度、邀请推广福利等等！帖内福利多多",
+      "link": "https://linux.do/t/topic/2242056"
+    },
+    {
+      "id": "9ce1cfc9ef8e",
+      "title": "【永久免费】试试UI设计师开发的录屏软件吧 Windows",
+      "link": "https://linux.do/t/topic/2242688"
+    },
+    {
+      "id": "a3096241095c",
+      "title": "第一次使用 marvis，被其震撼当场吓瘫。",
+      "link": "https://linux.do/t/topic/2241192"
+    },
+    {
+      "id": "920501ee3191",
+      "title": "公司不让用国外大模型了",
+      "link": "https://linux.do/t/topic/2240950"
+    },
+    {
+      "id": "84fa0262f4e6",
+      "title": "配蔡司镜片，线上线下区别这么大吗？",
+      "link": "https://linux.do/t/topic/2242796"
+    },
+    {
       "id": "d5037162318f",
       "title": "用AI挖漏洞给公司业务挖挂了",
       "link": "https://linux.do/t/topic/2236700"
     },
     {
-      "id": "0b97b9062718",
-      "title": "AionUi V2.1.0大重构：前后端分离、改Rust，这次重生差点夭折…",
-      "link": "https://linux.do/t/topic/2236003"
+      "id": "b4ddf749030c",
+      "title": "30W消费陷阱是否存在（买车）",
+      "link": "https://linux.do/t/topic/2240472"
     },
     {
-      "id": "8f6898e6d1e5",
-      "title": "【生图公益站】image-2生图站 free",
-      "link": "https://linux.do/t/topic/2236254"
+      "id": "d337ecdcfa3e",
+      "title": "大家一般买域名都是去哪里买诶，打听打听",
+      "link": "https://linux.do/t/topic/2242317"
     },
     {
-      "id": "f3e976fbeb81",
-      "title": "Bubu公益站开启签到~",
-      "link": "https://linux.do/t/topic/2236914"
+      "id": "f47a0baee501",
+      "title": "目前这个油价！油车有必要换电车吗？",
+      "link": "https://linux.do/t/topic/2241890"
     },
     {
-      "id": "23d104dbbd47",
-      "title": "【开源推广】牛子小助手——强大的自慰管理工具",
-      "link": "https://linux.do/t/topic/2233803"
+      "id": "35816c6ca00b",
+      "title": "【前沿慢讯】Claude Opus4.8 传言或将明天发布",
+      "link": "https://linux.do/t/topic/2241136"
     },
     {
-      "id": "bd6057ce10f8",
-      "title": "大佬们, 你们觉得读研重要吗? 求指点",
-      "link": "https://linux.do/t/topic/2238691"
+      "id": "9c3fd68fbc98",
+      "title": "大家都怎么和Tony提提示词的",
+      "link": "https://linux.do/t/topic/2243065"
     },
     {
-      "id": "65aa9d4261e5",
-      "title": "有钱有什么缺点",
-      "link": "https://linux.do/t/topic/2237624"
+      "id": "2e27466865ab",
+      "title": "codex AGENT.md 全局规则大更新分享 —— 更短、更明确、更智能（内附完整文章文件）",
+      "link": "https://linux.do/t/topic/2239407"
     },
     {
-      "id": "9d7ccb41148a",
-      "title": "中年男人不太花钱，还能长期保持自娱自乐的爱好有哪些？",
-      "link": "https://linux.do/t/topic/2238155"
+      "id": "2cf0e8e13e33",
+      "title": "新人报道，L站实在是太有趣了，加入L站居然还有证书",
+      "link": "https://linux.do/t/topic/2241602"
     },
     {
-      "id": "85e9f22118d8",
-      "title": "今晚那个男人还会来吗",
-      "link": "https://linux.do/t/topic/2237812"
+      "id": "69c2293439c5",
+      "title": "佬友们，都怎么找的女朋友啊，有没有推荐的？",
+      "link": "https://linux.do/t/topic/2241559"
     },
     {
-      "id": "e9fcc143cf49",
-      "title": "中转站的小卡片终究还是塞到了这里",
-      "link": "https://linux.do/t/topic/2162836"
-    },
-    {
-      "id": "e809de3ee286",
-      "title": "APKPure 上的 Telegram 官方版被植入间谍后门",
-      "link": "https://linux.do/t/topic/2237368"
-    },
-    {
-      "id": "fc16c65f32f1",
-      "title": "【CHY公益站】主贴",
-      "link": "https://linux.do/t/topic/2237155"
-    },
-    {
-      "id": "bdcf73cacfd7",
-      "title": "我再也不碰注册机了，我再也不碰注册机了，我再也不碰注册机了",
-      "link": "https://linux.do/t/topic/2238956"
-    },
-    {
-      "id": "5f072a08989e",
-      "title": "我有个吃牢饭的疯狂想法",
-      "link": "https://linux.do/t/topic/2234292"
-    },
-    {
-      "id": "2804e9fd9d84",
-      "title": "送一个gpt plus CPA凭证",
-      "link": "https://linux.do/t/topic/2238319"
-    },
-    {
-      "id": "f8df5e044e61",
-      "title": "【开源自荐】WebDroid Agent：无需安装软件，浏览器+USB线 就能实现豆包手机！纯前端WebADB 控制安卓，全网最轻量的安卓控制方案",
-      "link": "https://linux.do/t/topic/2237333"
-    },
-    {
-      "id": "531de09eb612",
-      "title": "难过，遗憾，与人生",
-      "link": "https://linux.do/t/topic/2235793"
-    },
-    {
-      "id": "7b64de911cdc",
-      "title": "Typora 离线许可证激活工具（Windows EXE，开箱即用）",
-      "link": "https://linux.do/t/topic/2237895"
-    },
-    {
-      "id": "ee9ae55ac02d",
-      "title": "DeepSeek V4 Pro永久降价为0.025/3/6 人民币",
-      "link": "https://linux.do/t/topic/2227498"
-    },
-    {
-      "id": "0ecf16c7afc6",
-      "title": "【新人入站从0级到三级经验总结】：升级？赚LDC？LDC有什么用？如何兑换Ai的API Tokens？常用的站内频道？避免被封号注意点？等等，新人可参考，少走弯路！",
-      "link": "https://linux.do/t/topic/2235030"
-    },
-    {
-      "id": "0d29dbebf2a9",
-      "title": "【AICode】自己搭建了公益站",
-      "link": "https://linux.do/t/topic/2237439"
-    },
-    {
-      "id": "b5c15534ccc7",
-      "title": "速报-Plus at转json已经失效了！！！",
-      "link": "https://linux.do/t/topic/2239019"
-    },
-    {
-      "id": "ffb56b275380",
-      "title": "用AI画了一些红楼梦漫画，大家给点意见",
-      "link": "https://linux.do/t/topic/2237272"
-    },
-    {
-      "id": "95a4f53d2610",
-      "title": "最近看的都是codex，claude code 好像没热度了",
-      "link": "https://linux.do/t/topic/2237331"
-    },
-    {
-      "id": "851ec9d57cbb",
-      "title": "Paypal Plus 成本大赏，1毛钱左右吧",
-      "link": "https://linux.do/t/topic/2232913"
-    },
-    {
-      "id": "f6ccae906a37",
-      "title": "祝贺！中国神舟23号载人发射升空任务，圆满成功！",
-      "link": "https://linux.do/t/topic/2238515"
+      "id": "9394a6857021",
+      "title": "佬友们，夏天到了，你们会自己动手清洗空调滤网吗",
+      "link": "https://linux.do/t/topic/2242091"
     }
   ]
 }
