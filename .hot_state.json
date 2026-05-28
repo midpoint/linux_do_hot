@@ -1,35 +1,35 @@
 {
   "ids": [
-    "94272bafc725",
-    "9492aa0dc352",
-    "69a0027a2a99",
-    "b06ad95265d1",
-    "7296c473f6f0",
-    "9a76b37801e6",
-    "93546a9be184",
-    "6852d9ce4e65",
-    "cd9b5b5ae80e",
-    "aa44251376db",
-    "873df7800c40",
-    "e39dbfc6aef9",
-    "644ef8c25d10",
-    "5878daeec25a",
-    "a600cc7a9e6e",
-    "e842cc0e9899",
-    "62b69546f0e6",
-    "66234672d8f1",
-    "488a568f58d2",
-    "9d1aecaaa571",
-    "841566c6dc39",
-    "7ddda3a3c690",
-    "b1cad976d403",
-    "407dd15df015",
-    "b3b84f9e7a6d",
-    "8607c7e0e0b4",
-    "f42b54745201",
+    "6d996e343e78",
+    "a402c1aff7d8",
     "eed15555dd54",
-    "f2c99361ccfb",
-    "f74c074f973d"
+    "9a76b37801e6",
+    "7296c473f6f0",
+    "66234672d8f1",
+    "c171fed9a858",
+    "7ddda3a3c690",
+    "a7472b3cd855",
+    "b1cad976d403",
+    "94272bafc725",
+    "93eed92c5c09",
+    "d0f62bab8f28",
+    "d1c48e09af70",
+    "9492aa0dc352",
+    "8746686fcdaa",
+    "841566c6dc39",
+    "f64f72e5a916",
+    "6f25dfda3081",
+    "61ae31190404",
+    "f74c074f973d",
+    "8607c7e0e0b4",
+    "aa44251376db",
+    "dc925996e8d5",
+    "93546a9be184",
+    "d5e0e74470ab",
+    "0a88aaad8a44",
+    "0c2b0a383b15",
+    "5878daeec25a",
+    "70d3c51a375b"
   ],
   "items": [
     {
@@ -53,19 +53,9 @@
       "link": "https://linux.do/t/topic/2260598"
     },
     {
-      "id": "7296c473f6f0",
-      "title": "codex公益站已开 继续每人免费100刀",
-      "link": "https://linux.do/t/topic/2260900"
-    },
-    {
-      "id": "f74c074f973d",
-      "title": "【干草铺公益站】运营调整，请正常用户一定关注～",
-      "link": "https://linux.do/t/topic/2261050"
-    },
-    {
-      "id": "a600cc7a9e6e",
-      "title": "第二次收到赞助费 回馈社区 88R zfb口令自取",
-      "link": "https://linux.do/t/topic/2261508"
+      "id": "0a88aaad8a44",
+      "title": "claude-opus-4-8蒸馏了太多qwen模型，导致自我认知出了问题，基本认为自己是qwen",
+      "link": "https://linux.do/t/topic/2264698"
     },
     {
       "id": "7ddda3a3c690",
@@ -73,9 +63,24 @@
       "link": "https://linux.do/t/topic/2255758"
     },
     {
-      "id": "aa44251376db",
-      "title": "作为一个新人提的一些小建议（让技术贴成为L站的主流），望采纳",
-      "link": "https://linux.do/t/topic/2260760"
+      "id": "dc925996e8d5",
+      "title": "做了一个 GPT 接码在不同 SMS 平台价格对比的网站",
+      "link": "https://linux.do/t/topic/2264140"
+    },
+    {
+      "id": "7296c473f6f0",
+      "title": "codex公益站已开 继续每人免费100刀",
+      "link": "https://linux.do/t/topic/2260900"
+    },
+    {
+      "id": "6d996e343e78",
+      "title": "『君の公益』 codex的一些变动",
+      "link": "https://linux.do/t/topic/2262730"
+    },
+    {
+      "id": "d1c48e09af70",
+      "title": "Opus 4.8蒸馏了DeepSeek…",
+      "link": "https://linux.do/t/topic/2264779"
     },
     {
       "id": "841566c6dc39",
@@ -83,89 +88,64 @@
       "link": "https://linux.do/t/topic/2258658"
     },
     {
-      "id": "8607c7e0e0b4",
-      "title": "分享一下俺的恋爱故事",
-      "link": "https://linux.do/t/topic/2259989"
-    },
-    {
-      "id": "6852d9ce4e65",
-      "title": "在有能力消费的时候，不要压制自己的消费欲望",
-      "link": "https://linux.do/t/topic/2261348"
-    },
-    {
-      "id": "407dd15df015",
-      "title": "[富可敌国] Krill 福利加倍送，持续送，回贴就送，反正就是送～纯pro号池低至0.13, image-2 免费用 , dp-v4-flash 官方4折！",
-      "link": "https://linux.do/t/topic/2260501"
-    },
-    {
-      "id": "b1cad976d403",
-      "title": "豆包的满分作品真的太…",
-      "link": "https://linux.do/t/topic/2260650"
-    },
-    {
-      "id": "f42b54745201",
-      "title": "opus4.7真被污染了",
-      "link": "https://linux.do/t/topic/2261385"
-    },
-    {
-      "id": "e842cc0e9899",
-      "title": "公司缺人但是招不到人",
-      "link": "https://linux.do/t/topic/2261196"
-    },
-    {
       "id": "eed15555dd54",
       "title": "『君の公益』 codex恢复",
       "link": "https://linux.do/t/topic/2254568"
     },
     {
-      "id": "f2c99361ccfb",
-      "title": "今天再发点额度？",
-      "link": "https://linux.do/t/topic/2259877"
+      "id": "70d3c51a375b",
+      "title": "【又520专场】你如何理解我们的社区文化",
+      "link": "https://linux.do/t/topic/2210430"
     },
     {
-      "id": "e39dbfc6aef9",
-      "title": "我将以文化宣导员的形态登场",
-      "link": "https://linux.do/t/topic/2260837"
+      "id": "61ae31190404",
+      "title": "我已经厌倦了每天打开L站都是如何如何白嫖某某模型了",
+      "link": "https://linux.do/t/topic/2246473"
     },
     {
-      "id": "9d1aecaaa571",
-      "title": "芒果TV提供模型服务了，现在还是免费状态",
-      "link": "https://linux.do/t/topic/2260263"
+      "id": "f74c074f973d",
+      "title": "【干草铺公益站】运营调整，请正常用户一定关注～",
+      "link": "https://linux.do/t/topic/2261050"
     },
     {
-      "id": "873df7800c40",
-      "title": "CodeX 能不能直接把我的作业做了",
-      "link": "https://linux.do/t/topic/2261355"
+      "id": "f64f72e5a916",
+      "title": "[富可敌国] Krill 福利加倍送，持续送，回贴就送，反正就是送～纯pro号池低至0.13, image-2 免费用 , dp-v4-flash&kimi-k2.6免费用",
+      "link": "https://linux.do/t/topic/2260501"
     },
     {
-      "id": "69a0027a2a99",
-      "title": "公开大厂bug会被追责吗？",
-      "link": "https://linux.do/t/topic/2259062"
+      "id": "93eed92c5c09",
+      "title": "claude opus 4.8 出了",
+      "link": "https://linux.do/t/topic/2264646"
     },
     {
-      "id": "62b69546f0e6",
-      "title": "黄仁勋：“全场我买单，能不能先让我拿一根？”",
-      "link": "https://linux.do/t/topic/2259935"
+      "id": "8607c7e0e0b4",
+      "title": "分享一下俺的恋爱故事",
+      "link": "https://linux.do/t/topic/2259989"
     },
     {
-      "id": "cd9b5b5ae80e",
-      "title": "不是哥们，你真干啊",
-      "link": "https://linux.do/t/topic/2261749"
+      "id": "0c2b0a383b15",
+      "title": "【讨论】目前对于抽奖贴的举报是不是有点太过头了？",
+      "link": "https://linux.do/t/topic/2262963"
     },
     {
-      "id": "b06ad95265d1",
-      "title": "激动~大家都收到了吧，从此成为文化人！",
-      "link": "https://linux.do/t/topic/2261090"
+      "id": "66234672d8f1",
+      "title": "codex公益站，今日依旧每个人免费100刀",
+      "link": "https://linux.do/t/topic/2252638"
     },
     {
-      "id": "488a568f58d2",
-      "title": "请问各位佬友，如何避免被工作中过分的责任心导致工作影响生活？",
-      "link": "https://linux.do/t/topic/2260410"
+      "id": "d0f62bab8f28",
+      "title": "L站现在已经不欢迎分享 github 项目了吗(模板选错）",
+      "link": "https://linux.do/t/topic/2264516"
     },
     {
-      "id": "644ef8c25d10",
-      "title": "刚学ai，买了那个什么API，给了一串什么key，有没有懂得帮我看看是什么意思",
-      "link": "https://linux.do/t/topic/2260799"
+      "id": "aa44251376db",
+      "title": "作为一个新人提的一些小建议（让技术贴成为L站的主流），望采纳",
+      "link": "https://linux.do/t/topic/2260760"
+    },
+    {
+      "id": "a402c1aff7d8",
+      "title": "申请自述和加入缘由AI生成、润色账号",
+      "link": "https://linux.do/t/topic/2248204"
     },
     {
       "id": "94272bafc725",
@@ -173,14 +153,34 @@
       "link": "https://linux.do/t/topic/2257200"
     },
     {
-      "id": "b3b84f9e7a6d",
-      "title": "开源阅读删库了",
-      "link": "https://linux.do/t/topic/2261593"
+      "id": "a7472b3cd855",
+      "title": "oai与a/的对抗",
+      "link": "https://linux.do/t/topic/2264378"
     },
     {
-      "id": "66234672d8f1",
-      "title": "codex公益站，今日依旧每个人免费100刀",
-      "link": "https://linux.do/t/topic/2252638"
+      "id": "6f25dfda3081",
+      "title": "vibe复杂功能时，我现在的最佳实践流程讨论",
+      "link": "https://linux.do/t/topic/2263012"
+    },
+    {
+      "id": "d5e0e74470ab",
+      "title": "Claude-Opus-4.8已发布+重置限额了：A急急急急了",
+      "link": "https://linux.do/t/topic/2264630"
+    },
+    {
+      "id": "c171fed9a858",
+      "title": "rawchat codex公益站，已经去掉了小尾巴 并且向各位佬友解释说明原因",
+      "link": "https://linux.do/t/topic/2245361"
+    },
+    {
+      "id": "b1cad976d403",
+      "title": "豆包的满分作品真的太…",
+      "link": "https://linux.do/t/topic/2260650"
+    },
+    {
+      "id": "8746686fcdaa",
+      "title": "【开源推广】烧了几百亿 token，写了个运行在浏览器里的安卓系统",
+      "link": "https://linux.do/t/topic/2264011"
     }
   ]
 }
