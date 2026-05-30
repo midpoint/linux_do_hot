@@ -1,35 +1,35 @@
 {
   "ids": [
-    "7296c473f6f0",
-    "fc5f3a6e3648",
-    "69bdddf9e877",
-    "841566c6dc39",
     "241833f63a43",
-    "7ddda3a3c690",
-    "1237faeaa483",
-    "8bd8c6535773",
-    "b8d35c547392",
-    "032f174821d2",
-    "70d3c51a375b",
-    "973fd8e5580f",
-    "72df447b75b6",
-    "0a88aaad8a44",
-    "28a6216e2bd1",
-    "0890a54fa07c",
-    "dc925996e8d5",
-    "34a7734aeb4a",
-    "361cff9868fa",
-    "6d996e343e78",
-    "61ae31190404",
-    "9492aa0dc352",
     "5878daeec25a",
-    "d1c48e09af70",
-    "eed15555dd54",
+    "34a7734aeb4a",
+    "61ae31190404",
+    "93546a9be184",
+    "b8d35c547392",
+    "788d780befda",
+    "3eb444917d15",
+    "3de3e02e37a1",
+    "ddfadba13a00",
+    "a8abb6696dc5",
+    "e3a7a16434dc",
+    "c1b7e8f4fd7f",
+    "7b6e7e365d8d",
     "ce4cbb23cd08",
-    "b98040938b67",
+    "0a88aaad8a44",
+    "3b45a1433330",
     "c868d1c71978",
+    "7ddda3a3c690",
+    "032f174821d2",
+    "9492aa0dc352",
+    "cfe1fc749878",
+    "30d55ddd4115",
+    "b98040938b67",
+    "0c5d4ff9b422",
+    "70d3c51a375b",
     "9a76b37801e6",
-    "93546a9be184"
+    "1df1daf5250c",
+    "0a7eb297ee30",
+    "e395959a7710"
   ],
   "items": [
     {
@@ -48,19 +48,24 @@
       "link": "https://linux.do/t/topic/482293"
     },
     {
+      "id": "3de3e02e37a1",
+      "title": "被小米MIMO反薅了六千多！哭了，求助",
+      "link": "https://linux.do/t/topic/2273228"
+    },
+    {
+      "id": "3eb444917d15",
+      "title": "Claude Mythos ，用过了吗？",
+      "link": "https://linux.do/t/topic/2273612"
+    },
+    {
+      "id": "c1b7e8f4fd7f",
+      "title": "美好的周末被一顿送错的外卖打破, 还报警了",
+      "link": "https://linux.do/t/topic/2273299"
+    },
+    {
       "id": "93546a9be184",
       "title": "奥特曼发短信是不要钱的吗？",
       "link": "https://linux.do/t/topic/2260598"
-    },
-    {
-      "id": "0a88aaad8a44",
-      "title": "claude-opus-4-8蒸馏了太多qwen模型，导致自我认知出了问题，基本认为自己是qwen",
-      "link": "https://linux.do/t/topic/2264698"
-    },
-    {
-      "id": "241833f63a43",
-      "title": "关于 目前 新版CC 请求体启用了 mid_conversation_system 导致错误的解决方案",
-      "link": "https://linux.do/t/topic/2266592"
     },
     {
       "id": "b8d35c547392",
@@ -68,9 +73,34 @@
       "link": "https://linux.do/t/topic/2270493"
     },
     {
-      "id": "34a7734aeb4a",
-      "title": "【CHY公益站】主帖",
-      "link": "https://linux.do/t/topic/2271819"
+      "id": "0a88aaad8a44",
+      "title": "claude-opus-4-8蒸馏了太多qwen模型，导致自我认知出了问题，基本认为自己是qwen",
+      "link": "https://linux.do/t/topic/2264698"
+    },
+    {
+      "id": "0c5d4ff9b422",
+      "title": "GPT 5.5这几天傻的流黄汤",
+      "link": "https://linux.do/t/topic/2273640"
+    },
+    {
+      "id": "241833f63a43",
+      "title": "关于 目前 新版CC 请求体启用了 mid_conversation_system 导致错误的解决方案",
+      "link": "https://linux.do/t/topic/2266592"
+    },
+    {
+      "id": "30d55ddd4115",
+      "title": "敖厂长这就回来了？还一堆人表示原谅",
+      "link": "https://linux.do/t/topic/2272155"
+    },
+    {
+      "id": "cfe1fc749878",
+      "title": "耿同学事件思考",
+      "link": "https://linux.do/t/topic/2272750"
+    },
+    {
+      "id": "ce4cbb23cd08",
+      "title": "给公司培训完codex后，反而工作变得更多了",
+      "link": "https://linux.do/t/topic/2268339"
     },
     {
       "id": "c868d1c71978",
@@ -83,9 +113,14 @@
       "link": "https://linux.do/t/topic/2268371"
     },
     {
-      "id": "ce4cbb23cd08",
-      "title": "给公司培训完codex后，反而工作变得更多了",
-      "link": "https://linux.do/t/topic/2268339"
+      "id": "1df1daf5250c",
+      "title": "由耿同学引发的深思",
+      "link": "https://linux.do/t/topic/2273106"
+    },
+    {
+      "id": "34a7734aeb4a",
+      "title": "【CHY公益站】主帖",
+      "link": "https://linux.do/t/topic/2271819"
     },
     {
       "id": "7ddda3a3c690",
@@ -93,14 +128,34 @@
       "link": "https://linux.do/t/topic/2255758"
     },
     {
+      "id": "e3a7a16434dc",
+      "title": "正版订阅plus账号需要提前准备一张giffgaff卡吗",
+      "link": "https://linux.do/t/topic/2273438"
+    },
+    {
+      "id": "e395959a7710",
+      "title": "一个免费生图的公益站，重新开放注册啦。",
+      "link": "https://linux.do/t/topic/2272810"
+    },
+    {
       "id": "70d3c51a375b",
       "title": "【又520专场】你如何理解我们的社区文化",
       "link": "https://linux.do/t/topic/2210430"
     },
     {
-      "id": "69bdddf9e877",
-      "title": "新人报道，送20个域名",
-      "link": "https://linux.do/t/topic/2271224"
+      "id": "0a7eb297ee30",
+      "title": "想知道大家请假会觉得不好意思吗？",
+      "link": "https://linux.do/t/topic/2273543"
+    },
+    {
+      "id": "7b6e7e365d8d",
+      "title": "我去，A 畜真的给解封了",
+      "link": "https://linux.do/t/topic/2273280"
+    },
+    {
+      "id": "3b45a1433330",
+      "title": "没招了 天才程序员陨落",
+      "link": "https://linux.do/t/topic/2273716"
     },
     {
       "id": "032f174821d2",
@@ -108,79 +163,24 @@
       "link": "https://linux.do/t/topic/2266124"
     },
     {
-      "id": "1237faeaa483",
-      "title": "真不是我看不起国模。。",
-      "link": "https://linux.do/t/topic/2270605"
+      "id": "788d780befda",
+      "title": "gpt5.5 AI搓出来的在线影视",
+      "link": "https://linux.do/t/topic/2272828"
     },
     {
-      "id": "d1c48e09af70",
-      "title": "Opus 4.8蒸馏了DeepSeek…",
-      "link": "https://linux.do/t/topic/2264779"
+      "id": "a8abb6696dc5",
+      "title": "谷歌大善人好像放水了，Gemini Pro学生认证随便搞搞就过了",
+      "link": "https://linux.do/t/topic/2273317"
     },
     {
-      "id": "72df447b75b6",
-      "title": "2W阅读量有点难搞啊，各位佬都是怎么上去的？",
-      "link": "https://linux.do/t/topic/2269098"
-    },
-    {
-      "id": "0890a54fa07c",
-      "title": "让codex做服务器压测，把我库全删了",
-      "link": "https://linux.do/t/topic/2267309"
-    },
-    {
-      "id": "dc925996e8d5",
-      "title": "做了一个 GPT 接码在不同 SMS 平台价格对比的网站",
-      "link": "https://linux.do/t/topic/2264140"
-    },
-    {
-      "id": "fc5f3a6e3648",
-      "title": "能在站里挂富可敌国吗(foxcode）",
-      "link": "https://linux.do/t/topic/2268145"
-    },
-    {
-      "id": "7296c473f6f0",
-      "title": "codex公益站已开 继续每人免费100刀",
-      "link": "https://linux.do/t/topic/2260900"
-    },
-    {
-      "id": "eed15555dd54",
-      "title": "『君の公益』 codex恢复",
-      "link": "https://linux.do/t/topic/2254568"
+      "id": "ddfadba13a00",
+      "title": "【CHY公益站】站点恢复！",
+      "link": "https://linux.do/t/topic/2271823"
     },
     {
       "id": "61ae31190404",
       "title": "我已经厌倦了每天打开L站都是如何如何白嫖某某模型了",
       "link": "https://linux.do/t/topic/2246473"
-    },
-    {
-      "id": "361cff9868fa",
-      "title": "bro最终还是分手啦，总结出了一点想法与各位佬讨论",
-      "link": "https://linux.do/t/topic/2265498"
-    },
-    {
-      "id": "973fd8e5580f",
-      "title": "【长文】Claude自称自己是Ds是不是蒸馏？从舆论场的角度整理一下我们应该如何应对“借着蒸馏的名词忽悠人污名化国模”问题的想法 （又名为了痛痛快快的怼A畜自己找的一大堆理由）",
-      "link": "https://linux.do/t/topic/2269867"
-    },
-    {
-      "id": "8bd8c6535773",
-      "title": "暗恋十年的女生怎么放下",
-      "link": "https://linux.do/t/topic/2266750"
-    },
-    {
-      "id": "28a6216e2bd1",
-      "title": "【CHY公益站】人是复活了，但是公益站还在打复活赛啊",
-      "link": "https://linux.do/t/topic/2269834"
-    },
-    {
-      "id": "841566c6dc39",
-      "title": "感觉女友不爱我",
-      "link": "https://linux.do/t/topic/2258658"
-    },
-    {
-      "id": "6d996e343e78",
-      "title": "『君の公益』 codex的一些变动",
-      "link": "https://linux.do/t/topic/2262730"
     }
   ]
 }
