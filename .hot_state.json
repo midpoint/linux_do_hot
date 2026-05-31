@@ -1,35 +1,35 @@
 {
   "ids": [
-    "5878daeec25a",
-    "adfcf8243c2c",
-    "70d3c51a375b",
-    "9492aa0dc352",
+    "3f58e1d22b90",
+    "a09b4d53c53e",
     "eacbf8bc0871",
-    "ce4cbb23cd08",
-    "474085e37fcf",
-    "c868d1c71978",
-    "02421bdb1f4f",
-    "a7c000f2c68a",
-    "b98040938b67",
-    "eed15555dd54",
-    "7ddda3a3c690",
-    "f2b4619466ff",
-    "7296c473f6f0",
-    "adaaa3d56588",
-    "241833f63a43",
-    "2513896f53ad",
-    "23dd78765be2",
-    "a402c1aff7d8",
-    "61ae31190404",
-    "0bb1fd9b63fc",
+    "b3c31477a4de",
+    "7ae44bc741e2",
+    "387d0d086472",
+    "eed95e4cd8aa",
+    "65e707e9cdb9",
     "9a76b37801e6",
-    "1d68b6dab2ee",
-    "c1b7e8f4fd7f",
-    "0a88aaad8a44",
-    "124bf92b9c15",
     "93546a9be184",
-    "032f174821d2",
-    "9dd927f1ad46"
+    "48057bb83282",
+    "76fd197380b0",
+    "70d3c51a375b",
+    "d2691e221b1a",
+    "2513896f53ad",
+    "0a88aaad8a44",
+    "27c49c798736",
+    "50eaaf5760db",
+    "13173cf10aee",
+    "9492aa0dc352",
+    "a2b3da587100",
+    "2e33ac2cb27c",
+    "e38cb08ae553",
+    "0aa50f92a054",
+    "b171a9b0e909",
+    "ab73d8dd929c",
+    "0011692af584",
+    "7ddda3a3c690",
+    "4af5a2a5b9a8",
+    "5878daeec25a"
   ],
   "items": [
     {
@@ -48,9 +48,19 @@
       "link": "https://linux.do/t/topic/482293"
     },
     {
-      "id": "eacbf8bc0871",
-      "title": "『君の公益』 上线 claude-4-8",
-      "link": "https://linux.do/t/topic/2273939"
+      "id": "a09b4d53c53e",
+      "title": "君の公益，一人一百刀",
+      "link": "https://linux.do/t/topic/2277494"
+    },
+    {
+      "id": "0aa50f92a054",
+      "title": "感谢L站，高中生拿下广东省粤港澳学生科创大赛智能体冠军",
+      "link": "https://linux.do/t/topic/2277753"
+    },
+    {
+      "id": "76fd197380b0",
+      "title": "史上最强原生PPT Skill，更适合中国宝宝",
+      "link": "https://linux.do/t/topic/2278294"
     },
     {
       "id": "2513896f53ad",
@@ -58,9 +68,74 @@
       "link": "https://linux.do/t/topic/2276613"
     },
     {
+      "id": "b171a9b0e909",
+      "title": "想问问佬友们的个人网名都是怎么想到的(讲的好赏10ldc)",
+      "link": "https://linux.do/t/topic/2278059"
+    },
+    {
+      "id": "eacbf8bc0871",
+      "title": "『君の公益』 上线 claude-4-8",
+      "link": "https://linux.do/t/topic/2273939"
+    },
+    {
+      "id": "7ae44bc741e2",
+      "title": "【CHY公益站】第四波补充额度",
+      "link": "https://linux.do/t/topic/2277971"
+    },
+    {
+      "id": "eed95e4cd8aa",
+      "title": "真的没有人觉得挖鼻孔很利好思考吗",
+      "link": "https://linux.do/t/topic/2278379"
+    },
+    {
+      "id": "ab73d8dd929c",
+      "title": "《真》失业程序员回家种地-真实记录第一弹",
+      "link": "https://linux.do/t/topic/2277419"
+    },
+    {
+      "id": "3f58e1d22b90",
+      "title": "太累了，佬友说说人生意义是啥，说得好给10ldc",
+      "link": "https://linux.do/t/topic/2277540"
+    },
+    {
+      "id": "0011692af584",
+      "title": "缺乏休息是致命的",
+      "link": "https://linux.do/t/topic/2277906"
+    },
+    {
       "id": "93546a9be184",
       "title": "奥特曼发短信是不要钱的吗？",
       "link": "https://linux.do/t/topic/2260598"
+    },
+    {
+      "id": "4af5a2a5b9a8",
+      "title": "有什么办法能杜绝狗在门口撒尿吗",
+      "link": "https://linux.do/t/topic/2278290"
+    },
+    {
+      "id": "50eaaf5760db",
+      "title": "xAI开始招聘了，可兼职可全职，时薪 $35-65 USD （约250-460 RMB/小时） 6个月合同",
+      "link": "https://linux.do/t/topic/2278334"
+    },
+    {
+      "id": "13173cf10aee",
+      "title": "【CHY公益站】庆祝GPT系列稳定一天",
+      "link": "https://linux.do/t/topic/2277623"
+    },
+    {
+      "id": "a2b3da587100",
+      "title": "完了，被 Opus 4.8 接住了",
+      "link": "https://linux.do/t/topic/2278353"
+    },
+    {
+      "id": "48057bb83282",
+      "title": "哥哥们，买手机，拼多多的百亿补贴靠谱吗",
+      "link": "https://linux.do/t/topic/2278538"
+    },
+    {
+      "id": "d2691e221b1a",
+      "title": "土区gpt pro20x也被封了",
+      "link": "https://linux.do/t/topic/2278512"
     },
     {
       "id": "0a88aaad8a44",
@@ -68,9 +143,14 @@
       "link": "https://linux.do/t/topic/2264698"
     },
     {
-      "id": "7ddda3a3c690",
-      "title": "大聪明的止纷争之法",
-      "link": "https://linux.do/t/topic/2255758"
+      "id": "2e33ac2cb27c",
+      "title": "有没有从3级掉下来，遇到这个问题得",
+      "link": "https://linux.do/t/topic/2278396"
+    },
+    {
+      "id": "b3c31477a4de",
+      "title": "O大善人，又要重置了，抓紧蹬起来，哥几个！",
+      "link": "https://linux.do/t/topic/2278235"
     },
     {
       "id": "70d3c51a375b",
@@ -78,109 +158,29 @@
       "link": "https://linux.do/t/topic/2210430"
     },
     {
-      "id": "241833f63a43",
-      "title": "关于 目前 新版CC 请求体启用了 mid_conversation_system 导致错误的解决方案",
-      "link": "https://linux.do/t/topic/2266592"
+      "id": "e38cb08ae553",
+      "title": "Codex 的 /goal 太超模啦，连续 6h+ 还在工作",
+      "link": "https://linux.do/t/topic/2278745"
     },
     {
-      "id": "ce4cbb23cd08",
-      "title": "给公司培训完codex后，反而工作变得更多了",
-      "link": "https://linux.do/t/topic/2268339"
+      "id": "27c49c798736",
+      "title": "我也有giff啦（已激活）,给大家算一下成本~顺便说一下我的经验",
+      "link": "https://linux.do/t/topic/2277968"
     },
     {
-      "id": "23dd78765be2",
-      "title": "看贴后忍不住想夸一下我对象 XD 顺便吹吹我们磨合的历程",
-      "link": "https://linux.do/t/topic/2276624"
+      "id": "7ddda3a3c690",
+      "title": "大聪明的止纷争之法",
+      "link": "https://linux.do/t/topic/2255758"
     },
     {
-      "id": "c868d1c71978",
-      "title": "最近面试了几个大专的学生，感觉现在都不知道咋面了",
-      "link": "https://linux.do/t/topic/2266754"
+      "id": "65e707e9cdb9",
+      "title": "电脑小白，下codex，好像中病毒了",
+      "link": "https://linux.do/t/topic/2278469"
     },
     {
-      "id": "adfcf8243c2c",
-      "title": "opus-4.8 怎么能难用成这个样子",
-      "link": "https://linux.do/t/topic/2275921"
-    },
-    {
-      "id": "474085e37fcf",
-      "title": "【CHY公益站】GPT模型恢复！",
-      "link": "https://linux.do/t/topic/2275284"
-    },
-    {
-      "id": "b98040938b67",
-      "title": "爱看美女是有心理问题吗？",
-      "link": "https://linux.do/t/topic/2268371"
-    },
-    {
-      "id": "adaaa3d56588",
-      "title": "佬，linux do在中国网友眼中是什么样的一个存在，或者说什么地位",
-      "link": "https://linux.do/t/topic/2275916"
-    },
-    {
-      "id": "0bb1fd9b63fc",
-      "title": "[求助]FoxCode不处理售后,直接将我移出群聊,有同样遭遇的吗",
-      "link": "https://linux.do/t/topic/2276801"
-    },
-    {
-      "id": "61ae31190404",
-      "title": "我已经厌倦了每天打开L站都是如何如何白嫖某某模型了",
-      "link": "https://linux.do/t/topic/2246473"
-    },
-    {
-      "id": "c1b7e8f4fd7f",
-      "title": "美好的周末被一顿送错的外卖打破, 还报警了",
-      "link": "https://linux.do/t/topic/2273299"
-    },
-    {
-      "id": "124bf92b9c15",
-      "title": "对经济的一些理解，对最近香港券商清退政策的一些感悟",
-      "link": "https://linux.do/t/topic/2276730"
-    },
-    {
-      "id": "f2b4619466ff",
-      "title": "想给电脑换linux发行版系统了，日常使用体验怎么样？",
-      "link": "https://linux.do/t/topic/2276918"
-    },
-    {
-      "id": "eed15555dd54",
-      "title": "『君の公益』 codex恢复",
-      "link": "https://linux.do/t/topic/2254568"
-    },
-    {
-      "id": "9dd927f1ad46",
-      "title": "永远不要和女生吵架 因为…",
-      "link": "https://linux.do/t/topic/2274046"
-    },
-    {
-      "id": "02421bdb1f4f",
-      "title": "做个调查佬们喜欢什么命名方法",
-      "link": "https://linux.do/t/topic/2275393"
-    },
-    {
-      "id": "7296c473f6f0",
-      "title": "codex公益站已开 继续每人免费100刀",
-      "link": "https://linux.do/t/topic/2260900"
-    },
-    {
-      "id": "032f174821d2",
-      "title": "any牌路由器背后的gpt账号真离谱",
-      "link": "https://linux.do/t/topic/2266124"
-    },
-    {
-      "id": "a402c1aff7d8",
-      "title": "申请自述和加入缘由AI生成、润色账号",
-      "link": "https://linux.do/t/topic/2248204"
-    },
-    {
-      "id": "a7c000f2c68a",
-      "title": "【CHY公益站】今天最后一波补充额度",
-      "link": "https://linux.do/t/topic/2274707"
-    },
-    {
-      "id": "1d68b6dab2ee",
-      "title": "codex bug 号不在五行之内",
-      "link": "https://linux.do/t/topic/2276958"
+      "id": "387d0d086472",
+      "title": "Opus 4.8知乎大佬模型编程能力榜分数出炉",
+      "link": "https://linux.do/t/topic/2277704"
     }
   ]
 }
