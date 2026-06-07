@@ -1,35 +1,35 @@
 {
   "ids": [
-    "dc5b9c4857ac",
-    "e4d2842e7257",
-    "3428319e9ea3",
-    "a5c34e4c7031",
-    "a8795eda4b0b",
-    "01ae9efd533b",
-    "4179d8b669a3",
-    "9f26cd819979",
-    "efdedd07e644",
-    "277139f0f87f",
-    "58fbd03e9902",
-    "da989bd4d612",
-    "9a76b37801e6",
     "74387d4acee4",
-    "dda36eada490",
-    "d4ff46c3521d",
-    "cb0dcbc8966e",
-    "e49c7111dceb",
+    "e4d2842e7257",
+    "42085d077d79",
+    "a8795eda4b0b",
+    "1451eae9780f",
+    "efdedd07e644",
+    "3428319e9ea3",
+    "e7a062485819",
     "5878daeec25a",
+    "ef0167cdf27b",
+    "b34e9a3df49f",
+    "36d028cb9a55",
+    "fa34a6a63bc2",
+    "01ae9efd533b",
+    "11f4921938bc",
+    "77bf9a1bcb40",
+    "85dd338779ed",
+    "e1d7493ee107",
+    "40710b0e8eb1",
+    "a60636443a49",
+    "4179d8b669a3",
     "d3d16798f5db",
     "3308bbb7a24a",
-    "42085d077d79",
-    "bc5badf95f72",
-    "2db2a6f76eea",
-    "380392fe0d2f",
+    "e49c7111dceb",
     "0f136e29be79",
-    "e3790f4d3564",
-    "11f4921938bc",
-    "1886cef503fc",
-    "8d6243754b90"
+    "fa84847985da",
+    "3f9f0e535ab1",
+    "9a76b37801e6",
+    "dda36eada490",
+    "cc696ac598d5"
   ],
   "items": [
     {
@@ -48,6 +48,11 @@
       "link": "https://linux.do/t/topic/482293"
     },
     {
+      "id": "e7a062485819",
+      "title": "『君の公益』上架 MiniMax-M3",
+      "link": "https://linux.do/t/topic/2320629"
+    },
+    {
       "id": "e4d2842e7257",
       "title": "RawChat codex公益站运行方式调整通知",
       "link": "https://linux.do/t/topic/2316389"
@@ -58,9 +63,29 @@
       "link": "https://linux.do/t/topic/2315630"
     },
     {
+      "id": "85dd338779ed",
+      "title": "疑似高考作弊带手机",
+      "link": "https://linux.do/t/topic/2321364"
+    },
+    {
+      "id": "fa34a6a63bc2",
+      "title": "笑死了，一天到晚不是在找公益站就是在切换能用的公益站",
+      "link": "https://linux.do/t/topic/2320565"
+    },
+    {
+      "id": "77bf9a1bcb40",
+      "title": "2026 湖北卷作文 这我写集贸啊",
+      "link": "https://linux.do/t/topic/2320965"
+    },
+    {
       "id": "e49c7111dceb",
       "title": "gpt 100w刀（结束咯～）",
       "link": "https://linux.do/t/topic/2315448"
+    },
+    {
+      "id": "11f4921938bc",
+      "title": "『君の公益』 服务器迁移完成",
+      "link": "https://linux.do/t/topic/2307037"
     },
     {
       "id": "a8795eda4b0b",
@@ -73,9 +98,14 @@
       "link": "https://linux.do/t/topic/2319389"
     },
     {
-      "id": "11f4921938bc",
-      "title": "『君の公益』 服务器迁移完成",
-      "link": "https://linux.do/t/topic/2307037"
+      "id": "1451eae9780f",
+      "title": "各位老，你的手机常年用的什么输入法？",
+      "link": "https://linux.do/t/topic/2322051"
+    },
+    {
+      "id": "dda36eada490",
+      "title": "正在前往高考考场…..",
+      "link": "https://linux.do/t/topic/2319847"
     },
     {
       "id": "efdedd07e644",
@@ -88,14 +118,9 @@
       "link": "https://linux.do/t/topic/2309394"
     },
     {
-      "id": "3428319e9ea3",
-      "title": "你说今天能破100,000,000,000吗？",
-      "link": "https://linux.do/t/topic/2312425"
-    },
-    {
-      "id": "380392fe0d2f",
-      "title": "L站新机制是提升门槛还是降低门槛？",
-      "link": "https://linux.do/t/topic/2317589"
+      "id": "e1d7493ee107",
+      "title": "用“强模型规划/弱模型执行”还是“弱模型规划/强模型执行”？",
+      "link": "https://linux.do/t/topic/2321534"
     },
     {
       "id": "4179d8b669a3",
@@ -103,59 +128,19 @@
       "link": "https://linux.do/t/topic/2297197"
     },
     {
-      "id": "dda36eada490",
-      "title": "正在前往高考考场…..",
-      "link": "https://linux.do/t/topic/2319847"
+      "id": "40710b0e8eb1",
+      "title": "2026年高考作文题目公布",
+      "link": "https://linux.do/t/topic/2320797"
     },
     {
-      "id": "bc5badf95f72",
-      "title": "【CHY公益站】性能优化 & Claude Opus4.8新模型上线",
-      "link": "https://linux.do/t/topic/2314833"
+      "id": "fa84847985da",
+      "title": "我TM…今天想试试君佬的minimax-m3，跑了30分钟，结果差点没把我笑死",
+      "link": "https://linux.do/t/topic/2321825"
     },
     {
-      "id": "dc5b9c4857ac",
-      "title": "一年了吗，好快啊",
-      "link": "https://linux.do/t/topic/2319234"
-    },
-    {
-      "id": "2db2a6f76eea",
-      "title": "今天早上举报gpt的那个人急哭了",
-      "link": "https://linux.do/t/topic/2316273"
-    },
-    {
-      "id": "01ae9efd533b",
-      "title": "君の公益 回来吧，天才程序员们~",
-      "link": "https://linux.do/t/topic/2298218"
-    },
-    {
-      "id": "da989bd4d612",
-      "title": "深度解析 AI API 里的 `/v1/messages`、`/v1/chat/completions`、`/v1/responses`：这些后缀到底是什么，为什么要这样设计？",
-      "link": "https://linux.do/t/topic/2306861"
-    },
-    {
-      "id": "d4ff46c3521d",
-      "title": "3K Star 被质疑刷星，然后我收到了这辈子最好的一个PR",
-      "link": "https://linux.do/t/topic/2302735"
-    },
-    {
-      "id": "cb0dcbc8966e",
-      "title": "君的公益 停机迁移公告",
-      "link": "https://linux.do/t/topic/2305550"
-    },
-    {
-      "id": "a5c34e4c7031",
-      "title": "我是不是错过了什么？",
-      "link": "https://linux.do/t/topic/2317486"
-    },
-    {
-      "id": "58fbd03e9902",
-      "title": "还真有人拿我们的公益站去卖，而且还卖的很贵！",
-      "link": "https://linux.do/t/topic/2310491"
-    },
-    {
-      "id": "9f26cd819979",
-      "title": "【实习交流】板块申请",
-      "link": "https://linux.do/t/topic/2318904"
+      "id": "3428319e9ea3",
+      "title": "你说今天能破100,000,000,000吗？",
+      "link": "https://linux.do/t/topic/2312425"
     },
     {
       "id": "0f136e29be79",
@@ -163,24 +148,39 @@
       "link": "https://linux.do/t/topic/2319789"
     },
     {
-      "id": "8d6243754b90",
-      "title": "公开一个自用很久的实卡平台吧",
-      "link": "https://linux.do/t/topic/2319801"
+      "id": "ef0167cdf27b",
+      "title": "大佬们，君的公益站里面opus4.8模型是接入官方的吗",
+      "link": "https://linux.do/t/topic/2321173"
     },
     {
-      "id": "e3790f4d3564",
-      "title": "gpt模型暂时先0额度一次 呗",
-      "link": "https://linux.do/t/topic/2315948"
+      "id": "36d028cb9a55",
+      "title": "佬们觉得哪个AI高考数学肯定能考满分？",
+      "link": "https://linux.do/t/topic/2320981"
     },
     {
-      "id": "277139f0f87f",
-      "title": "【CHY公益站】复活吧，天才程序员！",
-      "link": "https://linux.do/t/topic/2315557"
+      "id": "b34e9a3df49f",
+      "title": "我把她删了，我到底该怎么做",
+      "link": "https://linux.do/t/topic/2320471"
     },
     {
-      "id": "1886cef503fc",
-      "title": "不知道是不是太敏感了 这些回帖怎么不像真人",
-      "link": "https://linux.do/t/topic/2319050"
+      "id": "01ae9efd533b",
+      "title": "君の公益 回来吧，天才程序员们~",
+      "link": "https://linux.do/t/topic/2298218"
+    },
+    {
+      "id": "cc696ac598d5",
+      "title": "Windows/Office 简易激活方法",
+      "link": "https://linux.do/t/topic/2321523"
+    },
+    {
+      "id": "3f9f0e535ab1",
+      "title": "关于干餐饮的我，用Hermes加MIMO，做了几个自动回复脚本，来帮助日常餐饮工作的事情",
+      "link": "https://linux.do/t/topic/2321022"
+    },
+    {
+      "id": "a60636443a49",
+      "title": "【CHY公益站】分享Grok Free 1000个号",
+      "link": "https://linux.do/t/topic/2321130"
     }
   ]
 }
