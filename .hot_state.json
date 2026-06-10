@@ -1,35 +1,35 @@
 {
   "ids": [
-    "306865c601c7",
-    "9a794c6dda35",
-    "bf9c7c2b986b",
-    "3308bbb7a24a",
-    "18ba64050051",
-    "19da0ef3964a",
-    "a3db9c2a4bf7",
-    "f8cbbac0f46a",
-    "6a5bb38a141b",
-    "e4d2842e7257",
+    "4361ff478fc0",
+    "94491ab10f04",
     "5ec433d692ce",
-    "a6bb1f963dee",
-    "0babb947a321",
-    "50cfad8ee05d",
-    "b8279eb97656",
-    "18468748bc2a",
-    "9a76b37801e6",
-    "09c83b4a0934",
-    "683c65da2ea4",
-    "f55f6796d17a",
-    "74387d4acee4",
-    "9ce5d21fbeac",
-    "49d5a2f80f03",
-    "05330869f9cf",
-    "11f4921938bc",
-    "7b83570e2e2b",
-    "1341d71e6f82",
+    "c7205ad98abd",
     "5878daeec25a",
+    "5964250b2603",
+    "456d930f036b",
+    "3308bbb7a24a",
+    "9e9a104b5d51",
+    "b8279eb97656",
+    "0a518f77eda8",
+    "bda1b154fefe",
+    "1813cd01e6ed",
+    "50cfad8ee05d",
+    "306865c601c7",
+    "09c83b4a0934",
+    "bdde2b678efa",
+    "be33fbfc74c3",
+    "26db8b8ceccc",
     "36c76da01f9d",
-    "c7205ad98abd"
+    "aca5762e80ae",
+    "1359289c28ae",
+    "3484d435d7cb",
+    "3651241c1178",
+    "86f17ba9dc03",
+    "9a76b37801e6",
+    "05330869f9cf",
+    "be1382ec81d5",
+    "de8d15c9d724",
+    "9b66349737b8"
   ],
   "items": [
     {
@@ -48,9 +48,19 @@
       "link": "https://linux.do/t/topic/482293"
     },
     {
-      "id": "18468748bc2a",
-      "title": "【薄荷公益站】高考结束了，开放注册一天",
+      "id": "3651241c1178",
+      "title": "为什么说薄荷搞砸了一切",
+      "link": "https://linux.do/t/topic/2361360"
+    },
+    {
+      "id": "1813cd01e6ed",
+      "title": "【薄荷公益站】高考结束了，开放注册一天[已关闭]",
       "link": "https://linux.do/t/topic/2356337"
+    },
+    {
+      "id": "456d930f036b",
+      "title": "【面试拷打】面试了十几家 Agent 岗位，整理了面试题～",
+      "link": "https://linux.do/t/topic/2365650"
     },
     {
       "id": "09c83b4a0934",
@@ -58,9 +68,34 @@
       "link": "https://linux.do/t/topic/2336488"
     },
     {
+      "id": "3484d435d7cb",
+      "title": "Neo、薄荷，你们搞砸了一切！",
+      "link": "https://linux.do/t/topic/2363775"
+    },
+    {
+      "id": "be33fbfc74c3",
+      "title": "RawChat公益站，今日免费发放10000份60刀的订阅",
+      "link": "https://linux.do/t/topic/2360048"
+    },
+    {
       "id": "36c76da01f9d",
       "title": "关于最近几天 君の的公益 签到都是520的一些解释",
       "link": "https://linux.do/t/topic/2342560"
+    },
+    {
+      "id": "4361ff478fc0",
+      "title": "【CHY公益站】高考结束，祝各位佬友金榜题名！CHY公益站开放无注册码注册",
+      "link": "https://linux.do/t/topic/2357935"
+    },
+    {
+      "id": "bdde2b678efa",
+      "title": "已三高，中年男人的悲痛",
+      "link": "https://linux.do/t/topic/2361375"
+    },
+    {
+      "id": "be1382ec81d5",
+      "title": "星辰AI 上线 claude-fable-5",
+      "link": "https://linux.do/t/topic/2362036"
     },
     {
       "id": "c7205ad98abd",
@@ -68,19 +103,14 @@
       "link": "https://linux.do/t/topic/2355426"
     },
     {
-      "id": "05330869f9cf",
-      "title": "我对象又给我发了这种视频",
-      "link": "https://linux.do/t/topic/2347556"
+      "id": "86f17ba9dc03",
+      "title": "【开源、教程】RAG全流程实现（java+完整代码）",
+      "link": "https://linux.do/t/topic/2364008"
     },
     {
-      "id": "306865c601c7",
-      "title": "如何说服父母给自己大学购买pro20x",
-      "link": "https://linux.do/t/topic/2355048"
-    },
-    {
-      "id": "18ba64050051",
-      "title": "Grok2API 即日起正式停更，有缘再见！",
-      "link": "https://linux.do/t/topic/2352950"
+      "id": "94491ab10f04",
+      "title": "突发！美国战争部居然透过openrouter 使用Claude Fable 5",
+      "link": "https://linux.do/t/topic/2367388"
     },
     {
       "id": "b8279eb97656",
@@ -88,19 +118,14 @@
       "link": "https://linux.do/t/topic/2337819"
     },
     {
+      "id": "05330869f9cf",
+      "title": "我对象又给我发了这种视频",
+      "link": "https://linux.do/t/topic/2347556"
+    },
+    {
       "id": "5ec433d692ce",
       "title": "孩子基本确诊自闭症，中年危机爆发，生活没戏了。求佬们指点如何能挂到114的专家号，黄牛2800一个号。",
       "link": "https://linux.do/t/topic/2326245"
-    },
-    {
-      "id": "7b83570e2e2b",
-      "title": "Claude Fable 5 / Mythos 5 迄今为止最强大的模型，性能大幅跃升暴打GPT",
-      "link": "https://linux.do/t/topic/2357355"
-    },
-    {
-      "id": "19da0ef3964a",
-      "title": "公司开始给我上压力了，跑不跑",
-      "link": "https://linux.do/t/topic/2350296"
     },
     {
       "id": "50cfad8ee05d",
@@ -108,79 +133,54 @@
       "link": "https://linux.do/t/topic/2324871"
     },
     {
-      "id": "683c65da2ea4",
-      "title": "FluxDO 0.2.16 已发布",
-      "link": "https://linux.do/t/topic/2355595"
+      "id": "de8d15c9d724",
+      "title": "Wow~ 圣经！",
+      "link": "https://linux.do/t/topic/2369922"
     },
     {
-      "id": "f55f6796d17a",
-      "title": "公司让我全程录屏使用AI开发个功能模块，咋整哦",
-      "link": "https://linux.do/t/topic/2347790"
+      "id": "9b66349737b8",
+      "title": "还学什么口语？Google今天发布Gemini 3.5 Live Translate",
+      "link": "https://linux.do/t/topic/2368101"
     },
     {
-      "id": "a3db9c2a4bf7",
-      "title": "已恢复，莫辜负，签到升星站",
-      "link": "https://linux.do/t/topic/2333164"
+      "id": "26db8b8ceccc",
+      "title": "薄荷，你又搞砸了一切！",
+      "link": "https://linux.do/t/topic/2361017"
     },
     {
-      "id": "6a5bb38a141b",
-      "title": "某公众号diss发文linux do",
-      "link": "https://linux.do/t/topic/2355326"
+      "id": "0a518f77eda8",
+      "title": "我想知道在公司上班自己购买 token 的情况是否是普遍现象？",
+      "link": "https://linux.do/t/topic/2362904"
     },
     {
-      "id": "9ce5d21fbeac",
-      "title": "AI一次性跑新高考 I 卷数学究竟能拿多少分？亲测榜单，数据全部公开",
-      "link": "https://linux.do/t/topic/2342513"
+      "id": "306865c601c7",
+      "title": "如何说服父母给自己大学购买pro20x",
+      "link": "https://linux.do/t/topic/2355048"
     },
     {
-      "id": "e4d2842e7257",
-      "title": "RawChat codex公益站运行方式调整通知",
-      "link": "https://linux.do/t/topic/2316389"
+      "id": "5964250b2603",
+      "title": "这rpm。。。吓人",
+      "link": "https://linux.do/t/topic/2365282"
     },
     {
-      "id": "9a794c6dda35",
-      "title": "佬友们，下周领导让我培训同事使用AI，有什么需要注意的吗？",
-      "link": "https://linux.do/t/topic/2354407"
+      "id": "aca5762e80ae",
+      "title": "WhatsApp纯协议实现",
+      "link": "https://linux.do/t/topic/2367953"
     },
     {
-      "id": "49d5a2f80f03",
-      "title": "广深应届生现在什么价？给带了一年的实习生开8.5k，看他表情估计想跑路了……",
-      "link": "https://linux.do/t/topic/2351919"
+      "id": "9e9a104b5d51",
+      "title": "【口令红包多多】庆祝自己专业水平提升一个台阶并记录",
+      "link": "https://linux.do/t/topic/2368177"
     },
     {
-      "id": "bf9c7c2b986b",
-      "title": "Claude-fable-5发布了，可以在claude code中使用了（原子弹爆炸）",
-      "link": "https://linux.do/t/topic/2357272"
+      "id": "bda1b154fefe",
+      "title": "快要迎来全额社保时代了，佬们怎么看？能否实现？",
+      "link": "https://linux.do/t/topic/2364191"
     },
     {
-      "id": "74387d4acee4",
-      "title": "『君の公益』 加入疯狂星期六（狂欢结束，希望大家周末开心～）",
-      "link": "https://linux.do/t/topic/2315630"
-    },
-    {
-      "id": "1341d71e6f82",
-      "title": "这mythos5认真的吗两句话额度就没了",
-      "link": "https://linux.do/t/topic/2357488"
-    },
-    {
-      "id": "0babb947a321",
-      "title": "强烈推荐语音输入，几乎可以告别打字了，无论是否Vibe Coding",
-      "link": "https://linux.do/t/topic/2344951"
-    },
-    {
-      "id": "11f4921938bc",
-      "title": "『君の公益』 服务器迁移完成",
-      "link": "https://linux.do/t/topic/2307037"
-    },
-    {
-      "id": "a6bb1f963dee",
-      "title": "什么x x x x也配分发我的公益站？",
-      "link": "https://linux.do/t/topic/2324697"
-    },
-    {
-      "id": "f8cbbac0f46a",
-      "title": "逆天A/发布新模型专门提到防‘’敌对势力‘’蒸馏模型，检测到就降智",
-      "link": "https://linux.do/t/topic/2357428"
+      "id": "1359289c28ae",
+      "title": "【小喵喵TTS公益】我们或许低估了Mimo的TTS模型：在线免费使用Mimo-TTS公益站点-声音克隆、音色设计、文字转语音",
+      "link": "https://linux.do/t/topic/2366246"
     }
   ]
 }
