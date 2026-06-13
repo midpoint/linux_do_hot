@@ -1,35 +1,35 @@
 {
   "ids": [
-    "fa8c82137e53",
-    "9a76b37801e6",
-    "3308bbb7a24a",
-    "6d1c26056b79",
-    "bb82352ee2eb",
-    "36c76da01f9d",
-    "31d7d4d487dc",
-    "09c83b4a0934",
-    "1813cd01e6ed",
-    "b8279eb97656",
-    "a66e5a8e381f",
-    "5b3fd210b651",
-    "8c8ddbf648c7",
-    "300d1ad5cdff",
-    "03291144f283",
-    "5878daeec25a",
-    "104b4c8087d8",
+    "e5e956221d29",
     "3651241c1178",
-    "8481797afc6c",
-    "7ee72b7e8639",
-    "456d930f036b",
-    "5ec433d692ce",
-    "9a15e76465db",
-    "4dfc3b290ef7",
-    "858f471d54f1",
-    "8754d472b699",
-    "a60d9c60ac42",
-    "4d68beb7717d",
+    "9a76b37801e6",
+    "8c320a44181d",
+    "868e9d63ce13",
+    "fcaf9aadb065",
+    "a1373d03fb17",
+    "3eb46aad7a59",
+    "0e9a78beb2cb",
+    "e29ad2f4338b",
+    "2c50c84ff6f2",
+    "df968dcd6b32",
+    "0093f2a49edf",
+    "8defedfe9e01",
+    "fe7e2b9f176c",
+    "fa8c82137e53",
+    "d78faf0a918e",
+    "442ef8e42df6",
+    "fe82d070c160",
+    "3308bbb7a24a",
     "b34385431a84",
-    "979b7b9d5485"
+    "69b3b021b0e3",
+    "a5e819587d77",
+    "1813cd01e6ed",
+    "a6f2f4b9092e",
+    "5878daeec25a",
+    "5b3fd210b651",
+    "5c54a7e656f8",
+    "2e75b70ba5b3",
+    "1a9f4684d2f0"
   ],
   "items": [
     {
@@ -48,9 +48,49 @@
       "link": "https://linux.do/t/topic/482293"
     },
     {
-      "id": "4d68beb7717d",
-      "title": "「君の公益」 上架 claude-fable-5",
+      "id": "868e9d63ce13",
+      "title": "「君の公益」限制调用客户端以及一些其他的说明",
+      "link": "https://linux.do/t/topic/2392122"
+    },
+    {
+      "id": "a1373d03fb17",
+      "title": "【授人以鱼不如授人以渔】教一些让新注册的佬友们更快解锁福利的方法论",
+      "link": "https://linux.do/t/topic/2392169"
+    },
+    {
+      "id": "a6f2f4b9092e",
+      "title": "[grok公益站]闲着没事开的",
+      "link": "https://linux.do/t/topic/2392693"
+    },
+    {
+      "id": "fcaf9aadb065",
+      "title": "这次真的超过Opus4.6了？GLM5.2的实际工程编程测评成绩(Nao佬)",
+      "link": "https://linux.do/t/topic/2393676"
+    },
+    {
+      "id": "0e9a78beb2cb",
+      "title": "「君の公益」 上架 claude-fable-5（暂时薅不到试用了，先用别的吧）",
       "link": "https://linux.do/t/topic/2390544"
+    },
+    {
+      "id": "2e75b70ba5b3",
+      "title": "报喜+1，继和喜欢的人结婚后，孩子也出生啦！",
+      "link": "https://linux.do/t/topic/2392809"
+    },
+    {
+      "id": "fe82d070c160",
+      "title": "如果财富自由了，你最想做的是什么？",
+      "link": "https://linux.do/t/topic/2393301"
+    },
+    {
+      "id": "3eb46aad7a59",
+      "title": "把全实验室的小伙伴都给坑了",
+      "link": "https://linux.do/t/topic/2392384"
+    },
+    {
+      "id": "e5e956221d29",
+      "title": "对不起，虽然你订阅了不限额度的日卡，但是我真没办法给你履约服务了",
+      "link": "https://linux.do/t/topic/2391112"
     },
     {
       "id": "5b3fd210b651",
@@ -58,14 +98,49 @@
       "link": "https://linux.do/t/topic/2374285"
     },
     {
+      "id": "2c50c84ff6f2",
+      "title": "【压力太大，临时修复】【CHY公益站】上线claude-fable-5",
+      "link": "https://linux.do/t/topic/2391841"
+    },
+    {
+      "id": "1a9f4684d2f0",
+      "title": "这波我站智谱！不该有少数人享有！",
+      "link": "https://linux.do/t/topic/2393557"
+    },
+    {
+      "id": "e29ad2f4338b",
+      "title": "人到中年，喜得爱女，和佬友们分享喜悦",
+      "link": "https://linux.do/t/topic/2392514"
+    },
+    {
+      "id": "69b3b021b0e3",
+      "title": "致开发者：GLM-5.2全量开放，前沿智能属于所有人",
+      "link": "https://linux.do/t/topic/2393025"
+    },
+    {
+      "id": "df968dcd6b32",
+      "title": "Fable5的封锁，或许是件好事",
+      "link": "https://linux.do/t/topic/2393829"
+    },
+    {
+      "id": "d78faf0a918e",
+      "title": "GLM 5.2 测试",
+      "link": "https://linux.do/t/topic/2393290"
+    },
+    {
+      "id": "5c54a7e656f8",
+      "title": "发现自己做的开源项目设计和代码被其他人借鉴和参考反而获得了更多的成就，心里觉得很丧气和难受",
+      "link": "https://linux.do/t/topic/2393362"
+    },
+    {
+      "id": "a5e819587d77",
+      "title": "梦里笙箫奏旧乐",
+      "link": "https://linux.do/t/topic/2391227"
+    },
+    {
       "id": "fa8c82137e53",
       "title": "发力大模型！华为余承东喊话自己的字典没有第二，只有第一",
       "link": "https://linux.do/t/topic/2386056"
-    },
-    {
-      "id": "3651241c1178",
-      "title": "为什么说薄荷搞砸了一切",
-      "link": "https://linux.do/t/topic/2361360"
     },
     {
       "id": "3308bbb7a24a",
@@ -73,114 +148,39 @@
       "link": "https://linux.do/t/topic/2317378"
     },
     {
+      "id": "3651241c1178",
+      "title": "为什么说薄荷搞砸了一切",
+      "link": "https://linux.do/t/topic/2361360"
+    },
+    {
+      "id": "442ef8e42df6",
+      "title": "any不管是谁，恩情还不完。",
+      "link": "https://linux.do/t/topic/2393065"
+    },
+    {
+      "id": "0093f2a49edf",
+      "title": "报! 智谱将于今天下午开放GLM5.2",
+      "link": "https://linux.do/t/topic/2393030"
+    },
+    {
+      "id": "8defedfe9e01",
+      "title": "Fable 5像一场彻头彻尾的闹剧，GLM-5.2贴脸输出",
+      "link": "https://linux.do/t/topic/2393637"
+    },
+    {
       "id": "1813cd01e6ed",
       "title": "【薄荷公益站】高考结束了，开放注册一天[已关闭]",
       "link": "https://linux.do/t/topic/2356337"
     },
     {
-      "id": "31d7d4d487dc",
-      "title": "欠薪三年多，我还应不应该坚持，恨自己为什么不早走",
-      "link": "https://linux.do/t/topic/2385041"
+      "id": "fe7e2b9f176c",
+      "title": "智谱是会阴阳怪气的",
+      "link": "https://linux.do/t/topic/2393204"
     },
     {
-      "id": "09c83b4a0934",
-      "title": "兄弟们，感觉被人作局了？",
-      "link": "https://linux.do/t/topic/2336488"
-    },
-    {
-      "id": "03291144f283",
-      "title": "周六凌晨啦，还没睡的佬友，来报个到",
-      "link": "https://linux.do/t/topic/2390094"
-    },
-    {
-      "id": "a66e5a8e381f",
-      "title": "Kimi K2.7 Code 编程模型已上线 Kimi Code、API 开放平台",
-      "link": "https://linux.do/t/topic/2388222"
-    },
-    {
-      "id": "456d930f036b",
-      "title": "【面试拷打】面试了十几家 Agent 岗位，整理了面试题～",
-      "link": "https://linux.do/t/topic/2365650"
-    },
-    {
-      "id": "36c76da01f9d",
-      "title": "关于最近几天 君の的公益 签到都是520的一些解释",
-      "link": "https://linux.do/t/topic/2342560"
-    },
-    {
-      "id": "7ee72b7e8639",
-      "title": "【金融扫盲】受不了佬友们被抖音和小红书上的一些nc言论洗脑金融知识了，让我来对你们重新洗脑！",
-      "link": "https://linux.do/t/topic/2385742"
-    },
-    {
-      "id": "300d1ad5cdff",
-      "title": "来猜猜为什么薄荷炸了？",
-      "link": "https://linux.do/t/topic/2372812"
-    },
-    {
-      "id": "8c8ddbf648c7",
-      "title": "没想到来L站也一年了。",
-      "link": "https://linux.do/t/topic/2373577"
-    },
-    {
-      "id": "4dfc3b290ef7",
-      "title": "完蛋，富婆要被拐跑了",
-      "link": "https://linux.do/t/topic/2388000"
-    },
-    {
-      "id": "6d1c26056b79",
-      "title": "ai图生视频公益站全员免费用24小时，佬友们登起来",
-      "link": "https://linux.do/t/topic/2384882"
-    },
-    {
-      "id": "bb82352ee2eb",
-      "title": "甲骨文arm免费额度砍半(成本计费系统已更新)",
-      "link": "https://linux.do/t/topic/2387741"
-    },
-    {
-      "id": "104b4c8087d8",
-      "title": "该不该分手…总感觉好有压力",
-      "link": "https://linux.do/t/topic/2390352"
-    },
-    {
-      "id": "979b7b9d5485",
-      "title": "假如你有无限量的token，你会做什么",
-      "link": "https://linux.do/t/topic/2387814"
-    },
-    {
-      "id": "9a15e76465db",
-      "title": "以后要对AI客气点，多用敬语",
-      "link": "https://linux.do/t/topic/2387458"
-    },
-    {
-      "id": "8754d472b699",
-      "title": "bug team复活但是不知道效果如何，，打算上个公益让佬友们尝尝",
-      "link": "https://linux.do/t/topic/2390424"
-    },
-    {
-      "id": "b8279eb97656",
-      "title": "github 5年账号放开进来的兄弟，集合！鼓掌！",
-      "link": "https://linux.do/t/topic/2337819"
-    },
-    {
-      "id": "8481797afc6c",
-      "title": "RawChat codex公益站已恢复",
-      "link": "https://linux.do/t/topic/2377931"
-    },
-    {
-      "id": "858f471d54f1",
-      "title": "muyuan 的 Claude 稳得离谱",
-      "link": "https://linux.do/t/topic/2383392"
-    },
-    {
-      "id": "a60d9c60ac42",
-      "title": "anyrouter教育邮箱白名单和黑名单",
-      "link": "https://linux.do/t/topic/2383524"
-    },
-    {
-      "id": "5ec433d692ce",
-      "title": "孩子基本确诊自闭症，中年危机爆发，生活没戏了。求佬们指点如何能挂到114的专家号，黄牛2800一个号。",
-      "link": "https://linux.do/t/topic/2326245"
+      "id": "8c320a44181d",
+      "title": "Fable5 已全面暂停使用",
+      "link": "https://linux.do/t/topic/2391001"
     }
   ]
 }
