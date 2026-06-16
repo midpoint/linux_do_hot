@@ -1,35 +1,35 @@
 {
   "ids": [
-    "c064b8bff9ad",
-    "b34385431a84",
-    "5878daeec25a",
-    "9987b4369a76",
-    "3dec4049a2e7",
-    "876f3f73fc09",
-    "3651241c1178",
-    "be79b077fd0b",
-    "58f98ca79bff",
-    "bf310980e19a",
-    "2da3ca975a90",
-    "4859745ba321",
-    "0e9a78beb2cb",
-    "ec3eb5f43b25",
-    "6e4d2e42bae7",
-    "868e9d63ce13",
-    "9660bfe60549",
-    "d9dfe1cf4ce9",
-    "1813cd01e6ed",
-    "e5a7f4b652c1",
-    "5b3fd210b651",
-    "f9a8feded316",
-    "3f545f04bc04",
+    "08772dc8413a",
+    "887a8dc70d58",
     "9a76b37801e6",
-    "9b7944753f78",
+    "bf5029ad68ed",
+    "8cf9cfac7e9e",
+    "e737a2649bc6",
+    "2da3ca975a90",
+    "be79b077fd0b",
+    "96ea339583aa",
+    "082fbffa1144",
+    "ec3eb5f43b25",
+    "1a7157002678",
+    "a489eb86c723",
+    "206db9f1aee2",
+    "868e9d63ce13",
+    "93ed9aaa7bff",
+    "2a2043747a59",
+    "e5a7f4b652c1",
+    "f8430ef20b60",
+    "b34385431a84",
     "8e7afbaa0c4e",
-    "3308bbb7a24a",
-    "36c76da01f9d",
-    "09c83b4a0934",
-    "be89e000a729"
+    "210b35ad64f0",
+    "d98a66ca2ff8",
+    "2a0728450d6d",
+    "5878daeec25a",
+    "81655b54f92a",
+    "726f50317f90",
+    "70ee1f1bddf1",
+    "9bebf2eceb28",
+    "11928380953f"
   ],
   "items": [
     {
@@ -43,9 +43,24 @@
       "link": "https://linux.do/t/topic/482293"
     },
     {
+      "id": "93ed9aaa7bff",
+      "title": "始皇来确认一下端午福利",
+      "link": "https://linux.do/t/topic/2416578"
+    },
+    {
       "id": "e5a7f4b652c1",
       "title": "节奏带得飞起，但这有什么好争的？",
       "link": "https://linux.do/t/topic/2406097"
+    },
+    {
+      "id": "81655b54f92a",
+      "title": "Linux内核创始人Linus Torvalds帮助我解决了问题",
+      "link": "https://linux.do/t/topic/2415687"
+    },
+    {
+      "id": "082fbffa1144",
+      "title": "签到站来点好玩的（保底策略）",
+      "link": "https://linux.do/t/topic/2413227"
     },
     {
       "id": "ec3eb5f43b25",
@@ -53,19 +68,29 @@
       "link": "https://linux.do/t/topic/2405626"
     },
     {
+      "id": "bf5029ad68ed",
+      "title": "sub2api的性能终于有了起飞的提升！性能提升非常非常非常非常非常高！",
+      "link": "https://linux.do/t/topic/2414313"
+    },
+    {
       "id": "b34385431a84",
       "title": "有心之人开始带节奏？",
       "link": "https://linux.do/t/topic/2385713"
     },
     {
-      "id": "be79b077fd0b",
-      "title": "纵有疾风起，嘿嘿",
-      "link": "https://linux.do/t/topic/2403179"
+      "id": "a489eb86c723",
+      "title": "DeepSeek疑似灰度新模型，出现新的思维链形式",
+      "link": "https://linux.do/t/topic/2415444"
     },
     {
-      "id": "868e9d63ce13",
-      "title": "「君の公益」限制调用客户端以及一些其他的说明",
-      "link": "https://linux.do/t/topic/2392122"
+      "id": "9bebf2eceb28",
+      "title": "如果下一份工作不做程序员了，你想做什么？",
+      "link": "https://linux.do/t/topic/2415316"
+    },
+    {
+      "id": "8cf9cfac7e9e",
+      "title": "约女孩子可以去哪玩？佬们救救单身狗吧",
+      "link": "https://linux.do/t/topic/2414960"
     },
     {
       "id": "2da3ca975a90",
@@ -73,114 +98,89 @@
       "link": "https://linux.do/t/topic/2411305"
     },
     {
+      "id": "210b35ad64f0",
+      "title": "公司AI提效还给发钱",
+      "link": "https://linux.do/t/topic/2415352"
+    },
+    {
+      "id": "726f50317f90",
+      "title": "【富可敌国】baby 一家高性价比 满血Claude 中转站 新用户留ID送10刀余额",
+      "link": "https://linux.do/t/topic/2415673"
+    },
+    {
+      "id": "70ee1f1bddf1",
+      "title": "【AI与AI安全】聊聊黑GEO，也就是怎么给大模型搜索下毒",
+      "link": "https://linux.do/t/topic/2416059"
+    },
+    {
+      "id": "08772dc8413a",
+      "title": "Anthropic遭集体诉讼，指控Max系列百美元订阅计划实际额度缩水",
+      "link": "https://linux.do/t/topic/2416032"
+    },
+    {
+      "id": "be79b077fd0b",
+      "title": "纵有疾风起，嘿嘿",
+      "link": "https://linux.do/t/topic/2403179"
+    },
+    {
+      "id": "d98a66ca2ff8",
+      "title": "快端午了，公司还是发福利了",
+      "link": "https://linux.do/t/topic/2416358"
+    },
+    {
+      "id": "11928380953f",
+      "title": "干草铺临时停止服务，各位等两天",
+      "link": "https://linux.do/t/topic/2412533"
+    },
+    {
+      "id": "2a2043747a59",
+      "title": "GPT渠道又又又被人举报到openai官方论坛",
+      "link": "https://linux.do/t/topic/2415885"
+    },
+    {
+      "id": "206db9f1aee2",
+      "title": "codex删除了我三天写的代码（包括.git），如何恢复[已放弃挣扎，谢谢各位佬的建议和意见，已经吸取教训了！]",
+      "link": "https://linux.do/t/topic/2415033"
+    },
+    {
       "id": "8e7afbaa0c4e",
       "title": "老哥们，帮我分析一下，没想到这个狗血的事情，发生在我的身上",
       "link": "https://linux.do/t/topic/2410229"
     },
     {
-      "id": "3308bbb7a24a",
-      "title": "社区拟优化账号注册机制",
-      "link": "https://linux.do/t/topic/2317378"
+      "id": "887a8dc70d58",
+      "title": "为什么学校不教如何煮饭、坐飞机/高铁、修电器…",
+      "link": "https://linux.do/t/topic/2416665"
     },
     {
-      "id": "d9dfe1cf4ce9",
-      "title": "【富可敌国】ccmax20 没错 我们的域名就是ccmax20 一家专做ccmax的中转站",
-      "link": "https://linux.do/t/topic/2407600"
+      "id": "96ea339583aa",
+      "title": "随便聊一聊自己VibeCoding AI短剧应用过程中的一些小心思！！",
+      "link": "https://linux.do/t/topic/2416495"
     },
     {
-      "id": "5b3fd210b651",
-      "title": "这次是机房搞砸了一切",
-      "link": "https://linux.do/t/topic/2374285"
+      "id": "1a7157002678",
+      "title": "Redis创始人反驳「中国大模型靠蒸馏美国模型变强」论调：API答案不能一键复制前沿模型",
+      "link": "https://linux.do/t/topic/2416053"
     },
     {
-      "id": "876f3f73fc09",
-      "title": "【Krill·618】0.1倍率年中狂欢，全线无门槛直降+专属骨折价来袭！回复就送！",
-      "link": "https://linux.do/t/topic/2401410"
+      "id": "f8430ef20b60",
+      "title": "刚刚有个说自己给女朋友花几万，丈母娘给自己100的起号的哥们呢？",
+      "link": "https://linux.do/t/topic/2416374"
     },
     {
-      "id": "58f98ca79bff",
-      "title": "any蹬上了，但它说它是肥波5？",
-      "link": "https://linux.do/t/topic/2409436"
+      "id": "2a0728450d6d",
+      "title": "想问下 L 站有女生玩吗？",
+      "link": "https://linux.do/t/topic/2411547"
     },
     {
-      "id": "4859745ba321",
-      "title": "佬们公司端午节福利是啥",
-      "link": "https://linux.do/t/topic/2403469"
+      "id": "e737a2649bc6",
+      "title": "现在的随身wifi体验真是糟透了",
+      "link": "https://linux.do/t/topic/2415944"
     },
     {
-      "id": "f9a8feded316",
-      "title": "萌新的女装日常",
-      "link": "https://linux.do/t/topic/2411234"
-    },
-    {
-      "id": "c064b8bff9ad",
-      "title": "大学老师，用豆包编程？",
-      "link": "https://linux.do/t/topic/2402834"
-    },
-    {
-      "id": "3651241c1178",
-      "title": "为什么说薄荷搞砸了一切",
-      "link": "https://linux.do/t/topic/2361360"
-    },
-    {
-      "id": "9987b4369a76",
-      "title": "【富可敌国】Unity2.ai 618福利 感谢各位佬友一路支持，专属优惠来了～ 注册得$12",
-      "link": "https://linux.do/t/topic/2405002"
-    },
-    {
-      "id": "0e9a78beb2cb",
-      "title": "「君の公益」 上架 claude-fable-5（暂时薅不到试用了，先用别的吧）",
-      "link": "https://linux.do/t/topic/2390544"
-    },
-    {
-      "id": "9b7944753f78",
-      "title": "华为出code cli了，无限用GLM5.1",
-      "link": "https://linux.do/t/topic/2405921"
-    },
-    {
-      "id": "bf310980e19a",
-      "title": "我用codex现在给公司做了一个系统，现在集团也知道了，想让我往上搞，做成项目。佬们我的结局是什么？",
-      "link": "https://linux.do/t/topic/2407351"
-    },
-    {
-      "id": "be89e000a729",
-      "title": "看的出来大家确实是没模型用了，于心不忍我手动给他加了50刀额度",
-      "link": "https://linux.do/t/topic/2408199"
-    },
-    {
-      "id": "9660bfe60549",
-      "title": "【开源 Skills】清华博士自用的科研&编程&日常 Agent 生态：COMPASS 司南",
-      "link": "https://linux.do/t/topic/2409309"
-    },
-    {
-      "id": "6e4d2e42bae7",
-      "title": "Deepseek 网页版疑似上架Deepseek v4.1 flash 模型",
-      "link": "https://linux.do/t/topic/2404493"
-    },
-    {
-      "id": "1813cd01e6ed",
-      "title": "【薄荷公益站】高考结束了，开放注册一天[已关闭]",
-      "link": "https://linux.do/t/topic/2356337"
-    },
-    {
-      "id": "09c83b4a0934",
-      "title": "兄弟们，感觉被人作局了？",
-      "link": "https://linux.do/t/topic/2336488"
-    },
-    {
-      "id": "3f545f04bc04",
-      "title": "AI支付宝能干啥",
-      "link": "https://linux.do/t/topic/2409270"
-    },
-    {
-      "id": "3dec4049a2e7",
-      "title": "分享下昨夜发生的惨案 小弟还是太天真了",
-      "link": "https://linux.do/t/topic/2409920"
-    },
-    {
-      "id": "36c76da01f9d",
-      "title": "关于最近几天 君の的公益 签到都是520的一些解释",
-      "link": "https://linux.do/t/topic/2342560"
+      "id": "868e9d63ce13",
+      "title": "「君の公益」限制调用客户端以及一些其他的说明",
+      "link": "https://linux.do/t/topic/2392122"
     }
   ]
 }
