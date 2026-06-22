@@ -1,35 +1,35 @@
 {
   "ids": [
-    "93ed9aaa7bff",
-    "3308bbb7a24a",
-    "bb66fed302c2",
-    "785752bd7786",
-    "0fb34090c640",
-    "4ae537927f2c",
-    "5a8fcefb3e74",
-    "ec3eb5f43b25",
-    "45ec37ce2e2c",
-    "5878daeec25a",
-    "2760eacd0d95",
-    "8cc84f29ada9",
-    "7f3d0164584c",
-    "e5a7f4b652c1",
-    "051ad2abb7e9",
-    "99aea33673e3",
-    "b34385431a84",
-    "427946dfa4a4",
-    "1997a20bbd06",
-    "f4575121ca58",
-    "6288f49b6e1f",
-    "da784d541082",
-    "7451bb39c411",
-    "6a0364e91aa6",
-    "ee6d5fde5153",
-    "1215237642ff",
-    "76d038594ab3",
+    "b1867464ec63",
     "ec32489f6501",
-    "02ccfc5b6280",
-    "9a76b37801e6"
+    "829ff86be592",
+    "3e7779f67731",
+    "901b11b06e2c",
+    "b4b5b5deddcb",
+    "d819b43cfe04",
+    "32e77606f991",
+    "ee6d5fde5153",
+    "64da3cd31aa8",
+    "748df4451f12",
+    "dbfd422f4d36",
+    "601797a931a5",
+    "91c0f1cffa01",
+    "1b024fbefa1f",
+    "3c35b092f191",
+    "4a366e9249c8",
+    "78723470f0ca",
+    "5878daeec25a",
+    "430511017693",
+    "29b78a1e7a5a",
+    "b0292e534051",
+    "c23ca26b4658",
+    "5d07c2fa0a76",
+    "c9fa9eac487f",
+    "9a76b37801e6",
+    "6796a4380f8d",
+    "a25d2903c514",
+    "5c579b708ae3",
+    "4a00b8954c09"
   ],
   "items": [
     {
@@ -43,9 +43,59 @@
       "link": "https://linux.do/t/topic/482293"
     },
     {
+      "id": "748df4451f12",
+      "title": "来还债了，PackyCode 在 L 站的一年，话不多说抽个 macmini",
+      "link": "https://linux.do/t/topic/2448069"
+    },
+    {
+      "id": "c9fa9eac487f",
+      "title": "『富可敌国』『高级推广』只需要一个创意，剩下的交给我们~即梦，创造你的梦~",
+      "link": "https://linux.do/t/topic/2449331"
+    },
+    {
+      "id": "6796a4380f8d",
+      "title": "公司内开发 agent，被同事说工贼",
+      "link": "https://linux.do/t/topic/2448600"
+    },
+    {
+      "id": "5c579b708ae3",
+      "title": "散光一定不要用深色模式",
+      "link": "https://linux.do/t/topic/2450455"
+    },
+    {
+      "id": "a25d2903c514",
+      "title": "呜呜呜，第一次独立开车就出事故了",
+      "link": "https://linux.do/t/topic/2448903"
+    },
+    {
+      "id": "b4b5b5deddcb",
+      "title": "高考马上出分了，有什么20年内不会被ai代替的专业吗",
+      "link": "https://linux.do/t/topic/2450634"
+    },
+    {
+      "id": "d819b43cfe04",
+      "title": "虽然是女生 我也整点??",
+      "link": "https://linux.do/t/topic/2444773"
+    },
+    {
+      "id": "4a00b8954c09",
+      "title": "[富可敌国] OpusRelay 入驻!只做纯血 Claude · 1 倍率官方价不掺假 —— 注册送 $2,回帖再送 $6!",
+      "link": "https://linux.do/t/topic/2447991"
+    },
+    {
       "id": "ec32489f6501",
       "title": "[猫羽雫公益站]主贴",
       "link": "https://linux.do/t/topic/2442317"
+    },
+    {
+      "id": "dbfd422f4d36",
+      "title": "小米你支愣一下啊",
+      "link": "https://linux.do/t/topic/2449170"
+    },
+    {
+      "id": "430511017693",
+      "title": "相比 Codex，Claude 越用越舒服",
+      "link": "https://linux.do/t/topic/2448018"
     },
     {
       "id": "ee6d5fde5153",
@@ -53,134 +103,84 @@
       "link": "https://linux.do/t/topic/2425120"
     },
     {
-      "id": "76d038594ab3",
-      "title": "又有人向openai举报team、优惠码、K12",
-      "link": "https://linux.do/t/topic/2444620"
+      "id": "29b78a1e7a5a",
+      "title": "实习第二周 任务好难啊 不敢跟领导说我不会 求助",
+      "link": "https://linux.do/t/topic/2449749"
     },
     {
-      "id": "1215237642ff",
-      "title": "今晚猎鹰夺冠，我一个月不导",
-      "link": "https://linux.do/t/topic/2444391"
+      "id": "3c35b092f191",
+      "title": "佬们，15W左右新能源车，咋选，眼花了",
+      "link": "https://linux.do/t/topic/2449060"
     },
     {
-      "id": "4ae537927f2c",
-      "title": "【抽奖】端午节抽一个小米手环9Pro，祝大家端午安康",
-      "link": "https://linux.do/t/topic/2440615"
+      "id": "3e7779f67731",
+      "title": "【富可敌国】Baby 一家高性价比的AI中转站 满血cc1元1刀 佬友新用户安排10刀体验",
+      "link": "https://linux.do/t/topic/2449852"
     },
     {
-      "id": "2760eacd0d95",
-      "title": "佬友们救急救急，家人突然诊断出脑出血",
-      "link": "https://linux.do/t/topic/2444655"
+      "id": "78723470f0ca",
+      "title": "【富可敌国】嘀嘀嘀 AI 6 月福利，自建 Pro 号池 API 中转，评论送 + 抽奖 + 充值加赠，GPT / Claude / Gemini 都能用",
+      "link": "https://linux.do/t/topic/2446581"
     },
     {
-      "id": "e5a7f4b652c1",
-      "title": "节奏带得飞起，但这有什么好争的？",
-      "link": "https://linux.do/t/topic/2406097"
+      "id": "901b11b06e2c",
+      "title": "刚上班2个月左右，领导找我借钱",
+      "link": "https://linux.do/t/topic/2450066"
     },
     {
-      "id": "45ec37ce2e2c",
-      "title": "Claude in Chrome+++",
-      "link": "https://linux.do/t/topic/2440464"
+      "id": "601797a931a5",
+      "title": "刚订阅了个机场，发现是闭源自研客户端，给我恶心坏了，希望佬友们支支招",
+      "link": "https://linux.do/t/topic/2450928"
     },
     {
-      "id": "0fb34090c640",
-      "title": "[待证实]GPT-5.6，真的要来了。",
-      "link": "https://linux.do/t/topic/2440695"
+      "id": "5d07c2fa0a76",
+      "title": "Deepseek发明了一个新词：o7",
+      "link": "https://linux.do/t/topic/2447832"
     },
     {
-      "id": "93ed9aaa7bff",
-      "title": "始皇来确认一下端午福利",
-      "link": "https://linux.do/t/topic/2416578"
+      "id": "64da3cd31aa8",
+      "title": "我用Claude，老板用豆包，我完败",
+      "link": "https://linux.do/t/topic/2450780"
     },
     {
-      "id": "7451bb39c411",
-      "title": "【CHY公益站】站长即将失踪通知",
-      "link": "https://linux.do/t/topic/2443944"
+      "id": "32e77606f991",
+      "title": "GLM5.2 真的挺好用的",
+      "link": "https://linux.do/t/topic/2446432"
     },
     {
-      "id": "427946dfa4a4",
-      "title": "还有熬夜的夜猫子吗？熬夜在干啥？",
-      "link": "https://linux.do/t/topic/2444840"
+      "id": "c23ca26b4658",
+      "title": "用Hermes做了一个选股牛牛",
+      "link": "https://linux.do/t/topic/2448818"
     },
     {
-      "id": "02ccfc5b6280",
-      "title": "【九幺】继续放送公益站余额",
-      "link": "https://linux.do/t/topic/2443748"
+      "id": "829ff86be592",
+      "title": "本地 CodeX 防止降智方法",
+      "link": "https://linux.do/t/topic/2450876"
     },
     {
-      "id": "1997a20bbd06",
-      "title": "大学没有一个你能说话的朋友，偶尔有些孤独",
-      "link": "https://linux.do/t/topic/2444501"
+      "id": "1b024fbefa1f",
+      "title": "有佬友时潜水党吗，只喜欢看不喜欢发表言论",
+      "link": "https://linux.do/t/topic/2449259"
     },
     {
-      "id": "ec3eb5f43b25",
-      "title": "我真的引流过吗？",
-      "link": "https://linux.do/t/topic/2405626"
+      "id": "4a366e9249c8",
+      "title": "失业回老家，你不一定能活下去",
+      "link": "https://linux.do/t/topic/2446466"
     },
     {
-      "id": "da784d541082",
-      "title": "美团把GPT-5.5、Claude Opus 4.8免费使用",
-      "link": "https://linux.do/t/topic/2444817"
+      "id": "b0292e534051",
+      "title": "为什么觉得酒特别苦",
+      "link": "https://linux.do/t/topic/2449052"
     },
     {
-      "id": "b34385431a84",
-      "title": "有心之人开始带节奏？",
-      "link": "https://linux.do/t/topic/2385713"
+      "id": "91c0f1cffa01",
+      "title": "多eSIM卡的佬有福了,终于可以远程切eSIM接码了",
+      "link": "https://linux.do/t/topic/2450160"
     },
     {
-      "id": "6a0364e91aa6",
-      "title": "知道越多，越害怕发言",
-      "link": "https://linux.do/t/topic/2443488"
-    },
-    {
-      "id": "99aea33673e3",
-      "title": "我们真的需要 Fable 5 吗？",
-      "link": "https://linux.do/t/topic/2444775"
-    },
-    {
-      "id": "6288f49b6e1f",
-      "title": "求助有经验的佬找一个隐蔽的聊天方案",
-      "link": "https://linux.do/t/topic/2442431"
-    },
-    {
-      "id": "f4575121ca58",
-      "title": "让我们恭喜这位佬友来这里一周年！！",
-      "link": "https://linux.do/t/topic/2444955"
-    },
-    {
-      "id": "7f3d0164584c",
-      "title": "（cs2）就在今天！",
-      "link": "https://linux.do/t/topic/2444852"
-    },
-    {
-      "id": "785752bd7786",
-      "title": "收到了阿里的端午礼盒",
-      "link": "https://linux.do/t/topic/2438745"
-    },
-    {
-      "id": "051ad2abb7e9",
-      "title": "尼尼孩孩major冠军～牛逼～",
-      "link": "https://linux.do/t/topic/2444854"
-    },
-    {
-      "id": "8cc84f29ada9",
-      "title": "（新人向 · 持续更新）最近总结的免费用 GLM 5.2 / DeepSeekV4 的几个方法",
-      "link": "https://linux.do/t/topic/2441446"
-    },
-    {
-      "id": "3308bbb7a24a",
-      "title": "社区拟优化账号注册机制",
-      "link": "https://linux.do/t/topic/2317378"
-    },
-    {
-      "id": "5a8fcefb3e74",
-      "title": "OAI没有契约精神，杀问题号就算了，正价的也杀",
-      "link": "https://linux.do/t/topic/2443916"
-    },
-    {
-      "id": "bb66fed302c2",
-      "title": "AI编程的商业模式已经在互联网大厂跑通了",
-      "link": "https://linux.do/t/topic/2442305"
+      "id": "b1867464ec63",
+      "title": "京东刘强东称将来根本不需要快递员",
+      "link": "https://linux.do/t/topic/2445859"
     }
   ]
 }
