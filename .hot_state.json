@@ -1,35 +1,35 @@
 {
   "ids": [
-    "f9ce0fc726ea",
-    "9a76b37801e6",
-    "9d65affc0fcb",
-    "63dc48ffaf86",
-    "d62a9a85f83a",
-    "9477714905ac",
-    "a717c03c6afe",
-    "62f5ce3d50ec",
-    "27a20f7f8508",
-    "e83a4c72da7f",
-    "001cfe2d7463",
-    "ec5898fe97c9",
-    "1534db3688f6",
-    "ceaf70b65907",
-    "0a534585c1be",
-    "bbd990dfdb94",
-    "19778396462d",
-    "ccb1c590a6fc",
-    "c4de7ff98779",
-    "90d7b248a85c",
-    "014085cd716e",
-    "97cb151dfa46",
+    "d61ed4601a0c",
+    "83a52bb30733",
+    "f0534e2cc29b",
+    "eceecdf6fc2c",
+    "788d2f8f24f5",
+    "fd018c9b0c04",
+    "1b08587dc025",
+    "6afc6b3aab1b",
+    "395218da2702",
+    "3ce55d839b20",
+    "87262c5b165f",
+    "38a9f22cd450",
+    "700885173683",
     "5878daeec25a",
-    "1c524ea29416",
-    "8c691699e1ce",
-    "d7e02cead667",
+    "5663fbb64ed3",
+    "505aa1874a26",
+    "2d57a2181474",
+    "ea7b6b5b4b0a",
+    "8b7e619cf8e6",
+    "0f5e57a1d097",
+    "bc98bb0f1ac5",
+    "f6ca6a7efa86",
+    "16c3d99c9d4d",
+    "9aa848fdbeb6",
+    "368a1d2313a8",
+    "63dc48ffaf86",
+    "aff8a801d67b",
     "748df4451f12",
-    "788a8ae89ae7",
-    "8ebc15d75548",
-    "bf6108e75dfc"
+    "8ec102467994",
+    "9a76b37801e6"
   ],
   "items": [
     {
@@ -43,29 +43,79 @@
       "link": "https://linux.do/t/topic/482293"
     },
     {
+      "id": "5663fbb64ed3",
+      "title": "请教各位，mcp是否已经在淘汰边缘了？skill能完全代替mcp了吗",
+      "link": "https://linux.do/t/topic/2484802"
+    },
+    {
+      "id": "f6ca6a7efa86",
+      "title": "(薅秃了)GLM 5.2，12 小时，免费无限量",
+      "link": "https://linux.do/t/topic/2483691"
+    },
+    {
+      "id": "fd018c9b0c04",
+      "title": "【CHY公益站】重新上架GLM-5.2、MIMO-2.5等国模",
+      "link": "https://linux.do/t/topic/2483256"
+    },
+    {
+      "id": "2d57a2181474",
+      "title": "哔哩哔哩 17 周年庆，陈睿称 B站社区是优质内容最好的土壤",
+      "link": "https://linux.do/t/topic/2484874"
+    },
+    {
+      "id": "8b7e619cf8e6",
+      "title": "万元本地跑GLM5.2，佬友们快来打醒我。",
+      "link": "https://linux.do/t/topic/2485177"
+    },
+    {
+      "id": "3ce55d839b20",
+      "title": "人民日报发文：76.6% 青年婚育观受社交媒体影响，算法催生 “不敢爱” 与 “不会爱”",
+      "link": "https://linux.do/t/topic/2480232"
+    },
+    {
       "id": "63dc48ffaf86",
       "title": "「君の公益」重新限制为三级使用",
       "link": "https://linux.do/t/topic/2452094"
     },
     {
-      "id": "014085cd716e",
-      "title": "【干草铺服务站】开放注册一波～",
-      "link": "https://linux.do/t/topic/2471514"
+      "id": "0f5e57a1d097",
+      "title": "兄弟们 和女生约会 是真难等啊 呜呜",
+      "link": "https://linux.do/t/topic/2484571"
     },
     {
-      "id": "97cb151dfa46",
-      "title": "女朋友说我脑袋里整天不是屎就是黄",
-      "link": "https://linux.do/t/topic/2473935"
+      "id": "9aa848fdbeb6",
+      "title": "Deepseek网页灰测新的专家模型了，4.1前瞻？",
+      "link": "https://linux.do/t/topic/2484820"
     },
     {
-      "id": "bf6108e75dfc",
-      "title": "气笑了，兄弟们，第一次见API密钥管理面板变成评论区的，所谓的低价opencode其实本质上就是一号多卖，别买了兄弟们，大半夜的，还是绷不住笑了",
-      "link": "https://linux.do/t/topic/2475923"
+      "id": "d61ed4601a0c",
+      "title": "表弟高考结束，大概率双非，想读计算机专业，我该劝劝他吗？",
+      "link": "https://linux.do/t/topic/2483922"
     },
     {
-      "id": "0a534585c1be",
-      "title": "360宣布已开发出能与Mythos模型相抗衡的国产对标产品: 图龙锋 和 仪天阵",
-      "link": "https://linux.do/t/topic/2469792"
+      "id": "700885173683",
+      "title": "不多说，快抢注agent邮箱去",
+      "link": "https://linux.do/t/topic/2480581"
+    },
+    {
+      "id": "16c3d99c9d4d",
+      "title": "송도 해수욕장",
+      "link": "https://linux.do/t/topic/2483861"
+    },
+    {
+      "id": "38a9f22cd450",
+      "title": "记一次ai引起的安全事故-导致我对DeepSeek一生黑",
+      "link": "https://linux.do/t/topic/2483061"
+    },
+    {
+      "id": "368a1d2313a8",
+      "title": "裁了纯前端三个月，这段时间团队发展如何？",
+      "link": "https://linux.do/t/topic/2484304"
+    },
+    {
+      "id": "f0534e2cc29b",
+      "title": "有多少佬周六来加班了？",
+      "link": "https://linux.do/t/topic/2483228"
     },
     {
       "id": "748df4451f12",
@@ -73,114 +123,64 @@
       "link": "https://linux.do/t/topic/2448069"
     },
     {
-      "id": "001cfe2d7463",
-      "title": "高考出分了 回来感谢佬",
-      "link": "https://linux.do/t/topic/2467503"
+      "id": "eceecdf6fc2c",
+      "title": "Any 今天也太快了吧，蹬疯了",
+      "link": "https://linux.do/t/topic/2483399"
     },
     {
-      "id": "ccb1c590a6fc",
-      "title": "同事炒股入迷耽误工作，该咋办？",
-      "link": "https://linux.do/t/topic/2474911"
+      "id": "bc98bb0f1ac5",
+      "title": "卧槽！GPT-5.6 sol 每秒能达到 750 token",
+      "link": "https://linux.do/t/topic/2485064"
     },
     {
-      "id": "90d7b248a85c",
-      "title": "某个同行，属实是笑了",
-      "link": "https://linux.do/t/topic/2475006"
+      "id": "6afc6b3aab1b",
+      "title": "淘宝竟然可以微信支付了！",
+      "link": "https://linux.do/t/topic/2484309"
     },
     {
-      "id": "62f5ce3d50ec",
-      "title": "今年的第一个南瓜",
-      "link": "https://linux.do/t/topic/2472084"
+      "id": "1b08587dc025",
+      "title": "佬们有什么生活好习惯，可以推荐的么？",
+      "link": "https://linux.do/t/topic/2485271"
     },
     {
-      "id": "788a8ae89ae7",
-      "title": "这GPT5.6前端真牛逼啊，可惜拿不到Fable对比了",
-      "link": "https://linux.do/t/topic/2473475"
+      "id": "ea7b6b5b4b0a",
+      "title": "美国政府将决定谁能使用最新的美国人工智能技术 gpt5.6估计不给用咯",
+      "link": "https://linux.do/t/topic/2485008"
     },
     {
-      "id": "9477714905ac",
-      "title": "【哲のGrok&Gemini】魂兮归来，无限Grok、Gemini重新复活，服务器升级超级大鸡8c32g，kimi、glm预告",
-      "link": "https://linux.do/t/topic/2475508"
+      "id": "395218da2702",
+      "title": "【HelloFree】镜像一切网站",
+      "link": "https://linux.do/t/topic/2483972"
     },
     {
-      "id": "f9ce0fc726ea",
-      "title": "『富可敌国』『高级推广』 上架 海外版本 dreamina-seedance-2-0-mini",
-      "link": "https://linux.do/t/topic/2474937"
+      "id": "788d2f8f24f5",
+      "title": "DeepSeek发布DSpark推测解码框架，DeepSeek-V4单用户生成速度提升60%–85%",
+      "link": "https://linux.do/t/topic/2484694"
     },
     {
-      "id": "8c691699e1ce",
-      "title": "土区开的Plus突然变成Pro 20x了",
-      "link": "https://linux.do/t/topic/2469812"
+      "id": "83a52bb30733",
+      "title": "【开源推广】史上最强 Chrome 浏览器 AI 工作台插件《Browser AI Assistant v3.0.0》 来啦！",
+      "link": "https://linux.do/t/topic/2485039"
     },
     {
-      "id": "d7e02cead667",
-      "title": "朋友想拉我一起开个科技公司，求前景展望。",
-      "link": "https://linux.do/t/topic/2472422"
+      "id": "505aa1874a26",
+      "title": "写了个cursor注册机，Composer 2.5 Fas 能力咋样呀",
+      "link": "https://linux.do/t/topic/2483970"
     },
     {
-      "id": "ec5898fe97c9",
-      "title": "你们会花钱支持豆姐吗？",
-      "link": "https://linux.do/t/topic/2466207"
+      "id": "aff8a801d67b",
+      "title": "第一个属于自己的中转服务搭建完成",
+      "link": "https://linux.do/t/topic/2485095"
     },
     {
-      "id": "c4de7ff98779",
-      "title": "金价已经到870左右了，普通人是否能够入场了",
-      "link": "https://linux.do/t/topic/2472301"
+      "id": "87262c5b165f",
+      "title": "A\\这个公司应该钉在耻辱柱上，害人害己。",
+      "link": "https://linux.do/t/topic/2484043"
     },
     {
-      "id": "d62a9a85f83a",
-      "title": "都这个点了，还有多少人没睡？",
-      "link": "https://linux.do/t/topic/2476734"
-    },
-    {
-      "id": "9d65affc0fcb",
-      "title": "AI时代来了，我越来越怀疑：技术重要，还是业务重要？",
-      "link": "https://linux.do/t/topic/2473699"
-    },
-    {
-      "id": "ceaf70b65907",
-      "title": "GGgrok公益站正式开业！（为了其他佬友的体验，展示关闭注册）",
-      "link": "https://linux.do/t/topic/2475182"
-    },
-    {
-      "id": "1c524ea29416",
-      "title": "感觉公益站的时代要结束了",
-      "link": "https://linux.do/t/topic/2475481"
-    },
-    {
-      "id": "1534db3688f6",
-      "title": "Anthropic 指控阿里巴巴发动大规模“蒸馏攻击”窃取 Claude 能力",
-      "link": "https://linux.do/t/topic/2470153"
-    },
-    {
-      "id": "27a20f7f8508",
-      "title": "关于我喜欢的一个女孩",
-      "link": "https://linux.do/t/topic/2475747"
-    },
-    {
-      "id": "bbd990dfdb94",
-      "title": "如何和女生聊天",
-      "link": "https://linux.do/t/topic/2476624"
-    },
-    {
-      "id": "e83a4c72da7f",
-      "title": "全球编程能力倒退倒退 500 年",
-      "link": "https://linux.do/t/topic/2472724"
-    },
-    {
-      "id": "8ebc15d75548",
-      "title": "Pixel手机使用不负责推荐",
-      "link": "https://linux.do/t/topic/2474381"
-    },
-    {
-      "id": "19778396462d",
-      "title": "GPT-5.6应美国领导人要求分批发布！！！等7月吧！！！",
-      "link": "https://linux.do/t/topic/2476823"
-    },
-    {
-      "id": "a717c03c6afe",
-      "title": "【天才程序员回归】老板站在我工位旁半小时了，问我为什么还不开始敲代码。",
-      "link": "https://linux.do/t/topic/2470728"
+      "id": "8ec102467994",
+      "title": "Vibe coding需要知道的设计术语——布局排版",
+      "link": "https://linux.do/t/topic/2480260"
     }
   ]
 }
