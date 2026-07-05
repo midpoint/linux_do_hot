@@ -1,35 +1,35 @@
 {
   "ids": [
-    "3a044e644538",
-    "2a25c8c3969d",
-    "477aa3b7a9e1",
+    "c32c5c73d42e",
     "d0813461fd0e",
-    "dbd4369c55c3",
-    "bed50785863c",
-    "903b72a568f3",
-    "f49f47e51173",
-    "80d78be48941",
-    "9a76b37801e6",
-    "e6920807b76e",
-    "a9e4634d0874",
-    "aeb7dcd505fa",
-    "5878daeec25a",
-    "e0df4edccfd7",
-    "65ecbc80beb7",
-    "2bab18ecbc2f",
-    "4769d54e188e",
-    "71d3aa871c67",
+    "0e9054c44c5a",
+    "0a60d9cfd7e6",
+    "281bd252ae0c",
     "8e5c8f6d1f58",
-    "07ad27c29f39",
-    "2939513f6973",
     "4061ce72bcdb",
-    "b13dbadf6946",
-    "8ea92f5ed86b",
-    "11ee3680dfe5",
+    "84039e9468b6",
+    "dd91abbeaa2d",
+    "a9e4634d0874",
+    "2939513f6973",
+    "631f254e1d4d",
+    "13a4a1ad941d",
+    "dff57a691068",
     "6d1a88b73c38",
-    "862eadbdecef",
-    "37bd131484f6",
-    "7b55b5514cf1"
+    "69a34227688d",
+    "2a25c8c3969d",
+    "dbd4369c55c3",
+    "5878daeec25a",
+    "dd3fe017ab8a",
+    "a705c45d4969",
+    "719540d72748",
+    "d0eeb6f3a0e4",
+    "20c5be88d8d0",
+    "4353b388b975",
+    "eb7d103753d4",
+    "97689571f9b5",
+    "3a0ca60a520a",
+    "af3db366efd0",
+    "9a76b37801e6"
   ],
   "items": [
     {
@@ -43,6 +43,31 @@
       "link": "https://linux.do/t/topic/482293"
     },
     {
+      "id": "eb7d103753d4",
+      "title": "你们不会周末不出去玩，蹬codex吧",
+      "link": "https://linux.do/t/topic/2525964"
+    },
+    {
+      "id": "dd91abbeaa2d",
+      "title": "『富可敌国』『高级推广』君の星辰 周末限时特惠",
+      "link": "https://linux.do/t/topic/2526651"
+    },
+    {
+      "id": "84039e9468b6",
+      "title": "【交易日志】实战196天，400u到10000u，不过利润回撤65%……",
+      "link": "https://linux.do/t/topic/2527051"
+    },
+    {
+      "id": "3a0ca60a520a",
+      "title": "GPT-5.6下周开放，Gemini 3.5 Pro押后携2M上下文上线！",
+      "link": "https://linux.do/t/topic/2527286"
+    },
+    {
+      "id": "0e9054c44c5a",
+      "title": "君的公益 额度问题",
+      "link": "https://linux.do/t/topic/2527277"
+    },
+    {
       "id": "2a25c8c3969d",
       "title": "100000刀gpt codex，自行注册登录调用，我把倍率调低了",
       "link": "https://linux.do/t/topic/2524464"
@@ -53,9 +78,34 @@
       "link": "https://linux.do/t/topic/2517720"
     },
     {
+      "id": "13a4a1ad941d",
+      "title": "Hlool公益站加入狂欢",
+      "link": "https://linux.do/t/topic/2526795"
+    },
+    {
       "id": "8e5c8f6d1f58",
       "title": "写在阿里全面禁用 Claude Code 之际，A / 终将反噬其身",
       "link": "https://linux.do/t/topic/2520975"
+    },
+    {
+      "id": "97689571f9b5",
+      "title": "AI屎山代码越写越大怎么办。一个简单的程序，js快1M了",
+      "link": "https://linux.do/t/topic/2527092"
+    },
+    {
+      "id": "69a34227688d",
+      "title": "华为手机能买吗？（HUAWEI）nova 15 Ultra 512GB",
+      "link": "https://linux.do/t/topic/2527218"
+    },
+    {
+      "id": "20c5be88d8d0",
+      "title": "其实claude真想封死国人，还有一种更绝的办法",
+      "link": "https://linux.do/t/topic/2526538"
+    },
+    {
+      "id": "0a60d9cfd7e6",
+      "title": "普通人从 0 开始做 A 股量化：先把回测、权限和实盘坑讲清楚",
+      "link": "https://linux.do/t/topic/2526337"
     },
     {
       "id": "6d1a88b73c38",
@@ -63,14 +113,24 @@
       "link": "https://linux.do/t/topic/2511577"
     },
     {
-      "id": "dbd4369c55c3",
-      "title": "100w刀 codex（结束啦~）",
-      "link": "https://linux.do/t/topic/2515814"
+      "id": "719540d72748",
+      "title": "佬们喜欢喝奶茶还是喝咖啡呀？",
+      "link": "https://linux.do/t/topic/2527053"
     },
     {
-      "id": "71d3aa871c67",
-      "title": "ChatGPT已经开始有Codex迹象了？",
-      "link": "https://linux.do/t/topic/2524715"
+      "id": "4353b388b975",
+      "title": "【CHY公益站】GPT系列重新恢复",
+      "link": "https://linux.do/t/topic/2525823"
+    },
+    {
+      "id": "dff57a691068",
+      "title": "周末Codex狂欢中",
+      "link": "https://linux.do/t/topic/2527349"
+    },
+    {
+      "id": "d0eeb6f3a0e4",
+      "title": "手搓k12号池，给大家免费用",
+      "link": "https://linux.do/t/topic/2527208"
     },
     {
       "id": "a9e4634d0874",
@@ -78,99 +138,14 @@
       "link": "https://linux.do/t/topic/2525134"
     },
     {
-      "id": "4061ce72bcdb",
-      "title": "[富可敌国] 福星AI 中转站入驻!",
-      "link": "https://linux.do/t/topic/2525264"
+      "id": "dbd4369c55c3",
+      "title": "100w刀 codex（结束啦~）",
+      "link": "https://linux.do/t/topic/2515814"
     },
     {
-      "id": "e0df4edccfd7",
-      "title": "【伟哥】新站开业",
-      "link": "https://linux.do/t/topic/2522215"
-    },
-    {
-      "id": "11ee3680dfe5",
-      "title": "【富可敌国】「AtlasCode中转」 AI大模型聚合站 | 主做C端长效稳定，售后全程保障 |codex特价低至0.13！IMAGE2免费用！佬友注册评论通通送8刀！",
-      "link": "https://linux.do/t/topic/2522197"
-    },
-    {
-      "id": "37bd131484f6",
-      "title": "为什么这么多人的愿望是买房买车？",
-      "link": "https://linux.do/t/topic/2518373"
-    },
-    {
-      "id": "e6920807b76e",
-      "title": "字节申请“咕咕嘎嘎“等网络梗的著作权",
-      "link": "https://linux.do/t/topic/2524104"
-    },
-    {
-      "id": "4769d54e188e",
-      "title": "新手还在问质量，老手已经开蹬。。",
-      "link": "https://linux.do/t/topic/2521028"
-    },
-    {
-      "id": "80d78be48941",
-      "title": "不要让自己和豆包一样聪明！烧了上百亿才发现！AI时代个人最重要的是要有脑子！",
-      "link": "https://linux.do/t/topic/2525534"
-    },
-    {
-      "id": "bed50785863c",
-      "title": "[富可敌国] 我们在加州搞了个只跑纯血 Claude 的中转（OpusRelay），发点体验金顺便求个反馈",
-      "link": "https://linux.do/t/topic/2515596"
-    },
-    {
-      "id": "aeb7dcd505fa",
-      "title": "OpenAI 的人又在吊胃口！这是在嘲讽 Anthropic 吗？",
-      "link": "https://linux.do/t/topic/2525785"
-    },
-    {
-      "id": "862eadbdecef",
-      "title": "【这个点还有佬在么？】",
-      "link": "https://linux.do/t/topic/2525388"
-    },
-    {
-      "id": "b13dbadf6946",
-      "title": "宝可梦机场之七月免费兑换码猜猜我是谁",
-      "link": "https://linux.do/t/topic/2504318"
-    },
-    {
-      "id": "07ad27c29f39",
-      "title": "【V-API】公益站正式上线|GLM Deepseek….| 【 2026/7/4 20:00 Claude下线】",
-      "link": "https://linux.do/t/topic/2518225"
-    },
-    {
-      "id": "903b72a568f3",
-      "title": "突然发现，去年的这个时候，我们还在用 GPT-o3，AI的发展速度太惊人了",
-      "link": "https://linux.do/t/topic/2523339"
-    },
-    {
-      "id": "65ecbc80beb7",
-      "title": "被媳妇儿拉黑，怎么办？",
-      "link": "https://linux.do/t/topic/2518687"
-    },
-    {
-      "id": "2bab18ecbc2f",
-      "title": "不上交工资就离婚怎么办",
-      "link": "https://linux.do/t/topic/2509592"
-    },
-    {
-      "id": "7b55b5514cf1",
-      "title": "周六休息日，佬们都在干嘛",
-      "link": "https://linux.do/t/topic/2523425"
-    },
-    {
-      "id": "477aa3b7a9e1",
-      "title": "详细的介绍下Hlool公益站的公益优化方式",
-      "link": "https://linux.do/t/topic/2524303"
-    },
-    {
-      "id": "8ea92f5ed86b",
-      "title": "Claude Fable是吧？领导觉得你做的不对，在豆包面前，是龙只能盘着，是虎也得趴着",
-      "link": "https://linux.do/t/topic/2522647"
-    },
-    {
-      "id": "3a044e644538",
-      "title": "公益站又全部阵亡了，我该何去何从",
-      "link": "https://linux.do/t/topic/2522157"
+      "id": "281bd252ae0c",
+      "title": "选猫还是选狗",
+      "link": "https://linux.do/t/topic/2527422"
     },
     {
       "id": "d0813461fd0e",
@@ -178,9 +153,34 @@
       "link": "https://linux.do/t/topic/2525460"
     },
     {
-      "id": "f49f47e51173",
-      "title": "社区里令人印象深刻的三位公益站佬友",
-      "link": "https://linux.do/t/topic/2524967"
+      "id": "c32c5c73d42e",
+      "title": "闲鱼claude max20x拼车，一天就封",
+      "link": "https://linux.do/t/topic/2527264"
+    },
+    {
+      "id": "631f254e1d4d",
+      "title": "佬友们觉得内存会有降下去的时候吗？",
+      "link": "https://linux.do/t/topic/2527129"
+    },
+    {
+      "id": "4061ce72bcdb",
+      "title": "[富可敌国] 福星AI 中转站入驻!",
+      "link": "https://linux.do/t/topic/2525264"
+    },
+    {
+      "id": "a705c45d4969",
+      "title": "转行了兄弟们，去修电动车了",
+      "link": "https://linux.do/t/topic/2527047"
+    },
+    {
+      "id": "af3db366efd0",
+      "title": "双非本硕应届毕业生女生求助",
+      "link": "https://linux.do/t/topic/2527115"
+    },
+    {
+      "id": "dd3fe017ab8a",
+      "title": "做了一个 ESP32-S3 语音输入小模块：按住说话，松手直接把文字输入到电脑",
+      "link": "https://linux.do/t/topic/2526978"
     }
   ]
 }
