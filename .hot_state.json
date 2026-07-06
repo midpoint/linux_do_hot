@@ -1,35 +1,35 @@
 {
   "ids": [
-    "4761d8ed8dd6",
-    "182dafb46daf",
-    "5878daeec25a",
-    "2f381db9a61e",
-    "2b716c0f1294",
-    "67f38bc82ead",
-    "e7dc2be9affe",
-    "7c734582a276",
-    "66195324fc28",
-    "a58f2557fbaa",
-    "dfab164a7edf",
-    "9fc112824aec",
-    "a969c90fafd8",
-    "cc876b55fd3f",
-    "65290e6a034d",
-    "084a2deec92e",
-    "aa4e3eadd956",
-    "c843dce93c4f",
-    "153edb1783d9",
-    "ba5183afd1ad",
-    "bf038c3885a3",
-    "bc0298db3217",
-    "adadb59f3bd2",
     "9a76b37801e6",
+    "dfab164a7edf",
+    "adadb59f3bd2",
+    "bc0298db3217",
+    "bf038c3885a3",
+    "2a25c8c3969d",
+    "78ca7477bce6",
+    "f2c7ffc5b5d3",
+    "59a1acce7da0",
+    "8e5c8f6d1f58",
+    "7f0c2cfbf4ed",
+    "6d1a88b73c38",
+    "182dafb46daf",
     "1532900ab516",
-    "512dc5b640b9",
-    "f557645d3ec4",
+    "2fd8cfd3c820",
+    "d11a1ea6aad5",
+    "5878daeec25a",
+    "c7807d346171",
+    "4761d8ed8dd6",
+    "04a7db032b9f",
+    "e5970b0c9774",
+    "b42c554845f3",
+    "7ecc525d3461",
     "9bc0c497959a",
-    "a57dbeb2766e",
-    "c7807d346171"
+    "084a2deec92e",
+    "f557645d3ec4",
+    "2b716c0f1294",
+    "884fa2b46715",
+    "affcae46b105",
+    "2939513f6973"
   ],
   "items": [
     {
@@ -48,6 +48,36 @@
       "link": "https://linux.do/t/topic/2531703"
     },
     {
+      "id": "e5970b0c9774",
+      "title": "今日战绩3700亿 tokens",
+      "link": "https://linux.do/t/topic/2535125"
+    },
+    {
+      "id": "f2c7ffc5b5d3",
+      "title": "GPT-5.6 Sol 现在在编码方面已经超越了 Fable 5",
+      "link": "https://linux.do/t/topic/2534631"
+    },
+    {
+      "id": "182dafb46daf",
+      "title": "【「无名」公益站】主帖",
+      "link": "https://linux.do/t/topic/2530284"
+    },
+    {
+      "id": "c7807d346171",
+      "title": "服务器要被蹬冒烟了",
+      "link": "https://linux.do/t/topic/2530309"
+    },
+    {
+      "id": "2fd8cfd3c820",
+      "title": "【「无名」公益站】7号开放注册，k12速蹬",
+      "link": "https://linux.do/t/topic/2535167"
+    },
+    {
+      "id": "2939513f6973",
+      "title": "今天这事还得是机房背锅",
+      "link": "https://linux.do/t/topic/2517720"
+    },
+    {
       "id": "084a2deec92e",
       "title": "和女朋友畅想之后生孩子，我感觉自己有点神经质",
       "link": "https://linux.do/t/topic/2532419"
@@ -58,114 +88,14 @@
       "link": "https://linux.do/t/topic/2532813"
     },
     {
-      "id": "aa4e3eadd956",
-      "title": "同学把Gemini当爹",
-      "link": "https://linux.do/t/topic/2532619"
+      "id": "884fa2b46715",
+      "title": "有人有Opus 4.8的慈善众筹吗？很遗憾，我现在买不起这款型号来工作。",
+      "link": "https://linux.do/t/topic/2535632"
     },
     {
-      "id": "182dafb46daf",
-      "title": "【「无名」公益站】主帖",
-      "link": "https://linux.do/t/topic/2530284"
-    },
-    {
-      "id": "e7dc2be9affe",
-      "title": "公司没活，快要失业了",
-      "link": "https://linux.do/t/topic/2532807"
-    },
-    {
-      "id": "dfab164a7edf",
-      "title": "RawChat codex公益站全站额度已提高至三倍！",
-      "link": "https://linux.do/t/topic/2531733"
-    },
-    {
-      "id": "c7807d346171",
-      "title": "服务器要被蹬冒烟了",
-      "link": "https://linux.do/t/topic/2530309"
-    },
-    {
-      "id": "153edb1783d9",
-      "title": "让我大调查一下，佬友喜欢深还是浅？",
-      "link": "https://linux.do/t/topic/2532245"
-    },
-    {
-      "id": "2b716c0f1294",
-      "title": "对于公益站，看广告也可以",
-      "link": "https://linux.do/t/topic/2531854"
-    },
-    {
-      "id": "7c734582a276",
-      "title": "在农村老家躺平4年，我的现状",
-      "link": "https://linux.do/t/topic/2532011"
-    },
-    {
-      "id": "1532900ab516",
-      "title": "我一个50多岁的老程序员，和你们混在一起",
-      "link": "https://linux.do/t/topic/2530452"
-    },
-    {
-      "id": "bf038c3885a3",
-      "title": "祝我生日快乐",
-      "link": "https://linux.do/t/topic/2529673"
-    },
-    {
-      "id": "512dc5b640b9",
-      "title": "树洞，不理解现在的婆媳关系",
-      "link": "https://linux.do/t/topic/2531774"
-    },
-    {
-      "id": "2f381db9a61e",
-      "title": "佬们是当码农好还是帮家里干活好",
-      "link": "https://linux.do/t/topic/2532328"
-    },
-    {
-      "id": "67f38bc82ead",
-      "title": "腾讯混元 Hy3 正式版发布，号称优于GLM 5.1，个别能力接近GLM 5.2",
-      "link": "https://linux.do/t/topic/2533190"
-    },
-    {
-      "id": "9fc112824aec",
-      "title": "分手一整年了，可是还是经常想起她",
-      "link": "https://linux.do/t/topic/2532170"
-    },
-    {
-      "id": "a57dbeb2766e",
-      "title": "领导让我分享ai使用经验",
-      "link": "https://linux.do/t/topic/2533316"
-    },
-    {
-      "id": "66195324fc28",
-      "title": "受害者＋1，以后不要让GPT清理文件",
-      "link": "https://linux.do/t/topic/2532963"
-    },
-    {
-      "id": "adadb59f3bd2",
-      "title": "【CHY公益站】最新可用模型",
-      "link": "https://linux.do/t/topic/2529751"
-    },
-    {
-      "id": "a969c90fafd8",
-      "title": "求好用的记账APP推荐",
-      "link": "https://linux.do/t/topic/2532110"
-    },
-    {
-      "id": "cc876b55fd3f",
-      "title": "lV3跌倒LV2后还能再回来么",
-      "link": "https://linux.do/t/topic/2533115"
-    },
-    {
-      "id": "c843dce93c4f",
-      "title": "说出去都没人信：老板要求全体员工报告副业渠道",
-      "link": "https://linux.do/t/topic/2531503"
-    },
-    {
-      "id": "ba5183afd1ad",
-      "title": "佬们，B站大会员怎么充便宜。",
-      "link": "https://linux.do/t/topic/2533254"
-    },
-    {
-      "id": "4761d8ed8dd6",
-      "title": "儿女财产应该平分吗？",
-      "link": "https://linux.do/t/topic/2530649"
+      "id": "7f0c2cfbf4ed",
+      "title": "自建 Qwen3.6-27B FP8 模型免费开放调用",
+      "link": "https://linux.do/t/topic/2534607"
     },
     {
       "id": "bc0298db3217",
@@ -173,14 +103,84 @@
       "link": "https://linux.do/t/topic/2527651"
     },
     {
-      "id": "65290e6a034d",
-      "title": "如果有一天AI全部崩了，大家还能习惯以前的自己独立开发吗",
-      "link": "https://linux.do/t/topic/2530567"
+      "id": "bf038c3885a3",
+      "title": "祝我生日快乐",
+      "link": "https://linux.do/t/topic/2529673"
     },
     {
-      "id": "a58f2557fbaa",
-      "title": "GPT眼中的你？",
-      "link": "https://linux.do/t/topic/2532772"
+      "id": "7ecc525d3461",
+      "title": "免费帮佬友开 X Premium+ 接龙",
+      "link": "https://linux.do/t/topic/2536118"
+    },
+    {
+      "id": "dfab164a7edf",
+      "title": "RawChat codex公益站全站额度已提高至三倍！",
+      "link": "https://linux.do/t/topic/2531733"
+    },
+    {
+      "id": "1532900ab516",
+      "title": "我一个50多岁的老程序员，和你们混在一起",
+      "link": "https://linux.do/t/topic/2530452"
+    },
+    {
+      "id": "6d1a88b73c38",
+      "title": "君の公益今天不限量供应一天（结束了）",
+      "link": "https://linux.do/t/topic/2511577"
+    },
+    {
+      "id": "8e5c8f6d1f58",
+      "title": "写在阿里全面禁用 Claude Code 之际，A / 终将反噬其身",
+      "link": "https://linux.do/t/topic/2520975"
+    },
+    {
+      "id": "59a1acce7da0",
+      "title": "免费帮佬友开 X Premium+ 回复接龙（3点30分疑似已经被修复）",
+      "link": "https://linux.do/t/topic/2536126"
+    },
+    {
+      "id": "04a7db032b9f",
+      "title": "为什么很多人用codex，但不用codex+IDE呢",
+      "link": "https://linux.do/t/topic/2535318"
+    },
+    {
+      "id": "b42c554845f3",
+      "title": "Skill / MCP 推荐",
+      "link": "https://linux.do/t/topic/2533306"
+    },
+    {
+      "id": "affcae46b105",
+      "title": "【「无名」公益站】试运行帖，主打claude/codex模型的公益站，太热情了大家，明天再开放注册",
+      "link": "https://linux.do/t/topic/2529525"
+    },
+    {
+      "id": "4761d8ed8dd6",
+      "title": "儿女财产应该平分吗？",
+      "link": "https://linux.do/t/topic/2530649"
+    },
+    {
+      "id": "adadb59f3bd2",
+      "title": "【CHY公益站】最新可用模型",
+      "link": "https://linux.do/t/topic/2529751"
+    },
+    {
+      "id": "78ca7477bce6",
+      "title": "腾讯云国内站EdgeOne领取渠道，可领三个",
+      "link": "https://linux.do/t/topic/2534359"
+    },
+    {
+      "id": "d11a1ea6aad5",
+      "title": "有的公益站收了 ldc 突然不做了。。。",
+      "link": "https://linux.do/t/topic/2535079"
+    },
+    {
+      "id": "2b716c0f1294",
+      "title": "对于公益站，看广告也可以",
+      "link": "https://linux.do/t/topic/2531854"
+    },
+    {
+      "id": "2a25c8c3969d",
+      "title": "100000刀gpt codex，自行注册登录调用，我把倍率调低了",
+      "link": "https://linux.do/t/topic/2524464"
     }
   ]
 }
